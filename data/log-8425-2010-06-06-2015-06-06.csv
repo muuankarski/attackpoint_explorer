@@ -1,0 +1,1191 @@
+date,hour,activity,workout,keywords,time,i0,i1,i2,i3,i4,i5,distance(km),climb(m),intensity,t-intensity,ahr,mhr,controls,spiked,rhr,sleep,weight(kg),injured,sick,restday,shoes,route,description,private note
+2010-11-01,23,Running,,,00:45:00,,,,00:45:00,,,8.0,,3.0,,,,,,,,,,,,Brooks lenkkarit,,,
+2010-11-02,,Yoga,,,01:15:00,,,,01:15:00,,,,,3.0,,,,,,,,,,,,,,,
+2010-11-03,21,Running,,,01:10:00,,,,01:10:00,,,14.6,,3.0,,,,,,,,,,,,Brooks lenkkarit,,,
+2010-11-05,20,Running,,,00:20:00,,00:20:00,,,,,4.0,,1.0,,,,,,,,,,,,Brooks lenkkarit,,,
+2010-11-06,7,Yoga,,,00:10:00,,00:10:00,,,,,,,1.0,,,,,,,,,,,,barefoot - avojaloin,,,
+2010-11-06,10,Orienteering,,,02:05:00,,,,,,02:05:00,17.0,,5.0,,,,,,,,,,,,VJ Bold,,"Raatojuoksu 15km. Alle lämmittelyt lähtöpaikalle. Hyvin meni siihen nähden että olen huonossa kunnossa ja suunnistanut vähän.
+Puolessa välissä nitkautin alaselkää hypätessäni jyrkänteeltä. Vähän vaivasi siitä eteenpäni. Aika poikki olin maalissa ja viimeiset kolme kilsaa juoksu oli yhtä lyllerrystä.",
+2010-11-07,,Note,,,,,,,,,,,,,,,,,,,,,1,,1,,,"Joka paikka kipeänä raatojuoksun jäljiltä. Etenkin alaselkä on kipeä, jopa niin että yöllä oli vaikeuksia nukkua. Täytyy ottaa iisisti pari päivää ja katsoa meneekö vaiva ohi.",
+2010-11-08,,Note,,,,,,,,,,,,,,,,,,,,,1,,,,,Selkä on kipiä,
+2010-11-09,,Note,,,,,,,,,,,,,,,,,,,,,1,,,,,Selkä on kipiä,
+2010-11-10,,Note,,,,,,,,,,,,,,,,,,,,,1,,,,,Selkä on kipiä,
+2010-11-11,,Note,,,,,,,,,,,,,,,,,,,,,1,,,,,Selkä on kipiä,
+2010-11-11,,Note,,,,,,,,,,,,,,,,,,,,,1,,,,,Selkä on kipiä,
+2010-11-12,,Note,,,,,,,,,,,,,,,,,,,,,1,,,,,"Selkä on kipiä. Tuumasin jo lähteä vähän lenkille, mutta olin myös väsynyt. ",
+2010-11-13,,cycling,,,01:40:00,,,,01:40:00,,,34.0,,3.0,,,,,,,,,,,,Bike: Rossano_9speed,,,
+2010-11-14,21,Running,warm up/down,,00:25:00,,,00:25:00,,,,5.0,,2.0,,,,,,,,,,,,Brooks lenkkarit,,Iltalenkki,
+2010-11-14,22,kettlebell,,,00:05:00,,,,,00:05:00,,,,4.0,,,,,,,,,,,,,,Vähän heiluttelin että tarkeni suihkuun,
+2010-11-16,19,Yoga,,,01:10:00,,,,01:10:00,,,,,3.0,,,,,,,,,,,,barefoot - avojaloin,,Selkä oli yllättävän hyvä. Opettajaa taas nauratti.,
+2010-11-17,22,Running,,,00:25:00,,,00:25:00,,,,5.0,,2.0,,,,,,,,,,,,Brooks lenkkarit,,,
+2010-11-18,,Note,,,,,,,,,,,,,,,,,,,,,,,,,,Verenluovutus. hb151. vähän laihaa.,
+2010-11-20,8,Running,,,00:35:00,,,00:35:00,,,,7.0,,2.0,,,,,,,,,,,,Brooks lenkkarit,,Iidesjärven ympäri,
+2010-11-21,8,Running,,,00:40:00,,,,00:40:00,,,8.0,,3.0,,,,,,,,,,,,Brooks lenkkarit,,Iidesjärven ympäri ja vähän hautuumaata.,
+2010-11-21,19,Yoga,,,01:10:00,,,,01:10:00,,,,,3.0,,,,,,,,,,,,barefoot - avojaloin,,Taas jouduin opettajan silmätikuksi,
+2010-11-24,,Note,,,,,,,,,,,,,,,,,,,,,,,,,,"Töitä ja yskää ja lumisadetta. Ei ehdi lenkille, mutta fillarilla on tullut kaahailtua ja työpaikalla heiluteltua kahvakuulaa. Pienistä puroista syntyy suuri puro, vai miten se menikään.",
+2010-11-25,18,Yoga,,,01:10:00,,,,01:10:00,,,,,3.0,,,,,,,,,,,,barefoot - avojaloin,,Alkaa vähitellen ruoto taipua.,
+2010-11-27,15,Running,,,01:45:00,,,,01:45:00,,,17.0,,3.0,,,,,,,,,,,,Brooks lenkkarit,,"Hyvin kulki, vaikka hitaasti.",
+2010-11-29,17,Yoga,,,01:15:00,,,,01:15:00,,,,,3.0,,,,,,,,,,,,barefoot - avojaloin,,,
+2010-12-01,19,Running,,,00:50:00,,,,00:50:00,,,11.0,,3.0,,,,,,,,,,,,Brooks lenkkarit,,Vedin vähän reippaammin kun kerran kulkee,
+2010-12-02,18,Yoga,,,01:15:00,,,,01:15:00,,,,,3.0,,,,,,,,,,,,barefoot - avojaloin,,Vedin vähän voimakkaammin. Tehot samalla tasolla kuin tukkimessällä kun nuoskalunta puoleen reiteen.,
+2010-12-05,14,games,,sählyä ja salfutia,00:35:00,,,,00:35:00,,,,,3.0,,,,,,,,,,,,,,,
+2010-12-05,15,Yoga,,,00:30:00,,,00:30:00,,,,,,2.0,,,,,,,,,,,,barefoot - avojaloin,,Urheilutalon näyttämöllä vähän vetun poikain kans voimisteltiin,
+2010-12-09,18,Yoga,,,01:15:00,,,,01:15:00,,,,,3.0,,,,,,,,,,,,barefoot - avojaloin,,,
+2010-12-18,,cycling,,,00:30:00,,,00:30:00,,,,5.0,,2.0,,,,,,,,,,,,,,Bangkokissa kruisailua,
+2010-12-19,,cycling,,,01:30:00,,,,01:30:00,,,45.0,,3.0,,,,,,,,,,,,,,Aamuajelu Chunphonista satamaan,
+2010-12-20,,Running,long,,03:00:00,,,03:00:00,,,,15.0,,2.0,,,,,,,,,,,,,,Pkemminkin kävelyä Ko Taon saaren toiselle puolelle ja takaisin,
+2010-12-21,,cycling,,,01:10:00,,,01:10:00,,,,26.0,,2.0,,,,,,,,,,,,,,Ko Samuilla satamasta Ban Lamaille,
+2010-12-22,,cycling,,,03:20:00,,,,,03:20:00,,,,4.0,,,,,,,,,,,,,,Aika raakaa vetelyä Ko Samuin vuoristoteillä. ,
+2010-12-23,,cycling,,,02:50:00,,,02:50:00,,,,60.0,,2.0,,,,,,,,,,,,,,Samuilta Don Sakiin ja Aava resortiin. Rullailua.,
+2010-12-24,,cycling,,,04:20:00,,,04:20:00,,,,85.0,,2.0,,,,,,,,,,,,,,Jouluaattona pitkä ajo Khao Nanin kansallispuistoon,
+2010-12-25,,cycling,,,04:40:00,,,04:40:00,,,,90.0,,2.0,,,,,,,,,,,,,,Joulupäivän Khiriwongiin. Hyvää rullailua,
+2010-12-25,,cycling,,,04:20:00,,,,04:20:00,,,90.0,,3.0,,,,,,,,,,,,,,Pitkä ajo Khiriwongiin joulupäivänä,
+2010-12-26,,Running,,,03:10:00,,,,03:10:00,,,15.0,,3.0,,,,,,,,,,,,,,Kävelyä/juoksua Khao Luang vuorelle. Noin reiluun tonniin ja takaisin reppu selässä. ,
+2010-12-27,,cycling,,,04:20:00,,,,04:20:00,,,85.0,,3.0,,,,,,,,,,,,,,Khiriwongista Chandin kautta Thong Yangiin,
+2010-12-28,,cycling,,,05:00:00,,,05:00:00,,,,85.0,,2.0,,,,,,,,,,,,,,Pitkä pätkä Krabiin. Tasasta jyristystä. Välillä hiittejä että saa pojista kuvia.,
+2010-12-29,,cycling,,,04:10:00,,,04:10:00,,,,70.0,,2.0,,,,,,,,,,,,,,Krabista Ko Yao Noille ja Yaille. Harhailua ympäri saaria.,
+2010-12-31,,Running,,,00:35:00,,,,00:35:00,,,6.0,,3.0,,,,,,,,,,,,,,Phuketissa juoksua jyrkillä teillä ja viidakkopoluilla. Ei kulje.,
+2011-01-07,,cycling,,,01:30:00,,,,01:30:00,,,30.0,,3.0,,,,,,,,,,,,,,"Ilta-ajelu Bangkokissa. Tehot alhaalla, fiilis ylhäällä",
+2011-01-14,,Running,,,00:20:00,,,,00:20:00,,,3.0,,3.0,,,,,,,,,,,,Brooks lenkkarit,,Aamulenkki. Eka juoksu sitten reissun ja sairastelun. Ja siltä tuntui.,
+2011-01-16,20,Running,,,00:50:00,,,,00:50:00,,,9.0,,3.0,,,,,,,,,,,,Brooks lenkkarit,,Varovaista juoksua lumisateessa. Yllättävän hyvin kulki. Täytyy varovaisesti aloittaa liikkuminen.,
+2011-01-17,19,Yoga,,,01:05:00,,,,01:05:00,,,,,3.0,,,,,,,,,,,,barefoot - avojaloin,,Kuukauden tauon jälkeen kunnon sarja. Mukavasti meni. Lihaskipuja odotellessa.,
+2011-01-19,,Note,,,,,,,,,,,,,,,,,,,,,,,,,,Ankarat lihaskivut. Miten näin pienet lihakset voi olla näin kipiät?,
+2011-01-20,,Running,,,01:05:00,,,,01:05:00,,,11.0,,3.0,,,,,,,,,,,,Brooks lenkkarit,,Takareidet edelleen tosi kipiät tiistain joogasta. Lisäksi sippasin puolen tunnin jälkeen. 10 minuuttia kävelyä ja taas kulku vaan parani loppua kohden,
+2011-01-22,17,Running,,,01:35:00,,,,01:35:00,,,19.5,,3.0,,,,,,,,,,,,Brooks lenkkarit,,"Helsingin säät ovat juoksuharrastusta vastaan. Tänään kevyenliikenteenväylien muhkuraisen jää päälle satoi 8 senttiä pakkaslunta. Tavoite oli juosta Viikin ja Herttoniemen kautta ympäri 20 kilsaa. Eksyin Herttoniemessä pahasti (kiersin kehän). Metroasemalta itäväylän laidan pyörätie oli sekoitus suolaista muhjua ja pakkaslunta. Kello oli jo paljon ja otin metron kalasatamaan. Kestoltaan hyvä lenkki, vaikka liukastelu voi olla pahaksi askeleelle.",
+2011-01-23,19,Running,,,00:20:00,,00:20:00,,,,,3.0,,1.0,,,,,,,,,,,,,,Hölkät ladulle ja takas,
+2011-01-23,20,cross-country skiing,,,00:55:00,,,,00:55:00,,,13.0,,3.0,,,,,,,,,,,,,,Kauden eka hiihtolenkki. Luisteluhiihtoa. Hyvin kulki vaikka irtokoiria latu täynnä. Seuraava lenkki pertsaa. Mukaan pitovoidetta ja pippurisumutetta.,
+2011-01-24,19,Yoga,,,01:10:00,,,,01:10:00,,,,,3.0,,,,,,,,,,,,barefoot - avojaloin,,"Viikonlopun harjoitteista paikat vähän kipeänä, etenkin varvas lauantain lumijuoksusta. Silti hyvä harjoitus.",
+2011-01-26,20,Running,,,01:21:00,,,,01:21:00,,,18.0,,3.0,,,,,,,,,,,,Brooks lenkkarit,,Lauantain juoksulenkki uusintana. Nyt en eksynyt enkä tullut metrolla. Takareidet  joogasta kipeänä vielä ja pakkanen kiristyi -19 lenkin aikana ja vähän paleli. Pistelin sopivaa vauhtia.,
+2011-01-28,20,Yoga,,,01:10:00,,,,01:10:00,,,,,3.0,,,,,,,,,,,,barefoot - avojaloin,,Oma setti mysoressa. Oli muita notkeampia.,
+2011-01-29,11,Running,,,00:20:00,,,,00:20:00,,,3.0,,3.0,,,,,,,,,,,,,,Lenkki larulle,
+2011-01-29,12,cross-country skiing,,,01:10:00,,,,01:10:00,,,17.0,,3.0,,,,,,,,,,,,,,Vöyrilla sato vettä. Stadissa pakkaskeli. Luisteluhiihto loppu tähän. Joutavaa. Joogasta jalat tohjona. Huomenna kelin salliessa pertsaa.,
+2011-01-30,14,cross-country skiing,,,01:40:00,,,,01:40:00,,,25.0,,3.0,,,,,,,,,,,,,,"Perinteisen tyylin hiihtoa. Missä ladut ei ollut tuullu umpeen ne oli täynnä risuja ja männynkäpyjä. Pitoteippiin ne tarttu ja  loppu luisto. Muutenkin oli hankalaa, niin vielä tämä. Lopussa kädet oli niin poikki, etten ollut jaksaa kantaa sauvoja. Onneksi oli excelin täyshiilikuituavantit. Nivuskipuja odotellessa.",
+2011-01-31,20,Yoga,,,01:10:00,,,,01:10:00,,,,,3.0,,,,,,,9.00,,,,,barefoot - avojaloin,,"Nivuskipu yltyi päivän mittaan, mutta joogavaatteet repussa veivät iltaharjoitukseen. Tietyt suunnat kireitä, muuten kevään paras harjoitus.",
+2011-02-03,18,Yoga,,,01:15:00,,,,01:15:00,,,,,3.0,,,,,,,9.00,,,,,barefoot - avojaloin,,"Pari päivää meni nivuskipujen kanssa. Lipsuva pitkä pertsa (kauden eka) ja perään tiukka jooga on sellanen combo, ettei hetkeen tsaivailla. Työmatka tietty fillarilla täysiä ja taukojumpat kahvakuulalla. Mut niitä ei merkkailla kun tehdään kauluspaidassa.
+Niin, hyvä joogaharjoitus. Mieli vaelsi, kroppa oli kuin veistos.",
+2011-02-05,,Running,,,00:25:00,,,,00:25:00,,,5.0,,3.0,,,,,,,8.00,,,,,Brooks lenkkarit,,aamulenkki törkeän liukkailla teillä,
+2011-02-05,,Yoga,,,00:15:00,,,00:15:00,,,,,,2.0,,,,,,,,,,,,barefoot - avojaloin,,Aurinkotervehdyksiä lenkin päälle,
+2011-02-06,,Note,,,,,,,,,,,,,,,,,,,4.00,,,,,,,,
+2011-02-07,16,kettlebell,,,00:45:00,,,,,00:45:00,,,,4.0,,,,,,,9.00,,,,,,,Painonnostoharjoittelua Munkkiniemessä. Tekniikkaharjoituksia kahvakuulailuun ja painonnostoliikkeissä. Ei mitään kyykkyjä vaan rinnallevetoja ja tempauksia. Täytynee ottaa liikkuvuusharjoituksina mukaan ohjelmaan. Tempaukset 32kg:n kahvakuulalla olivat teknisesti epäonnistuneita,
+2011-02-09,19,Running,,,01:15:00,,,,01:15:00,,,16.0,,3.0,,,,,,,9.00,,,,,Brooks lenkkarit,,Kestävyysjuoksua. Painonnostosta perse jumissa. Haittasi liukkailla. Muuten vetävää menoa,
+2011-02-10,17,Yoga,,,01:25:00,,,,01:25:00,,,,,3.0,,,,,,,8.00,,,,,barefoot - avojaloin,,Vähän perusteellisempi veto. Uusia mooveja ja opettaja väänsi. Huomenna kipiänä.,
+2011-02-10,19,cycling,,,01:15:00,,,,01:15:00,,,25.0,,3.0,,,,,,,8.00,,,,,Bike: Rossano_9speed,,Päivän ajelut. Kannelmäessä palaverisssa kävin ni merkkasin. Aggressiivista tykitystä koko ajan.,
+2011-02-11,,Running,,,00:25:00,00:25:00,,,,,,4.0,,0.0,,,,,,,9.00,,,,,Brooks lenkkarit,,iiltahumputtelu,
+2011-02-12,13,Running,,,01:30:00,,,,01:30:00,,,18.0,,3.0,,,,,,,8.00,,,,,Brooks lenkkarit,,kestävyysjuoksu. viimenen kilsa uimahallille iso reppu seläsä. kulkeehan se. Uintia kilsa päälle. Vedin niin hiljaa ettei viissi merkitä. pitäis avata uus laji eikä sitä kuitenkaan tuu harrastettua.,
+2011-02-13,20,foamroller,,,00:00:35,,,00:00:35,,,,,,2.0,,,,,,,8.00,,,,,,,"Aloitin rullailun. Alle kaks kilsaa juoksua ja sitten uutisvuodon verran rullailua. Kyllä kävi kipiää. Aiemmin päivällä kolmen tunnin kävely,muttei niitä lasketa. Aattelin silti kirjata tänne.",
+2011-02-14,19,Yoga,,,01:10:00,,,,01:10:00,,,,,3.0,,,,,,,9.00,,,,,Brooks lenkkarit,,Pakkaspäivän jooga. Taisi olla salilla vähän viileämpi ku ei tullu yhtä hiki. Samoin venyvyys oli hivenen heikkoa. Fillarilla tuli enää harva vastaan.,
+2011-02-15,,cycling,,,01:05:00,,,,,01:05:00,,22.0,,4.0,,,,,,,8.00,,,,,Bike: Rossano_9speed,,"Kun muut lomailee, niin täytyy kirjailla näitä päivittäisiä pyöräajeluja. Kolme kertaa paita märäksi fillarilla. Välissä treenit Pitäjänmäessä. Laulua ei viitti laittaa lajiksi vaikka keuhkoihin ottaakin.",
+2011-02-17,18,Yoga,,,01:15:00,,,,01:15:00,,,,,3.0,,,,,,,8.00,,,,,barefoot - avojaloin,,"Meno oli jäykempää, johtunee kuupäivästä. <http://www.astanga.fi/kuu/> Moni asento jäi puolitiehen. Suunnistajat eivät taida ottaa tällaisia asioita  juurikaan harjoittelussaan huomioon.",
+2011-02-18,,Note,,,,,,,,,,,,,,,,,,,8.00,,,,,,,,
+2011-02-19,15,Running,,,01:26:00,,,,,01:26:00,,19.0,,4.0,,,,,,,9.00,,,,,Brooks lenkkarit,,"Kestävyysjuoksua peruslenkin http://maps.google.fi/maps/ms?ie=UTF8&hl=en&oe=UTF8&msa=0&msid=207760083899032652217.00049ac49ff0a043ef170&z=12 verran. Aikaisempi mittaus oli kilsan lyhyt, joten heitin nyt puoltoista kilsaa lisää ja paransin vähän vauhtia (intensity nyt 4). Pohkeissa tuntui jo ekan kympin jälkeen ja perse oli jäässä koko matkan. Loppua kohden kolotti vähän joka paikkaa, tuskallista olisi ollut jatkaa. Saattoi edellisillan vietto vähän painaa.. Alussa -16 palatessa -18. Liukasta on.",
+2011-02-20,17,Yoga,,,01:15:00,,,,01:15:00,,,,,3.0,,,,,,,9.00,,,,,barefoot - avojaloin,,"Kroppa tuntui jumiselta eilisen juoksun jälkeen, mutta alkoi sulaa heti alusta. Hyvä rankka harjoitus. Ois se urheilu heleppoa jos kunto nousis vaan pitkillä kovilla juoksulenkeillä.",
+2011-02-23,,Yoga,,,01:15:00,,,,01:15:00,,,,,3.0,,,,,,,10.00,,,,,barefoot - avojaloin,,Jooga. Huono harjotus. Jäykkä mieli ja kroppa.,
+2011-02-24,,Running,,,00:15:00,,00:15:00,,,,,2.0,,1.0,,,,,,,8.00,,1,,,Brooks lenkkarit,,"Eka juoksu sitten lauantain pitkän lenkin. Silloin lenkin loppuvaiheessa oikean polven alapuolella, pohjeluun ja sääriluun nivelessä tuntui kipua. Haittasi kävelyä illalla, mutta häipyi. Pyöräily ja jooga ja normaali kävely ollut täysin kivutonta. Nyt juoksua 30 metriä ja armoton kipu jalkaan. Se on juoksutaukoa ja ""injured"".",
+2011-02-26,,Yoga,,,00:20:00,,00:20:00,,,,,,,1.0,,,,,,,9.00,,,,,barefoot - avojaloin,,"aamujoogaa kotona. ei siitä mitään tullu.
+
+Illalla Kotiharjun sauna. Kaks tuntia. Vois melkein laittaa kun harvoin tulee käytyä lihashuoltona varmasti toimii ja hiki tulee. Ja kilpaurheilua se saunominenkin on.",
+2011-02-27,8,Yoga,,,01:10:00,,,,01:10:00,,,,,3.0,,,,,,,7.50,,,,,barefoot - avojaloin,,Aamun mysore salilla. Olipa kuin kala kuivalla maalla. Tästä pitää ottaa tapa. Parina aamuna viikolla. Aloitus on 05.30-07.00. Huh.,
+2011-02-27,,cycling,,,00:55:00,,,,00:55:00,,,22.0,,3.0,,,,,,,,,,,,Bike: Rossano-fixed gear42*16,,"Puolasin uuden takakiekon vanhaan fiksinapaan, heitin vapaarattaisen syrjään, samoin vaihteet ja takaa jarrut.Alkaa voimaharjoittelu. Välitys 42*16. 
+
+Lenkki meni auringonlaskun aikaan, alko jo viluttaa ja varpaat kylmetty tuossa ajassa. Hyvä lenkki muuten. Autokaistoja enimmäkseen kieli vyön alla.",
+2011-02-27,16,cycling,,,00:00:55,,,,00:00:55,,,22.0,,3.0,,,,,,,,,,,,Bike: Rossano-fixed gear42*16,,"Puolasin uuden takakiekon vanhaan fiksinapaan, heitin vapaarattaisen syrjään, samoin vaihteet ja takaa jarrut.Alkaa voimaharjoittelu. Välitys 42*16. 
+
+Lenkki meni auringonlaskun aikaan, alko jo viluttaa ja varpaat kylmetty tuossa ajassa. Hyvä lenkki muuten. Autokaistoja enimmäkseen kieli vyön alla.",
+2011-03-01,7,Yoga,,,01:10:00,,,,01:10:00,,,,,3.0,,,,,,,7.00,,,,,barefoot - avojaloin,,mysore aamulla. Siinä on tekemisen meininkiä. Niskan seutua kiristää ja niska-hartiaseisonnan jälkeiset jutut jäi tekemättä. Muuten jo yllättävän joustavaa! Hieno fiilis olla yhdeksältä töissä kun on jo vuodattanut kaks litraa hikeä.,
+2011-03-02,19,Running,,,00:20:00,,,00:20:00,,,,3.0,,2.0,,,,,,,7.50,,1,,,Brooks lenkkarit,,"No, oli aika kokeilla juoksua. Eka kilsa kivuitta, mutta sitten iski pakotus. Ihme vaiva. Hetken kun käveli, niin aina pystyi juosta sata metriä kivutta. Ei tunnu mitenkään pyöräillessä, portaissa, joogassa. Täytyy syödä lisää buranaa ja heittää hiihdoksi hetkeksi.",
+2011-03-03,7,Yoga,,,01:15:00,,,,01:15:00,,,,,3.0,,,,,,,8.00,,,,,barefoot - avojaloin,,Aamujooga. Ihan mahtavata! Niskaa kiristää ja samoin oikeata iskiasta siltaharjoituksessa.,
+2011-03-04,,cycling,,,00:50:00,,,,,00:50:00,,21.0,,4.0,,,,,,,7.00,,,,,Bike: Rossano-fixed gear42*16,,Tiukka lenkki räntäsateessa jäisillä teillä. Kuntoilija olisi jäänyt kotiin sohvalle.,
+2011-03-05,9,Yoga,,,01:15:00,,,,01:15:00,,,,,3.0,,,,,,,7.50,,,,,barefoot - avojaloin,,"Aamujoogaa Annankadulla. Kroppa oli mukana, mutta mieli ei. Meni vähän väkiseksi, mutta mahtava olo jälkeen.",
+2011-03-06,19,cross-country skiing,,,01:10:00,,,,01:10:00,,,12.0,,3.0,,,,,,,9.00,,,,,xc-ski - skating,,"Hiihtoa pitkästä aikaa. Pimeillä laduilla mukava vedellä skeittiä. Mukavaa koska ei koiria joka mutkassa. Hyvin kulki, täytyy ottaa ohjelmaan kun jalka ei tykkää juoksemisesta.",
+2011-03-06,18,Running,,,00:00:15,,,,00:00:15,,,3.0,,3.0,,,,,,,,,1,,,,,Juoksut ladulle ja takas. Vähän palatessa tuntui taas jalassa. Outo kipu,
+2011-03-07,8,Yoga,,,01:10:00,,,,01:10:00,,,,,3.0,,,,,,,7.00,,,,,barefoot - avojaloin,,"Joogaa Annankadulla. Hiihto tuntui vähän etenkin hartioissa, mutta muuten aika joustava. Sain ekaa kertaa takaperinkuperkeikan ilman avustusta. Kolmen vuoden intensiivisen harjoittelun jälkeen.",
+2011-03-09,7,Yoga,,,01:15:00,,,,01:15:00,,,,,3.0,,,,,,,7.00,,,,,barefoot - avojaloin,,"Aamujooga. Oli vähän vaikeuksia herätä ja uni oli huonoa. Voimistelu sen mukaista, mutta olo jälkeenpäin silti aika mahtava.",
+2011-03-09,19,Running,,,00:20:00,,,00:20:00,,,,4.0,,2.0,,,,,,,,,1,,,Brooks lenkkarit,,"Ekat kolme kilsaa tuntui että nyt on jalka vihdoin kunnossa ja koko kroppa oli puolet kengurua ja toinen gasellia. Miltei kotitalon jo näkyessä alkoi kolottaa ja sadan metrin matkalla taas äityi melko pahaksi. Kyllä sillä maaliian asti juoksi, mutta pidempää ei olisi viitsinyt. Ihme vaiva.",
+2011-03-09,20,foamroller,,,00:25:00,,00:25:00,,,,,,,1.0,,,,,,,,,,,,,,"Rullailua juoksun päätteeksi. Teoria rullailun ja jalkavaivan yhteydestä sai tukea. Pohkeita runnoessa juuri kipukohdassa (jalan yläpuolella) tuntui kipua ja natinaa. Eli rajusti lisää rullailua ja kyllä se siitä ajan kanssa rauhoittuu. Billnäsin keskimatkan perumiseen on kaksi viikkoa aikaa, joten aikaa on.",
+2011-03-10,19,cycling,,,00:45:00,,,,00:45:00,,,16.0,,3.0,,,,,,,8.00,,,,,,,Kotia töistä kiertotietä. Pujottelin autojen ohi sellaista 45-55km/h valtaosan matkasta.,
+2011-03-11,7,Yoga,,,01:15:00,,,,01:15:00,,,,,3.0,,,,,,,7.00,,,,,barefoot - avojaloin,,Aamujoogaa Kalliossa. Tosijoogeilla perjantain harjoitus päättää sunnuntaina alkavan treeniviikon ja on aina ankein ja kankein. Mulla oli sama juttu. Mutta tulipahan tehtyä,
+2011-03-12,11,cross-country skiing,,,02:05:00,,,,02:05:00,,,30.0,,3.0,,,,,,,8.00,,,,,xc-ski - skating,,Arabiasta jokivartta Haltialaan ja Paloheinän seiska päälle. Vesikeli ja tälli oli karkean. Imi. Muuten yhtä rankkaa ku simun pelaaminen. Tässä vaan sippaa ku ei voi samalla syyä sipsejä. Huomenna lisää.,
+2011-03-13,16,cross-country skiing,,,01:20:00,,,,01:20:00,,,22.5,,3.0,,,,,,,8.00,,,,,xc-ski - skating,,Taas hiihtämässä. Sata kilsaa rikki. Eilinen lenkki ja illan menot vähän paino. Meno kuitenkin parani kunnes kolmen lenkin jälkeen armoton nälkä. Lounas unohtu ku tein vetun sivuja. Kioski oli kiinni ja pakko oli hypätä bussiin. ,
+2011-03-13,21,foamroller,,,00:20:00,,00:20:00,,,,,,,1.0,,,,,,,,,1,,,,,Rullailua hiihtolenkin päätteeksi. Kyllä käy kipiää.,
+2011-03-14,17,Yoga,,,01:15:00,,,,01:15:00,,,,,3.0,,,,,,,7.00,,,,,barefoot - avojaloin,,Iltajoogaa. Aamujooga on tepsinyt kun senttejä on tullut lisää ja paljon. Siistiä!,
+2011-03-15,,cycling,,,00:55:00,,,,00:55:00,,,23.0,,3.0,,,,,,,8.50,,,,,Bike: Rossano-fixed gear42*16,,Normaalien päivittäisajelujen päälle 20 kilsaa pitäjänmäkeen ja takas. Siinä välissä kuorolaulua niin että hiki virtas.,
+2011-03-16,7,Yoga,,,01:10:00,,,,01:10:00,,,,,3.0,,,,,,,6.50,,,,,barefoot - avojaloin,,Taas pudottiin maan pinnalle. Varpaat oli senttiä 15 kauempana kuin maanantaina ja joka paikkaa vähän kolotti. Mutta sinnikkäästi vaan vein harjotuksen loppuun. Kyllä tämä vielä lähivuosina palkitaan ja tietysti heti treenin jälkeen ihan mahtava olo.,
+2011-03-17,20,cross-country skiing,,,01:23:00,,,,,01:23:00,,26.0,,4.0,,,,,,,8.50,,,,,xc-ski - skating,,"Meni kaheksaan ennen kuin pääsin ladulle, mutta sitten olikin tilaa päästellä. 3*7,5km ja kerran 3. Eka 23min, toka 24 ja kolmas hissutellen 26 ja loppuun vielä kolmonen ja vähän lisää. Lentokeli ja hyvin jyrsitty rata. Saas nähdä miten lähtee jooga aamulla.",
+2011-03-18,16,Yoga,,,01:15:00,,,,01:15:00,,,,,3.0,,,,,,,5.00,,,,,barefoot - avojaloin,,Ei pystynyt aamulla joogaan kun tärisin hiihtolenkin jälkeen jonnekin aamukolmeen sängyssä. Otti terveyden päälle. Multa iltapäivällä hyvä harjoitus. Helppo lähteä laulamaan viikonlopuksi.,
+2011-03-20,,Note,,,,,,,,,,,,,,,,,,,7.00,,,,,,,"Ois ollu hirveä hinku lenkille, mutta pidin pääni enkä lähtenyt. Aamulla joogaan ja toivottavasti juoksuharjoittelua mukaan kuvioihin ensi viikolla",
+2011-03-21,7,Yoga,,,01:15:00,,,,01:15:00,,,,,3.0,,,,,,,7.00,,,,,barefoot - avojaloin,,Aamujoogaaa. Niin se vaan kuorolaulu jäykistää. Lapaluun takaa niksahti ja nyt joutuu pää vinossa kattoa koneen ruutua. Muuten hyvä harjoitus. Herääminen helvettiä.,
+2011-03-21,20,Running,,,00:20:00,,,,00:20:00,,,4.0,,3.0,,,,,,,,,1,,,Brooks lenkkarit,,Kyllä se jalka vaan tuli kipeeksi ihan sata metriä kotiovelta (palatessa). Mitähän tähän keksis? Täytyy nukkua yön yli ja tehdä suunnitelma.,
+2011-03-23,,Yoga,,,01:15:00,,,,01:15:00,,,,,3.0,,,,,,,7.50,,,,,barefoot - avojaloin,,"Maanantaina niskahtanut selkä vaivasi vielä illalla, mutta joogassa ei ollut haittaa. Herääminen oli hankalaa ja vähän alavire. Mut perussetti 1.15 vääntöä ja rentoutukset päälle.",
+2011-03-25,7,Yoga,,,01:20:00,,,,01:20:00,,,,,3.0,,,,,,,6.50,,,,,barefoot - avojaloin,,"Ihan loistava harjoitus. Aamujoustoja alkaa löytymään ja hemmetin energinen olo. Nyt kovaa hiihtoa vkonloppu ja maanantaina katsotaan miten on paikat jumissa.
+Ja on tässä tullut ajeltua fillarilla vähän normaalia pidempiä siivuja TÄYSIÄ joka päivä, että tehoja on ollut myös hengitys- ja verenkierron puolella. Niin on pitkiä päiviä työmaalla että sinne hierontaan ei taho kerjetä.",
+2011-03-26,18,cross-country skiing,,,01:20:00,,,,01:20:00,,,20.0,,3.0,,,,,,,9.00,,,,,xc-ski - skating,,"Ladun kunnolle oli kovat odotukset, mutta jäistä ja liukasta oli. Eilinen jooga tuntui kintereissä ja horjuminen kävi hermoille. Jätin leikin kesken ja pelaan simua puol tuntia illalla.",
+2011-03-27,,Note,,,,,,,,,,,,,,,,,,,7.00,,1,,,,,"Sellanen kuuden tunnin kävelyretki, mutta ei vauhti oli enemmän rasvaa muodostavaa kuin sitä polttavaa. Jalkaa alkoi kolottamaan vähän lenkin jälkeen.",
+2011-03-28,,Yoga,,,01:10:00,,,,01:10:00,,,,,3.0,,,,,,,8.00,,,,,barefoot - avojaloin,,"Kesäaika eikä mitään jakoja aamujoogaan. Mut iltajoogaan oli. Ryhti paranee,tuli ehkä niskaa runnottua vähän liiaksi. Treenin jälkeen polttelee rangassa..",
+2011-03-29,,Note,,,,,,,,,,,,,,,,,,,8.00,,,,,,,Kevyt alaraajahieronta. Sovittiin että pohjejumpalla alottais ja hierontaa siihen mukaan. Kopeloija kommentoi että tuntuu jumisilta reidet.,
+2011-03-30,7,Yoga,,,01:15:00,,,,01:15:00,,,,,3.0,,,,,,,6.50,,,,,barefoot - avojaloin,,huh huh. Maanantain voimistelu painoi jäsenissä ja ehkä myös työnteko (siis istuminen). Aivan törkeän jäykkää ja tuskallista. Kevät keikkuen tulevi.,
+2011-04-01,,Note,,,,,,,,,,,,,,,,,,,,,,,,,,Illasta Nuuksioon pienellä hiihtovaellukselle yön yli. Eipä tässä niin hiki tullut että harjoitukseksi voisi lukea.,
+2011-04-02,,Note,,,,,,,,,,,,,,,,,,,2.00,,,,,,,"Karhut ja sudet ulvoi sen verran, että unet jäi nukkumatta. Paluumatkalla taas kevyttä hiihtelyä jonkun kilometrin, muttei mitään treenin arvoista. Yöretki oli silti jännittävä.",
+2011-04-03,16,Yoga,,,01:20:00,,,,01:20:00,,,,,3.0,,,,,,,,,,,,barefoot - avojaloin,,"Erinomainen harjoitus. Vaikkei tässä lajissa enkkojen yrittäminen oo tärkeintä, niin nyt nousi 76 kiloa matosta jo aika monessa asennossa. Ja pää hipoo polvia.",
+2011-04-05,,Note,,,,,,,,,,,,,,,,,,,,,,,,,,Pitkää päivää. Ei oo ehtinyt kun heilutella kahvakuulaa ja ajaa agressiivisesti fillarilla päivittäisajoja.,
+2011-04-06,9,Yoga,,,00:15:00,,,,00:15:00,,,,,3.0,,,,,,,7.50,,,,,barefoot - avojaloin,,Aurinkotervehdykset aamulenkin alle.,
+2011-04-06,10,Running,,,00:20:00,,,,00:20:00,,,4.0,,3.0,,,,,,,,,,,,Brooks lenkkarit,,"Voimistelun päälle pikku lenkki. en tiedä, onko pohjejumppa auttanut, mutta ainakaan tällä lyhyellä nylkyllä ei tuntunut jalassa. Täytyy jatkaa jumppaa.",
+2011-04-07,,Note,,,,,,,,,,,,,,,,,,,5.00,,,,,,,töistä ja yskää,
+2011-04-08,,Running,,,00:25:00,,,,00:25:00,,,5.0,,3.0,,,,,,,5.00,,,,,,,"Kävin juoksemassa lenkin sulilla pyöräteillä ja vähän soralla. Ja kas kummaa, jalkaan ei enää sattunut. Täytyy nyt varovasti alottaa. Ehkä uudet lenkkarit pitäis hankkia. Tai no, tuskin se nyt niistä johtuu. Maastoon tekisi jo mieli!",
+2011-04-09,,Yoga,,,01:15:00,,,,01:15:00,,,,,3.0,,,,,,,8.00,,,,,barefoot - avojaloin,,Rankan työputken (6pvää = 80 tuntia) päätteeksi tuli jooga tarpeeseen. Yllättävän hyvin jaksoin vääntää vaikka etenkin alaselkä oli jo istumisesta jumahtamassa. Voimalla tuli vedettyä ja tdn huomenna on paikat aivan tulessa. Nukkua pitäisi vähän enemmän.,
+2011-04-10,,cycling,,,03:35:00,,,,,03:35:00,,92.0,,4.0,,,,,,,7.00,,,,,Bike: Rossano-fixed gear42*16,,"Kestävyyspyörälykausi aloitettu. Aika raaka lenkki heti alkuun. Ei muuten, mutta sellaista 15ms puuskaa oli koillisesta johon lenkin eka 40 kilsaa suuntautu peltojen halki. Fiksillä kun ei voinut laittaa pienempää niin tuli painettua voimalla ja hitaalla frekvenssillä. Voimille se otti ja polvet hajotti. Nikkilässä vielä pistin kumet aivan täyteen, joka pahensi tärinää ja aristi polvia entisestään. No,nyt on molemmat  kipiänä, mutta näin se aina on ekan lenkin jälkeen. Hyvin jaksoin muuten painaa vaikka täsmäkestävyysharjoittelua on heikosti takana. Ja sain Sipoosta mukaani Raatojuoksuun unohtuneet Boldit. ",
+2011-04-11,,Running,,,00:50:00,,,,00:50:00,,,10.0,,3.0,,,,,,,6.00,,1,,,Merrel gore,,"Ajattelin sitten kokeilla käydä juoksemassa kun polvet oli fillaroinnista niin kipeät ettei sitä voinut edes ajatella. Ekat 7 kilsaa meni mukavasti, mutta sitten iski taas laakista kipu tuohon vanhaan paikkaan. Paskana se on, käyn osteopaatilla nyt alkuun josko siellä olisi joku vinossa.",
+2011-04-12,8,Yoga,,,01:10:00,,,,01:10:00,,,,,3.0,,,,,,,8.00,,,,,barefoot - avojaloin,,"Sitten oli joogan vuoro. Juoksusta kipeä jalka oli vaikea kävellä ja pyöräilystä kipeät polvet aristivat myös, mutta aika mukavasti kulki pyörä aamulla ja pääsin hyvässä lämmössä Annankadun salille. Noin kolme litraa hikeä vuoti ja aika hyvin löyty asennot. Vähän kestävyyskuntoilu tuntui kintereissä. Salilta kun kävelin fillarille niin juoksuvaiva kipuili kovasti. On se nyt hemmetti kun joogasta on tullut se laji, jossa sattuu vähiten...",
+2011-04-14,7,Yoga,,,01:15:00,,,,01:15:00,,,,,3.0,,,,,,,7.50,,,,,barefoot - avojaloin,,Kankea aamujooga. Hyvä fiilis jälkeenpäin vaikka välillä itketti.,
+2011-04-16,8,Yoga,,,01:00:00,,,,01:00:00,,,,,3.0,,,,,,,6.00,,,,,,,Laululeirillä aamujoogaa,
+2011-04-16,17,Running,,,00:35:00,,,,00:35:00,,,6.0,,3.0,,,,,,,,,,,,Merrel gore,,Iltalenkki Hauholla. Puolet mettää puolet soraa. Jalka tuli hemmetin kipeksi.,
+2011-04-17,,Yoga,,,01:05:00,,,,01:05:00,,,,,3.0,,,,,,,,,,,,barefoot - avojaloin,,Perusteelliset aamuvoimistelut ja laulua. Illalla intervalliharjoitteluun verrattavaa vaalivalvojaisten katsomista.,
+2011-04-19,7,Yoga,,,01:20:00,,,,01:20:00,,,,,3.0,,,,,,,7.00,,,,,barefoot - avojaloin,,"Perusteellinen aamujooga. Kun ei kestä kunnon juoksua jalat, niin pitää ottaa kaikki irti treeneistä mitä tulee tehtyä. Olkoonkin ettei joogassa kannattais kauheesti revitellä. ",
+2011-04-21,,Note,,,,,,,,,,,,,,,,,,,,,1,,,,,"Osteopaatin puheilla ja näpeissä. ""Rasitusvamma ei parane rasittamalla, eikä juoksuperäinen vamma juoksemalla"". Kai se on uskottava. Nyt vähän breikkiä juoksukokeilusta ja muuta harjoittelua minkä ehtii.",
+2011-04-22,,Yoga,,,01:15:00,,,,01:15:00,,,,,3.0,,,,,,,7.00,,,,,barefoot - avojaloin,,"Pääsiäisintensiivin eka harjoitus. Piti säästellä, mutta ison porukan keskellä taisi tulla vedettyä liian voimalla. Ja vieraat opettajat väänsi ehkä liikaa solmuun. Lihaskivut iski jo iltapäivällä",
+2011-04-23,,Yoga,,,01:15:00,,,,01:15:00,,,,,3.0,,,,,,,4.50,,,,,barefoot - avojaloin,,"Räppikeikan ja lyhyiden yöunien jälkeen (vain teetä nautittu) pelotti mennä harjoitukseen. Vähän pidempi pyörälämmittely ja hiki alkoi roiskua jo a-aurinkotervehdyksissä. Yllättävän hyvin ne lihaskivut suli, vaikka aamulla ei tahtonut saada kenkiä jalkaan.",
+2011-04-24,,Yoga,,,01:15:00,,,,01:15:00,,,,,3.0,,,,,,,7.50,,,,,barefoot - avojaloin,,"Kolmas päivä otti voimille. Lihaskivut ei hirveet, mutta joka paikka tärisi jo alkuliikkeistä alkaen. Etenkin kädet ja hartiat aivan voimattomat. Mutta väänsin harjoituksen läpi. Ihan mahtavaa.",
+2011-04-25,,Yoga,,,01:15:00,,,,01:15:00,,,,,3.0,,,,,,,7.50,,,,,barefoot - avojaloin,,"Eilen olo oli kun isolla mustelmalla. Tällä menolla alkaa silmänaluset tummentumaan entisestään. No, neljäs päivä sujui edellistä paremmin. Väänsin viimeisen harjoituksen huumassa aika kovaa, mutta mikään paikka ei pettänyt. Harjoituksen jälkeen olo kuin rastiviikon jälkeen. Piti nukkua päikkärit - hikoilua ja kramppeja. Hyvä olo!",
+2011-04-29,,Yoga,,,01:15:00,,,,01:15:00,,,,,3.0,,,,,,,6.00,,,,,barefoot - avojaloin,,Joogaa Tukholmassa <http://www.yogashalastockholm.se/>. Vetun edustuspaidassa voimistelin. Aika joustavat oli paikat.,
+2011-05-01,5,Orienteering,,,01:00:00,,,,,01:00:00,,10.0,,4.0,,,,,,,3.00,,1,,,VJ Bold,,"10milan 5. osuus. Jalka kivuton ekan vartin. Sitten kivulias. Pari pientä pummia, kivun piikkiin. Jotain täytyy tehdä että saa koiven jukolaan kuntoon. ideoita, levon ohella?",
+2011-05-02,6,Note,,,,,,,,,,,,,,,,,,,,,1,,,,,lentsu ja jalat ihan tulessa,
+2011-05-06,10,Note,,,,,,,,,,,,,,,,,,,,,,,,,,lentsu hellittää,
+2011-05-07,,Yoga,,,01:15:00,,,,01:15:00,,,,,3.0,,,,,,,12.00,,,,,barefoot - avojaloin,,"flunssaisen viikon ja 12 tunnin yöunien jälkeen todella väsynyt, jäykkä ja tuskainen harjoitus..",
+2011-05-08,8,Yoga,,,01:20:00,,,,01:20:00,,,,,3.0,,,,,,,7.00,,,,,barefoot - avojaloin,,"Aikamoiset lihaskivut eilisestä joogasta, mutta vedin pyörällä lämmöt päälle ja jo surianamaskara A:ssa alkoi hiki virrata. Hyvä harjoitus, sain uuden asanan - Janu Shirshasana B:n. <http://www.ashtangayoga.info/practice/asana-vinyasa-series/primary-series-yoga-chikitsa/item/janu-shirshasana-b/> ",
+2011-05-10,8,Yoga,,,01:20:00,,,,01:20:00,,,,,3.0,,,,,,,7.50,,,,,barefoot - avojaloin,,"Nukuin pommiin 7joogasta ja ajelin annankadulle. Erinomainen harjoitus, vedin kuudella hengityksellä monta asentoa.",
+2011-05-11,,Yoga,,,01:20:00,,,,01:20:00,,,,,3.0,,,,,,,7.50,,,,,barefoot - avojaloin,,väsynyt oli joogi. Täytyy ehkä huilata loppuviikko kun vkonloppuna olis taas intensiiviä Turussa tarjolla.,
+2011-05-28,,Running,,,00:00:20,,,,00:00:20,,,3.0,,3.0,,,,,,,,,,,,Brooks lenkkarit,,"Kahden viikon totaalisen urheilutauon (ok,työmatkat pyörällä, mutta ei voimistelua, eikä pidempiä lenkkejä) jälkeen. Joka paikkaa hiersi ja vartin jälkeen jalka kipeytyi ja kunnolla. On se yks paska. Hierontaa avuksi.",
+2011-05-29,,Yoga,,,01:20:00,,,,01:20:00,,,,,3.0,,,,,,,,,,,,barefoot - avojaloin,,"Sunnuntaijooga kahden viikon tauon jälkeen. Yllättävän notkea olo, mutta tästä tulee niiiin kipeäksi. Ohjaajat vetivät jalkoja erilleen. Kuulemma ne on jotenkin jäykät.",
+2011-05-31,,Note,,,,,,,,,,,,,,,,,,,,,,,,,,"Aivan tulessa joka paikka sunnuntain joogasta. Työmatkat pystyy ajamaan, mutta muu liikunta poissa laskuista.",
+2011-06-01,,Yoga,,,01:20:00,,,,01:20:00,,,,,3.0,,,,,,,6.00,,,,,barefoot - avojaloin,,"Iltapäivän jooga. Olkapää kovasti arkana sunnuntain joogasta. Se vanha uimahyppyvamma. Jos et tiedä, niin tullut sankarillisessa sukelluksessa maantiesillalta.",
+2011-06-01,,Hieronta - massage,warm up/down,,00:00:45,,00:00:45,,,,,,,1.0,,,,,,,,,,,,,,"Vähän sellaista klassista hipelöintiä., vaikka urheiluhieronnasta oli puhe. Kipiää otti silti.",
+2011-06-02,,cycling,,,01:45:00,,,,01:45:00,,,48.0,,3.0,,,,,,,8.00,,,,,Hamlet 44*17,,Helatorstain aamulenkki ennen Keskipohjanmaa-viestin alkua. Kaupunkimaisessa ympäristössä (ESpoossa) ,
+2011-06-03,,cycling,,,00:55:00,,,,00:55:00,,,25.0,,3.0,,,,,,,7.00,,,,,Hamlet 44*17,,Töitten jälkeen Juhon kanssa kantakaupunnin kiertoa. Täyshiilari-Fuji oli helisemässä. Vähän revittelyä välillä. Paljonkin.,
+2011-06-04,,cycling,,,02:20:00,,,,02:20:00,,,78.0,,3.0,,,,,,,6.00,,,,,Hamlet 44*17,,"Eka päivä lapsiperheen irtaimiston kantamista yhdestä paikasta autoon ja toisessa paikassa toiseen kerrokseen. Sitten kotipitsan Zorbas ja hamletin selkään. Tavoitteena vetää jarruttomalla Helsinkiin asti, mutta Hämeenlinnassa kahvitauolla joku näpelöi venttiiliä ja takarenkaaseen ei saanut enää ilmaan. Sitten oottelin bussia ja taluttaen Töölöstä kotiin. No, hyvä harjoitus silti.",
+2011-06-05,17,Yoga,,,01:20:00,,,,01:20:00,,,,,3.0,,,,,,,11.00,,,,,barefoot - avojaloin,,Iltapäivän jooga. Eilisillan pyörälenkki painoi sopivasti. Vietiin uutta liikettä vähän pidemmälle. Tuntuu nivusessa että meni liikaa. Mahtavan rankka harjoitus.,
+2011-06-14,,Yoga,,,01:05:00,,,,01:05:00,,,,,3.0,,,,,,,,,,,,barefoot - avojaloin,,Perusjumppa aamulla,
+2011-06-15,18,cycling,,,01:11:00,,,,01:11:00,,,38.6,,3.0,,,,,,,,,,,,Bike: Rossano-fixed gear42*16,,"Pönterin lenkki kovempaa. Hyvin kulki. 1.11, uus enkka läskikumisella fiksi.",
+2011-06-16,,Yoga,,,01:10:00,,,,01:10:00,,,,,3.0,,,,,,,,,,,,barefoot - avojaloin,,Aamuvoimistelu. Kankia ko mikä.,
+2011-06-17,,Yoga,,,01:10:00,,,,01:10:00,,,,,3.0,,,,,,,,,,,,barefoot - avojaloin,,Perushyvä kotiharjoitus. Eilisestä futiksesta vähän arkuutta.,
+2011-07-11,20,Kayaking,,,01:10:00,,,,01:10:00,,,11.0,,3.0,,,,,,,,,,,,North Sea kayak (red),,Lauttasaaren ympäri. Kauden avaus ja uus laji AP:ssa. Aika hyvin kulki.,
+2011-07-13,,Yoga,,,01:20:00,,,,01:20:00,,,,,3.0,,,,,,,6.00,,,,,barefoot - avojaloin,,"Back in Attackpoint. Aamujooga uudella koulun uudella salilla, uusissa niukoissa joogahousuissa. Hyvin meni. Kondis on kova.",
+2011-07-16,,Yoga,,,01:20:00,,,,01:20:00,,,,,3.0,,,,,,,,,,,,barefoot - avojaloin,,Aamujooga. Oikea polvi arkana. Muutenkin vähän kankeaa.,
+2011-07-17,10,Kayaking,,,02:00:00,,,,02:00:00,,,16.0,,3.0,,,,,,,,,,,,North Sea kayak (red),,Lauttasaaresta siirsin kajakin Laajasalon Tullisaareen. Vähän sokkeloisemmille ja mielenkiintoisemmille vesille. Amerikkalaisen risteilylaivan kanssa tuli Länsisatamassa vähän nokkapokkaa.,
+2011-07-17,15,berry picking,warm up/down,,03:00:00,,03:00:00,,,,,,,1.0,,,,,,,,,,,,,,reilu kolme litraa mustikoita. Juhan kanssa sovittiin että voi laittaa ylös kun parantaa näköä ja on muutenkin reipasta toimintaa,
+2011-07-18,19,Kayaking,,,02:15:00,,,,02:15:00,,,15.0,,3.0,,,,,,,,,1,,,North Sea kayak (red),,Laajasalon ympäri. Tuuli idästä varmaan 15 metriä ja jollaksen niemen nokassa oli aaltoa kun japanin tsunamissa. Ketterästi vaan vetelin yli vaahtopäiden enkä ollut moksiskaan. Vauhti vähän hidastui plägään verrattuna. Aika kova treeni näillä pohjilla. Oikea polvi kipeytyy,
+2011-07-19,10,Yoga,,,01:20:00,,,,01:20:00,,,,,3.0,,,,,,,,,,,,barefoot - avojaloin,,Aamujoogaa. Oikea polvi otti itteensä melonnasta (kai) lisää. Piti varovasti väännellä. Tuntuu että nestettä sisällä. Ei niin kipeä mutta arka sivuttaistaitoksille.,
+2011-07-26,,cycling,,,03:48:00,,,,03:48:00,,,72.83,,3.0,,,,,,,,,,,,Rossano touring 50kg,,Bergenistä Vossiin. ,
+2011-07-27,,cycling,,,02:49:54,,,,02:49:54,,,45.2,,3.0,,,,,,,,,,,,Rossano touring 50kg,,Vossista ylämäkeen Upseteen. Sellanen 800 metriä korkeuseroa. Pari kovaa pätkää. ,
+2011-07-27,,hiking,,,01:30:00,,,,01:30:00,,,6.0,,3.0,,,,,,,,,,,,,,Upsetessä kiipeilyä vuorilla.,
+2011-07-28,,cycling,,,03:25:42,,,,03:25:42,,,46.54,,3.0,,,,,,,,,,,,Rossano touring 50kg,,Upsetestä Myrdalin kautta Finseen ja vähän ohitte. Aika iisi päivä.,
+2011-07-29,,cycling,,,05:29:11,,,,05:29:11,,,123.51,,3.0,,,,,,,,,,,,Rossano touring 50kg,,Finsestä Haugastlin ja Geilon kautta Nesbyenin campingiin. Vähän pidempi vääntö ja useampi parin sadan metrin penkka.,
+2011-07-30,,cycling,,,07:22:03,,,,07:22:03,,,158.51,,3.0,,,,,,,,,,,,Rossano touring 50kg,,Jevnakeriin. Alussa kova 800 metrin soratienousu ja välillä sitten vähän pienempää rinnettä. Kova päivä,
+2011-07-31,,cycling,,,06:14:33,,,,06:14:33,,,128.0,,3.0,,,,,,,,,,,,Rossano touring 50kg,,Gardermoenin kentän kautta Osloon. Veljekset ja iskä lähti maitokoneella kotia ja ajelin Osloon vähän palautumaan.,
+2011-08-04,,cycling,,,06:31:27,,,,06:31:27,,,142.55,,3.0,,,,,,,,,,,,Rossano touring 50kg,,Oslosta Ålflodammenin partaalle. Iltauinnilla potkasin oikean jalkaterän johonkin terävään. pikku vekki.,
+2011-08-05,,cycling,,,06:05:33,,,,06:05:33,,,137.16,,3.0,,,,,,,,,,,,Rossano touring 50kg,,"Backalundiin Ruotsin Värmlantiin. Loppumatka pimeässä hirveässä monsuunissa. Aika tiukka päivä taas,",
+2011-08-06,,hiking,,,01:00:00,,,,01:00:00,,,8.0,,3.0,,,,,,,,,,,,,,Vähän kiertelyä messäsä ja marjojen poimintaa ja uimista,
+2011-08-07,,cycling,,,05:58:32,,,,05:58:32,,,148.14,,3.0,,,,,,,,,,,,Rossano touring 50kg,,Kristinehamniin. Vesisadetta miltei koko matkan ja hivuttavan mäkistä. Synttärilahjaksi ostin sisämajoituksen.,
+2011-08-08,,cycling,,,07:37:04,,,,07:37:04,,,191.25,,3.0,,,,,,,,,,,,Rossano touring 50kg,,Vähän pidempi päivä Stenhammariin Katrineholmin ja Flenin puoliväliin. ,
+2011-08-09,,cycling,,,05:31:39,,,,05:31:39,,,133.12,,3.0,,,,,,,,,,,,Rossano touring 50kg,,Ja lopulta Tukholmaan. Lompakko unohtui Katrineholmiin joten loppumatka tultiin pelkän voin voimalla. Ja hyvin tultiin. Aika väsynyttä poikaa.,
+2011-08-13,16,cycling,,,01:11:00,,,,01:11:00,,,39.0,,3.0,,,,,,,,,,,,Hamlet 44*17,,"Pönterin lenkki iskän kans. Vauhti sellanen että iskä pysyi peesissä, keskinopeus tasan 33km/h. Pari minsaa nopeampi kuin Jukolan alla, mutta silloin täysiä ja nyt siinä aeroobisen kynnyksen hujakoilla., tosi iisisti",
+2011-08-13,18,Orienteering,,,00:11:00,,,,00:11:00,,,2.0,,3.0,,,,,,,,,,,,VJ Bold,,Pyörälenkin päätteeksi kahden kilsan metsäjuoksu ja kauppareissu. Kompurointia ja henkiä täynnä. saa nähä pystyykö am-viesteisä juokseha ollenkaan.,
+2011-08-14,16,Orienteering,,,00:39:00,,,,,,00:39:00,7.0,,5.0,,,,,,,,,,,,VJ Bold,,"AM-viestit Nivalassa. 2. osuus 6km ja 39 minuuttia. Juoksu kamalaa kompurointia. Nopeasti tosin hidastin vauhtia niin että pysyin pystyssä. Yks typerä virhe, muuten ihan hallittua. Huomaa että vaan yksi juoksu edellisilta plakkarissa sitten jukolan.
+Jalka ei tullut kipeäksi!!!!",
+2011-08-16,16,Orienteering,,,00:36:00,,,,00:36:00,,,6.0,,3.0,,,,,,,,,,,,VJ Bold,,"Iltarasteilla Tastulassa. Ekaa kertaa tällä vuosituhannella. Vedin rauhallisesti että pysyy suunnistus kasassa. Jalat kovin kipiät sunnuntaista, mutta siellä kanervikossa ja suolla pysty juosta. Kävelin pahimmat puskat etten telo issiäni. Suunnistus hyvin hallussa, virheet alle 5s. Keskityin mikroreitinvalintaan eli siis juoksu-uran löytämiseen. Aikamoista puuhaa kp-suunnistus.
+
+Jalka ei tullut taaskaan kipeäksi!!!!",
+2011-08-19,,Orienteering,,,00:50:00,,,,00:50:00,,,5.0,,3.0,,,,,,,,,,,,VJ Bold,,"Suunnistusharjoitus Vatpakan kartalla. Kuorolaulut pyöri päässä ja metsäkanalintuja oli häiriöksi asti. Hyviä välejä ja huonoja välejä. Hyvää kartotusta ja vähän huonompaa. SM-viestistä on tulossa aika vaikia.
+
+Jalat happoset, mutta rinteillä juokseminen silti aika siistiä",
+2011-08-20,,cycling,,,01:00:00,,,,01:00:00,,,30.0,,3.0,,,,,,,,,,,,Hamlet 44*17,,Kainhun ja Räyringin tanssilavan välistä ajelua. Vähän turhan kovaa vääntämistä. Jalkoja hapottaa.,
+2011-08-21,12,Orienteering,race,,00:38:00,,,,,,00:38:00,5.5,,5.0,,,,,,,5.00,,,,,VJ Bold,,Maakuntaviesti. Heikko esitys. Juoksu oli mitä oli ja pitkällä välillä hullua harhailua. Oli siellä hyviäkin pätkiä suunnistuksellisesti. Jalat kipeät ja tukkoiset. Totuttelu juoksuharjoitteluun kuukausien tauon jälkeen ei ehkä kannata aloittaa tekemällä viikkoon neljä täysvauhtista suunnistusharjoitusta. Automatkalla Helsinkiin oli semmonen pakotus kintuissa ettäs tiiätte.,
+2011-08-21,11,Running,warm up/down,,00:20:00,,,,00:20:00,,,,,3.0,,,,,,,,,,,,VJ Bold,,"Hyvät verryttelyt. Loppuverkat jäi lyhyeen kun kävi kipeää, tosin vain lihaksiin.",
+2011-08-22,,Note,,,,,,,,,,,,,,,,,,,,,,1,,,,"Töissä, veto pois. Illaksi suunniteltu jooga jäi väliin.",
+2011-08-26,,Note,,,,,,,,,,,,,,,,,,,,,,1,,,,"Lentsu edelleen päällä. Jää vkonlopun kisat väliin. No, sunnuntaina vois käydä kävelemässä jos nopiasti paranee.",
+2011-08-30,,Note,,,,,,,,,,,,,,,,,,,,,,1,,,,toipilaana vielä. ehdotin mikolle turku-rasteja huomiseksi,
+2011-08-31,,Orienteering,,,00:44:08,,,,,00:44:08,,5.6,,4.0,,,,,,,,,,,,VJ Bold,,"come back Turku-rasteille. Hieno maasto ja Turussa on aina mukava vetää. Viis minuuttia ṕummia kahdessa paikkaa. Mutta olipa kankea äijä. Happi kulki yllättävän hyvin, mutta ei tuolla ropalla tulla huippuvauhtia. Jalka ärtyi loppuverkassa pahaksi.",
+2011-09-01,,Note,,,,,,,,,,,,,,,,,,,,,,,,,,Kovaa opiskelua ja pokkurointia. eilinen suunnistus tuntui jäsenissä kun aamulla yritin aurinkotervehdystä. Ei pystynyt tekemään. Jalka aavistuksen arka.,
+2011-09-02,,Orienteering,warm up/down,,00:10:00,,,,00:10:00,,,,,3.0,,,,,,,,,,,,VJ Bold,,Elmerin ja Mikon kanssa hämäräsuunnistus Räntämäen kumpareilla. Aika paljon mörköjä ja muutama aave. Hyvät puitteet ammattimaiseen suunnistusharjoitteluun.,
+2011-09-03,,Orienteering,,,00:58:13,,,,00:58:13,,,9.0,,3.0,,,,,,,,,1,,,VJ Bold -11,,"SM-pitkän karsinta. Ekana mettään ja ekana metästä pois - omassa karsintasarjassa. Sairasteluihin ja rutiininpuutteeseen nähden hyvä juoksu. Kulku oli heikkoa ja suunnistin sitten erityisellä huolella. Odotin jopa kovempaa eroa kärkeen.
+
+Jalka kipeytyi, mutta täysin odotettavaa. Nyt vaan hierontaa kehiin ja lauantaina vähän vauhtia lisää.",
+2011-09-04,,cycling,,,00:17:00,,,,,00:17:00,,10.0,,4.0,,,,,,,,,,,,Hamlet 44*17,,"Tiukka spurtti bussille Hervannasta. Jäi 6 sekkaa ootteluun pysäkillä. Jalassa vähän tuntu, reidet oli jumissa muuten vaan.
+
+Bussissa tuntui jalat niin tukkoisilta ettei tiennyt miten olisi. Tuntuu ettei veri kierrä kunnolla kun kävellessä. Hierontaa viikolla ja kovasti.",
+2011-09-06,20,Yoga,,,01:10:00,,,,01:10:00,,,,,3.0,,,,,,,,,,,,barefoot - avojaloin,,"Iltajooga. Pitkästä aikaa ja olipa hyvä harjoitus. Horjuvaa, jäykkää ja kivuliasta, mutta niin tarpeeseen. Jos keskaria ennen sais pari harjoitusta tehtyä niin saattais juoksukin kulkea paremmin. tai sitten ei.",
+2011-09-07,,cycling,,,00:45:00,,,00:45:00,,,,20.0,,2.0,,,,,,,,,,,,Bike: Rossano_9speed,,Iltalenkki sateessa. Tuntuu ihan urheilijalta kun tulee lähdettyä lenkille paskassa säässä. Ajoin hapottamatta lyhyen lenkin. Huomenna samanlainen ja vähän pidempi.,
+2011-09-07,,Hieronta - massage,,,01:00:00,,,,01:00:00,,,,,3.0,,,,,,,,,,,,,,jalkahierontaa urheiluhierojaopistolla. Joogan poltteet plus kesäjumi teki kipeää. Tilasin pari uutta aikaa.,
+2011-09-08,,cycling,,,01:39:26,,,01:39:26,,,,39.74,,2.0,,,,,,,,,,,,Bike: Rossano_9speed,,iltalenkki hiilarimiehen kanssa iisisti ja hapoitta. Huomenna voimistelua ja iltalenkki kartan kanssa.,
+2011-09-09,,Yoga,,,00:10:00,,,,00:10:00,,,,,3.0,,,,,,,,,,,,barefoot - avojaloin,,Duunijooga instituutilla. Yllättävän hyvin lähti hiki. Seisomasarjaa vaan. Jalat kipeät tiistaista vielä. Huomiseksi toipuvat.,
+2011-09-10,10,cycling,,,00:48:00,,,,00:48:00,,,21.0,,3.0,,,,,,,,,,,,Bike: Rossano_9speed,,Aamuajelu kisapaikalle. Vähän oli vastatuulta ja pikkukiire. Tuli ehkä vähän liikaa runtattua. Hieno keli,
+2011-09-10,13,cycling,,,00:50:00,,,,00:50:00,,,21.0,,3.0,,,,,,,,,,,,Bike: Rossano_9speed,,Paluumatka kisoista. Jalkaa kävi jo aika kipeästi. Yritin pitää reipasta vauhtia ja onnistuin.,
+2011-09-10,11,Running,,,00:12:00,,,,00:12:00,,,,,3.0,,,,,,,,,,,,VJ Bold -11,,verkat lähtöpaikalle ja pellolla vetoja. Takareiden joogasta jumissa ja kompuroin joka juureen.,
+2011-09-10,12,Orienteering,,,00:48:47,,,,,,00:48:47,,,5.0,,,,,,,,,,,,VJ Bold -11,,"Esi-Jukola. Hyvin kaikki paitsi 3. vika. Käsittämätön pummi ympyrässä. Meni kuus minuuttia. Ei oo mahollista pummata sellasta paikkaa, etenkään sillä pieteetillä kun suunnistustehtävää siinä vaiheessa tein. No, pummi tuli ja kärki oli kaukana. En ois kyllä puhtaallakaan voittanut. Ikonen juoksi jotain 35 minuuttia... Jalka vaan tuli jo puolimatkassa kipeeksi ja loppua kohti ylty. Taitaa jäädä keskari väliin että pystyy viestissä juosta TÄYSIÄ",
+2011-09-11,11,cycling,,,01:03:37,,,,,01:03:37,,30.42,,4.0,,,,,,,,,,,,Bike: Rossano_9speed,,"Vähän oltiin yön selässä lauantaina, mutta aamulenkki Keravalle kulki hyvin. Joku jamis-mies lähti imuun Kuusijärven kohdalla, mutta vedin viis kilsaa 38 vastatuuleen ja antoi periksi. Lopussa jouduin itsekin vähän antaa periksi. Jalka oli arka ja tulin takaisin junalla....",
+2011-09-12,9,Yoga,,,00:20:00,,,00:20:00,,,,,,2.0,,,,,,,,,,,,barefoot - avojaloin,,Aamuvoimistelua kotona. Hankalaa.,
+2011-09-12,9,Hieronta - massage,,,00:30:00,,00:30:00,,,,,,,1.0,,,,,,,,,,,,,,Pikahieronta urheiluhierojaopistolla. Reisi on krampissa.,
+2011-09-12,18,Running,,,00:20:00,,,,00:20:00,,,3.0,,3.0,,,,,,,,,,,,VJ Bold -11,,"Juoksutekniikkaa Sipoossa kallioilla ja suolla. Vähän salaisia projekteja siinä samalla. Jalka ok, juoksu on sellaista koheltamista",
+2011-09-13,10,Hieronta - massage,,,00:45:00,,00:45:00,,,,,,,1.0,,,,,,,,,,,,,,"Työpaikan hierojalla, joka käsitteli jalkaa joskus toukokuussa. Päivitteli reisilihojen kramppitilaa ja totesi, että tätä ei saisi oikein hieroa kovasti vaan pikemminkin ravistella ja puhallella että antaisi periksi. Piti teoriaa pitkäveteisen istumatyön ja takareisiongelmien välisestä yhteydestä hyvin uskottavana.",
+2011-09-13,10,Yoga,,,01:15:00,,,,01:15:00,,,,,3.0,,,,,,,,,,,,barefoot - avojaloin,,"ehkei ois pitänyt, mutta teki niin mieli. Pitkät kovat venytykset ei ehkä parasta tuolle jalalle.",
+2011-09-14,,cycling,,,01:35:43,,,,01:35:43,,,39.37,,3.0,,,,,,,,,,,,Bike: Rossano_9speed,,Peruslenkki Västersundomin kautta. Vettä tuli ja syysmyrsky pahimmillaan. Kevyttä pyörittelyä pikku spurtein. Vasen takareisi haraa vastaan. illalla tiikeripalsamia ja ravistelua.,
+2011-09-16,,Running,,,00:25:00,,,,00:25:00,,,4.0,,3.0,,,,,,,,,,,,VJ Bold -11,,Maastokunnon hiomista Puusaaresa. Jalassa tuntui sen verran että keskimatkan skippaaminen lienee hyvä juttu. Eiköhän tällä silti tulla kovaa kolmososuus sunnuntaina,
+2011-09-18,11,Running,warm up/down,,00:10:00,,00:10:00,,,,,2.0,,1.0,,,,,,,,,,,,VJ Bold -11,,kevyttä verryttelyä jalkaa ärsyttämättä,
+2011-09-18,12,Running,,,01:10:08,,,,01:10:08,,,8.2,,3.0,5,,,,,,,,,,,VJ Bold -11,,"SM-viestin 2. osuus. Lähtökohdat ittellä oli huonot, pelkäsin jalan kuntoa oikein tosissani. Potkunyrkkeilylinimentti ja 6 buranaa auttoivat, eikä jalka kipeytynyt pahasti koko matkan aikana. Alkuun suunnistuskin oli hyvää, nelosella eka kunnon pummi ja seiskalla sitten peli selväksi. Virheettömällä vedolla jota lähdin hakemaan ois ollut jo 20 joukko miltei näpeissä.
+Juoksu oli kaikenkaikkiaan toki heikkoa ja sorruin juuri siihen porukkasekoiluun, josta piti pidättäytyä. perhana!",
+2011-09-20,21,Orienteering,,night,00:40:41,,,,00:40:41,,,5.1,,3.0,,,,,,,,,,,,VJ Bold,,"Espoorastien yöversio. Oli taas hiukkasen paljon asioita mielessä eikä keskittymisestä tullut mitään. Jalka tuli kanssa kovin kipeäksi, mutta ihan hyvä eka yötreeni. Silmät tottui jo loppumatkasta karttaan. Yks isompi pöllöily mäen päällä. Syytän siitä karttaa kuten yleensä.",
+2011-09-20,19,cycling,,,01:25:00,,01:25:00,,,,,35.0,,1.0,,,,,,,,,,,,Bike: Rossano_9speed,,Todella hiljaista ajelua kisapaikalle ja sieltä kierrellen kotia,
+2011-09-21,8,Hieronta - massage,,,01:15:00,,01:15:00,,,,,,,1.0,,,,,,,,,,,,,,"Hierojaopistolla vähän pidempi käsittely. Eipä siinä mitään, peitinkalvo kiristää ja tuolla lonkan paikkeilla on jumeja. mitään diagnostista läpimurtoa ei tullut, mutta ongelma on nyt ainakin paikantunut pohkeesta ylöspäin. Lienee lopulta päässä.",
+2011-09-22,20,cycling,,,01:10:00,,,,01:10:00,,,30.1,,3.0,,,,,,,9.00,,,,,Bike: Rossano_9speed,,Iltalenkki hiilarimiehen kanssa. Yleiskunto vaisu. Varmaan mykoplasma.,
+2011-09-23,,Yoga,,,00:55:00,,,,00:55:00,,,,,3.0,,,,,,,,,,,,barefoot - avojaloin,,"duunijooga ohjaten. ihan hyvä, vaikka tauon jälkeen taas teki kipeää",
+2011-09-24,9,Yoga,,,00:00:50,,,,00:00:50,,,,,3.0,,,,,,,,,,,,barefoot - avojaloin,,äänipää-jooga päivän alkuun,
+2011-09-24,9,Running,,,00:25:00,,,,00:25:00,,,4.0,,3.0,,,,,,,,,,,,Merrel gore,,Saunalenkki. Jalka tuli hemmetin kipeäksi vaikka kyyti oli verkkaista. ihme vaiva.,
+2011-09-27,,Orienteering,,night,00:40:23,,,,,,00:40:23,4.7,,5.0,,,,,,,,,,,,VJ Bold -11,,"Yörastit Mikkelässä. Vartti pummia ekalla viidellä, ei sekuntiakaan viimesellä seittemällä. KESKITTYMINEN!!!!!!!!!!
+Jalka tuli kipeäksi, mutta ei haitannu vetelyä. Ihime vaiva.",
+2011-09-30,20,Running,,,00:10:00,,,,00:10:00,,,2.0,,3.0,,,,,,,,,,,,VJ Bold -11,,"Verryttelyt lähtöpaikalle. ilta oli lämmin ja milan valo kirkas. Jalkaa tunnustellen, mitenkäs muuten näin reilun parinsadan vammapäivän jälkeen.",
+2011-09-30,21,Orienteering,,night,00:54:10,,,,00:54:10,,,6.1,,3.0,,,,,,,,,,,,VJ Bold -11,,"SM-yön karsinta. Yksinäinen veto, mutta siksi ehkä melko puhdas. Ykköselle kaarros, mutta sitten haltuun homma. Levykompassi oikeassa kädessä ja rannekompassi vasemmassa. Ja milassa pitkät päällä. Kulkukelpoisuus vaativa, mutta a-finaalipaikka ekaa kertaa miesten sarjassa oli tosiasia!?! Ens vuonna joka kisassa.
+
+Jalka tuli kipeäksi, mutta kakkosrastilta lähtiessä kompuroidessa kylki otti osumaa. (liukastuin ja putosin kallioon oikealle persposkelle ja kyljessä jokin rusahti. Vaivasi kisan ajan, muttei hidastanut.",
+2011-09-30,23,foamroller,,,00:15:00,,,00:15:00,,,,,,2.0,,,,,,,,,,,,,,Hyvät rullailut Juhalla. Huomio luonnollisesti pakaroissa.,
+2011-10-01,,Note,,,,,,,,,,,,,,,,,,,,,1,1,,,,"Lauantaiaamu valkeni kylkikivun säkenöihin. Illan foamrolleroinnit otti kipeää, muttei tällä tavalla. Nyt ei puhettakaan juoksemisesta illalla. Hyvä että saa vaatteet päälle.",
+2011-10-02,,Note,,,,,,,,,,,,,,,,,,,,,1,1,,,,Kylkikipu ja lentsu päällä. niistäminen ottaa kipeää. Autonkyyti yhtä helevettiä kun tärisee. Viittaa katkenneisiin kylkiluihin. A-finaali olisi ollut kuolemaksi.,
+2011-10-03,,Note,,,,,,,,,,,,,,,,,,,12.00,,1,1,,,,"12 tuntia unta, kylki paskana ja kuumetta. Ei saakeli. Yks kuuden kilsan suunnistus perjantaina eikä puhettakaan että vois mennä maanantaina töihin. Pakko ois pystyä harjoittelemaan kun pystymettästä lähtemisestä tulee tällaiset seuraamukset. Kylki on kuin Heleniuksen pieksemä.",
+2011-10-30,8,Running,,,00:20:00,,,,00:20:00,,,3.0,,3.0,,,,,,,,,,,,Brooks lenkkarit,,Aamulenkki laululeirillä. Sappeen maisemissa. Rinne alas ja hissutellen ylös. Melko heikkoa menoa.,
+2011-11-01,,Running,,,00:20:00,,,,00:20:00,,,4.0,,3.0,,,,,,,,,,,,Brooks lenkkarit,,iltalenkki. Jalat törkeän kipeät sunnuntaiaamun lenkistä. Vähän hissuttelin. Voi että tuntu mukavalta juosta syssysessä messäsä.,
+2011-11-05,10,cycling,,,02:02:00,,,,02:02:00,,,62.0,,3.0,,,,,,,,,,,,Bike: Rossano_9speed,,"Raatojuoksua kattomassa Sipoossa. Eka lenkki pitkään aikaan. Oli vähän hankalaa pitää kovaa vauhtia yllä, mutta teki eetvarttia, kerrassaan.",
+2011-11-06,18,Yoga,,,01:05:00,,,,01:05:00,,,,,3.0,,,,,,,,,,,,barefoot - avojaloin,,"Ah, joogaaa! Ekaa kertaa sitten SM-yön ja taisi sitä ennenkin olla viikko pari taukoa. Otin todella lempeästi, mutta järkyttävät lihaskivut on taas tiedossa. Kylki tuntui parissa asanassa, mutta vain tuntui. Tästä lähtee.
+
+Takareisi kiristi taas aikaisempaa enemmän. kuuden viikon levon jälkeen. Nyt joogaan sen kuntoon. Perseellään istuessa se näyttää vaan pahenevan. Niinku ihan kaikki asiat elämässä.. ;)",
+2011-11-10,17,Yoga,,,01:15:00,,,,,01:15:00,,,,4.0,,,,,,,,,,,,barefoot - avojaloin,,Lihaskivuilta pääsin taas joogaan. hyvä harjoitus. Kylki ei juuri tunnu.,
+2011-11-12,11,cycling,,,03:46:24,,,,03:46:24,,,88.54,,3.0,,,,,,,,,,,,Bike: Rossano_9speed,,"vähän pidempi rullailu hiilarimiehen kanssa. Vauhti oli hidasta, mutta silti loppu eväät 60 kilsan kohdalla. Lidlistä croissantti ja matka jatkui. Näitä pitäis tehdä, kelit alkaa olla turhan kylmät.
+
+http://muuankarski.org/suunnistus/kartat/gps/hyryla.jpg",
+2011-11-17,17,Yoga,,,01:15:00,,,,01:15:00,,,,,3.0,,,,,,,,,,,,barefoot - avojaloin,,Iltajooga Annankadulla. Hyvä harjoitus,
+2011-11-18,15,Yoga,,,00:55:00,,,,00:55:00,,,,,3.0,,,,,,,,,,,,barefoot - avojaloin,,instituuttijoogan vetohommat. Hyvät hikiset jumpat ittelle ,
+2011-11-19,15,Yoga,,,00:45:00,,,,00:45:00,,,,,3.0,,,,,,,,,,,,barefoot - avojaloin,,"Äänipää-joogat aamutuimaan Vimpelin Lakeaharjulla. Huippumaaston keskellä, mutta en juuri mökistä pihalle astunut.",
+2011-11-20,19,Running,,,00:15:00,,,,00:15:00,,,3.0,,3.0,,,,,,,,,,,,Brooks lenkkarit,,Pitkän ja piinaavan automatkan päätteeksi vähän jaloittelua. Ehkä kokeilen kuntouttaa takareittä tällasilla lyhyillä jolkotuksilla. josko siinä takareisi antaisi periksi. nyt ei tuntunut ollenkaan.,
+2011-11-21,19,Yoga,,,01:20:00,,,,01:20:00,,,,,3.0,,,,,,,9.00,,,,,barefoot - avojaloin,,Voimakas iltajooga. Hyviä vinkkejä ja ohjausta kovalla kädellå. Taas tuntuu huomenna,
+2011-11-24,7,Yoga,,,01:20:00,,,,01:20:00,,,,,3.0,,,,,,,7.00,,,,,barefoot - avojaloin,,Kauden eka aamujooga. Oli se koettelemus nousta ja tykittää kaupungin läpi kamppiin Mila päässä. Mutta kannatti.,
+2011-11-24,7,Running,,,00:20:00,,,,00:20:00,,,4.0,,3.0,,,,,,,,,,,,Brooks lenkkarit,,"Urbaani iltalenkki. Garmin ei löydä satelliitteja täällä kivikaupungissa helpolla. Mäkelänrinteen kentällä viimein.
+
+<iframe width='465' height='548' frameborder='0' src='http://connect.garmin.com:80/activity/embed/130702406'></iframe>",
+2011-11-25,15,Yoga,,,01:00:00,,,,01:00:00,,,,,3.0,,,,,,,,,,,,barefoot - avojaloin,,Instituuttijooga. Tahti reipastuu kun porukka oppii muuvit.,
+2011-11-25,,climbing,,,00:30:00,,,,00:30:00,,,,,3.0,,,,,,,,,,,,,,"Sisäkiipeilyä tyyliin boulderointi. Oltiin siellä hallilla pari tuntia, mutta ei näillä kätösillä kovin pitkään riiputtu. iltapäivän jooga krampitti takareisiä, mutta onhan tuo mukavaa puuhaa. Mutta on sitä paska.",
+2011-11-26,17,cycling,,,00:34:00,,,,,00:34:00,,14.0,,4.0,,,,,,,,,,,,Bike: Rossano-fixed gear42*16,,"Cyclocrosshurjastelua Vanhankaupunginlahden ympäri. Pimeässä vaan Mila säihkyi ja uudet ketjut surrasi. Paikoin oma puuskutus ylitti ketjun surinan. Hyvä treeni, huomenna jotain pidempää jos pikkujoulut ei mee pitkäks.
+
+<iframe width='470' height='550' frameborder='0' src='http://connect.garmin.com:80/activity/embed/131007067'></iframe>",
+2011-11-27,,cycling,,,00:20:00,,,,00:20:00,,,6.0,,3.0,,,,,,,,,,,,Bike: Rossano-fixed gear42*16,,"Vaihdoin Rossanoon kyllä välityksen 39*16, mutta en tehnyt siitä uutta jalkinetta. Pikkujoulua enemmän harjoittelun esteenä oli raju vesisade. Pyöräily kun on ainoa ulkoilumuoto tällä hetkellä, niin ei ollu lähtemään kun vasta illalla. Heikko esitys",
+2011-11-29,16,Yoga,,,01:20:00,,,,01:20:00,,,,,3.0,,,,,,,9.00,,,,,,,Perustekemistä.,
+2011-12-01,18,Yoga,,,01:20:00,,,,01:20:00,,,,,3.0,,,,,,,,,,,,barefoot - avojaloin,,"joogaa. Aika hyvin lähti yhdellä välipäivällä. Takareisi kiristää, mutta ehkä helpottamaan päin. tosin eilisen kaltaiset non-stop 14.5 tunnin istumatyöpäivät ei tilannetta paranna. Raktorillakin jos ajais niin pitäis ainakin välillä nousta tankkaamaan.",
+2011-12-02,,climbing,,,00:40:00,,,,00:40:00,,,,,3.0,,,,,,,,,,,,,,kiipeilyä ja kahvakuulailua luolalla. ei sujunut pätkän vertaa paremmin kuin viikko sitten. sormet on niin voimattomat etten voi kuvata harjoitusta tämän yksityiskohtaisemmin,
+2011-12-03,,cycling,,,01:28:00,,,,01:28:00,,,33.0,,3.0,,,,,,,,,,,,Bike: Rossano-fixed gear42*16,,"lauantain pidempi rälläys. Ei kyllä kulkenut yhtään, mutta oli siistejä paikkoja ja luojan kiitos ei tarvinnut mennä kehä III:n ulkopuolelle. Pikitiet jäässä, mutta sorapolut mahtavan rapsakkoja. Sessejä oli taas liikkeellä enemmän kun vetelissä kettuja. Oisko jo nahotuksen aika.
+
+<iframe width='465' height='548' frameborder='0' src='http://connect.garmin.com:80/activity/embed/132369814'></iframe>",
+2011-12-04,,Yoga,,,01:25:00,,,,01:25:00,,,,,3.0,,,,,,,,,,,,barefoot - avojaloin,,iltapäiväjooga. Yksi parhaista harjoituksista ikinä. Alkaa energiat virrata kuin milassa SM-yön karsinnassa. Uh uh.,
+2011-12-06,17,Yoga,,,01:15:00,,,,01:15:00,,,,,3.0,,,,,,,,,,,,barefoot - avojaloin,,Itsenäisyyspäivän jooga. Vasemman käden ojentaja vähän kiukutteli alapäästä. Joutu varomaan ja paras fiilis meni harjoituksesta. Sitten kattomaan ku homot tanssii.,
+2011-12-07,,Running,,,00:20:30,,,,00:20:30,,,4.6,,3.0,,,,,,,,,,,,Brooks lenkkarit,,"Pyöräcrossi oli suunnitelmissa, mutta töistä lähtiessä oli kumi tussu. Eikun ratas irti, bussiin ja lenkkarit jalkaan. Mitään nastakenkiä ei ollut, mutta onneksi on sen verran reserviä että joutaa vähän sutia. Otin gps:n ajasta vähän pois kun pari minuuttia etin sopivaa tiskiainetta alepassa.
+
+<iframe width='465' height='548' frameborder='0' src='http://connect.garmin.com:80/activity/embed/133233428'></iframe>",
+2011-12-08,,Yoga,,,01:15:00,,,,01:15:00,,,,,3.0,,,,,,,,,,,,barefoot - avojaloin,,iltapäiväharjoitus hölkästä jäykistyneellä kropalla. Joko juoksu on terveydelle haitallista tai sitten pitäisi juosta useammin. Tuossa kyllä huomaa kun on stiff to the bones. Vasen ojentaja ilmoitteli itsestään alussa.,
+2011-12-09,,Yoga,,,00:58:00,,,,00:58:00,,,,,3.0,,,,,,,,,,,,barefoot - avojaloin,,Töissä joogaa. Hyvä harjoitus tähän keliin.,
+2011-12-10,16,cycling,,,00:20:00,,,,00:20:00,,,8.0,,3.0,,,,,,,,,,,,Bike: Rossano-fixed gear42*16,,Ripeä hikiajelu Punavuoreen,
+2011-12-10,17,Running,,,00:42:10,,,,00:42:10,,,7.7,,3.0,,,,,,,,,,,,Brooks lenkkarit,,"Äänipää-hölkkä ennen webbisivutalkoita. Nää laulajat juoksee kovempaa ku suunnistajat, perhana.
+
+<iframe width='465' height='548' frameborder='0' src='http://connect.garmin.com:80/activity/embed/133773814'></iframe>",
+2011-12-11,20,cycling,,,00:32:00,,,,00:32:00,,,13.0,,3.0,,,,,,,,,,,,Bike: Rossano-fixed gear42*16,,"Peruslenkki leudossa joulukuisessa illassa. Tulossa niiin kova treeniviikko, että piti himmailla sunnuntailenkin kanssa. Ehti sitten tekemään töitä paremmin.",
+2011-12-12,7,Yoga,,,01:20:00,,,,01:20:00,,,,,3.0,,,,,,,5.50,,,,,barefoot - avojaloin,,"Räkä Räisäsen intensiivi alkoi. Ai että mikä treeni.
+
+<iframe width='199' height='276' frameborder='0' src='http://www.petriraisanen.com/midsummer/images/petri2.jpg'></iframe>
+
+
+",
+2011-12-12,,Note,,,,,,,,,,,,,,,,,,,,,,,,,,"Vetun foorumi ei pelaa, niin tänne eka yhteenveto vetun kovien pyssyjen viime kauden treeneistä. Klikkaa kuva suuremmaksi
+
+<iframe width='600' height='300' frameborder='0' src='http://www.suunnistus.muuankarski.org/images/fbfiles/images/Rplot03.png'></iframe>
+
+
+<iframe width='600' height='300' frameborder='0' src='http://www.suunnistus.muuankarski.org/images/fbfiles/images/Rplot05.png'></iframe>
+
+",
+2011-12-13,7,Yoga,,,01:20:00,,,,01:20:00,,,,,3.0,,,,,,,,,,,,barefoot - avojaloin,,"Ja viikon toinen kova harjoitus. Jäykkää oli mutta sieltä se vaan lähti
+
+<iframe width='199' height='276' frameborder='0' src='http://www.ashtangabook.com/images/gallery/ardhaBaddhaPadma.jpg'></iframe>
+
+",
+2011-12-13,18,cycling,,,00:35:00,,,00:35:00,,,,16.0,,2.0,,,,,,,,,,,,Bike: Rossano-fixed gear42*16,,"ilta-ajelua keskuspuistossa ja suunnistavan uudenmaan testijuoksun valokuvaamista. hämärässä ei valovoima riittänyt nopeimpii, mutta onneksi mukana oli juoksijoita jotka sai pysähtymään pidemmälläkin suljinajalla.",
+2011-12-13,,Note,,,,,,,,,,,,,,,,,,,,,1,,,,,"Viime viikkojen kovasta tietotyörupeamasta johtuen on nyt käsi kantositeessä. Oikean olkapää takaa hermo jomottaa ja pienikin hienomotorinen suoríte polttaa. Tämäkin vielä, perhana",
+2011-12-15,7,Yoga,,,01:15:00,,,,01:15:00,,,,,3.0,,,,,,,,,,,,barefoot - avojaloin,,"Ei pitäis pitää välipäiviä. Oli aika ankia harjoitus. Jääkylmää vettä eka taivaalta pyörämatkalla ja sitten vielä suihkusta. Mutta näin jälkeen tietty upia olo. Käsi on kipeä, muttei tunnun voimistellessa, vain näppis+hiiri-jutuissa.
+
+<iframe width='199' height='276' frameborder='0' src='http://www.ashtangabook.com/images/gallery/sirsasana.jpg'></iframe>
+
+",
+2011-12-16,7,Yoga,,,01:15:00,,,,01:15:00,,,,,3.0,,,,,,,,,,,,barefoot - avojaloin,,"Ja viimeinen harjoitus taas vähän paremmin. Kylmässä kaatosateessa aamulla paikalle. Karu on stadin talvi
+
+<iframe width='199' height='276' frameborder='0' src='http://www.ashtangabook.com/images/gallery/flyingSaucer.jpg'></iframe>",
+2011-12-17,20,Running,,,00:32:00,,,,00:32:00,,,6.5,,3.0,,,,,,,,,,,,Brooks lenkkarit,,"iltalenkki kaatosateessa. ei kehumista, jooga tuntuu jäsenissä. ja olkapää ärtyy juoksusta.",
+2012-01-17,19,Yoga,,,01:15:00,,,,01:15:00,,,,,3.0,,,,,,,,,,,,barefoot - avojaloin,,"Paluu harjoitteluun. Oikeastaan totaalitaukoa sitten joulun. Arkipyöräilyn aloitin viime viikolla ja uimassa ja tanssikursseilla on tullut käytyä. Mutta tänään ekaa kertaa hikiliikuntaa. Kurkku vielä vähän kipeä, mutta voimat palautuneet. Olkapää vaivaa edelleen. Liityin avantouintiklubiin. Alkaa olla kaikki hörhöilyt jo käytössä.",
+2012-01-20,,winter swimming,,,00:00:01,,,,00:00:01,,,,,3.0,,,,,,,,,,,,,,Liityin avantouintiklubiin ja ekat sessiot. Uskalsin. Tämä on tärkeä taito kevään kisoissa.,
+2012-01-21,14,Yoga,,,01:15:00,,,,01:15:00,,,,,3.0,,,,,,,,,,,,barefoot - avojaloin,,Tiistain jälkeen antoi lihaskivut taas periksi. Hyvä harjoitus. Tämä taas tästä.,
+2012-01-21,14,winter swimming,,,00:00:01,,,,00:00:01,,,,,3.0,,,,,,,,79.6,,,,barefoot - avojaloin,,Avantouinti lauantaitöiden päätteeksi. 3*saunan kans.,
+2012-01-22,,winter swimming,,,00:00:01,,,,00:00:01,,,,,3.0,,,,,,,,80.2,,,,,,,
+2012-01-23,,winter swimming,,,00:00:01,,,,00:00:01,,,,,3.0,,,,,,,,78.6,,,,,,Tuli ajeltua pyörällä semmonen vajaa kakskymppiä arkiasioita hoitaessa tuolla kinoksissa niin varmaan hikoilin kilon verran. Tai sitten stressi alkaa liueta Suomenlahteen.,
+2012-01-24,,winter swimming,,,00:00:01,,,,00:00:01,,,,,3.0,,,,,,,,,,,,barefoot - avojaloin,,"En punninnut tänään, koska huomasin saaneeni vitsailevia kommentteja painostani. Kävin uimassa mutta saunassa vetäydyin nurkkaan häpeillen mahaani.",
+2012-01-26,16,Yoga,,,01:15:00,,,,01:15:00,,,,,3.0,,,,,,,,79.2,,,,,,Jooga.,
+2012-01-26,21,winter swimming,,,00:00:01,,,,00:00:01,,,,,3.0,,,,,,,,,,,,,,"Juha, mun sapluuna on seuraava. Eka suoriltaan lyhyt dippi. Sitten kevyt sauna ja vähän pidempi. Ja sitten pidempi sauna ja päälle pisin uinti. (10sek). Sitten suihku ja pyörän selkään.",
+2012-01-27,15,Yoga,,,01:05:00,,,,01:05:00,,,,,3.0,,,,,,,,,,,,,,instituuttijooga. vähän liian pienet housut päällä.,
+2012-01-28,20,winter swimming,,,00:00:01,,,,00:00:01,,,,,3.0,,,,,,,,,,,,,,Avantoon kuorotreenien päätteeksi.,
+2012-01-29,22,Running,,,00:30:00,,,,00:30:00,,,5.5,,3.0,,,,,,,,,,,,Brooks lenkkarit,,"Eka juoksulenkki pitkään aikaan. Hyvin kulki, vedin yli 5min/km, tantraa siis.",
+2012-01-29,9,winter swimming,,,00:00:01,,,,00:00:01,,,,,3.0,,,,,,,,,,,,,,Aamu-uintia ennen kuorotreenipäivää. Raikasta,
+2012-02-01,10,Yoga,,,01:15:00,,,,01:15:00,,,,,3.0,,,,,,,,,,,,barefoot - avojaloin,,olipa ankean jäykkää. ,
+2012-02-01,22,winter swimming,,,00:00:01,,,,00:00:01,,,,,3.0,,,,,,,,78,,,,,,"-20. Pari reisua kroolia avannossa
+
+<iframe width='500 height='375 frameborder='0' src='http://www.muuankarski.org/kuvia/Kuva0552.jpg'></iframe>",
+2012-02-03,15,Yoga,,,01:15:00,,,,01:15:00,,,,,3.0,,,,,,,,,,,,barefoot - avojaloin,,Oma harjoitus instituutin kellarissa. Työn ja kuntoilun yhteensovittamista.,
+2012-02-04,11,winter swimming,,,00:00:01,,,,00:00:01,,,,,3.0,,,,,,,,,,,,,,aamupäivän sukellus ennen lauantain työpäivää,
+2012-02-04,21,winter swimming,,,00:00:01,,,,00:00:01,,,,,3.0,,,,,,,,,,,,,,"Piti käydä lenkki juoksemassa ennen uintia, mutta lenkkarit oli unohtunut. Siksi saunoin vähän pitempään. Palautusjuoman jätin juomatta rangaistukseksi huolimattomuudesta.",
+2012-02-05,19,Running,,,00:58:30,,,,00:58:30,,,11.56,,3.0,,,,,,,,,,,,Brooks lenkkarit,,"Kovat pyssyt ovat takoneet jo sellaisia määriä että piti ittekin käydä kokeilemassa josko sitä ois aika aloittaa ""perinteinen"" harjoittelu. Ei tuo hääviä hommaa oo juosta hangessa ja kengätkin lipsui. Mutta jalka ei tullut kipeeksi, eikä olkapääkään vaivannut. Onnistunut testi siis.
+
+<iframe width='465' height='548' frameborder='0' src='http://connect.garmin.com:80/activity/embed/147494923'></iframe>",
+2012-02-07,19,winter swimming,,,00:00:01,,,,00:00:01,,,,,3.0,,,,,,,,79,,,,,,Pari kiekkaa päivän päätteeksi.,
+2012-02-08,12,Yoga,,,01:00:00,,,,01:00:00,,,,,3.0,,,,,,,,,,,,,,"Ei todellakaan joogassa, vaan vapaamatkustajana step up dancersin pilates-treenissä. Tehtiin aika paljon rullalla hyviä juttuja. Kun joogan alle laitoin niiin niitä voisi verrata keskenään kuten suksien voitelua ja varsinaista hiihtoa. Saattaahan siinä huonokuntoselle tuli hiki pitovoidettakin levittäessä.
+Näin Marco Bjurströmin.",
+2012-02-08,20,Running,,,00:51:00,,,,00:51:00,,,10.6,,3.0,,,,,,,,,,,,Brooks lenkkarit,,"Saunalenkki Katajanokalta. Pakkasta oli 16 ja kylymä Eestin tuuli, mutta sipsuttelin sen mitä viittin. Pikkusen reippaammin juoksin ja heti tuntui pohkeissa. Jalka vähän varoitteli alussa, muttei loppua kohti. Kyllähän tuota näemmä osaa tehdä.
+
+<iframe width='465' height='548' frameborder='0' src='http://connect.garmin.com:80/activity/embed/148154659'></iframe>",
+2012-02-08,21,winter swimming,,,00:00:01,,,,00:00:01,,,,,3.0,,,,,,,,77.3,,,,,,Lenkin päätteeksi pari kylpyä. Suoraan lenkiltä kun käveli tuuliselle laiturille huomasi että lounaasta oli vierähtänyt seittemän tuntia. (huomaa paino),
+2012-02-10,17,Yoga,,,01:15:00,,,,01:15:00,,,,,3.0,,,,,,,,,,,,barefoot - avojaloin,,"Kovin treenipäivä pitkään aikaan. Alkoi eka sprintillä ratikkaan (1), mäkelänrinteeltä juoksu pasilan asemalle. Sitten jääkylmällä junalla turkuun ja juoksu kupittaan asemalta pubiin. 5 tuntia nonstop-opetusta ja juoksu (täysiä) takaisin juna-asemalle. tässä vaiheessa aamupala, juustoreissari. Sitten fillarilla joogaan ja sieltä fillarilla punavuoreen, mistä taas takas keskustan kautta kotiin. Jooga oli hyvä, juoksu taas vähän tukkosta.",
+2012-02-12,19,cross-country skiing,,,01:38:00,,,,01:38:00,,,23.9,,3.0,,,,,,,9.00,,,,,xc-ski - classic,,"Kauden avaus. Reipas pertsa parin vuoden takaisin voitein. Hyvin pelas suksi. Huippupari on huippupari.
+
+lisätty gepsi. Otti taas vähän myöhässä yhteyden satelliittiin. Tää on tietty joku kuntoilijoiden malli.
+
+
+<iframe width='465' height='548' frameborder='0' src='http://connect.garmin.com:80/activity/embed/149144121'></iframe>",
+2012-02-13,,winter swimming,,,00:00:01,,,,00:00:01,,,,,3.0,,,,,,,,,,,,,,Pari päivää taukoa. Uintikunto oli tallella.,
+2012-02-14,,winter swimming,,,00:00:01,,,,00:00:01,,,,,3.0,,,,,,,,,,,,,,"Kolme kiekkaa uudella lumella
+
+Nivuset tulessa sunnuntain hiihdosta.",
+2012-02-15,,Yoga,,,01:10:00,,,,01:10:00,,,,,3.0,,,,,,,,,,,,,,Perusharjoitus Annakadulla työpäivän keskellä. Kaduilla on taas työmiehen keli ajaa fillarilla.,
+2012-02-17,15,Yoga,,,01:05:00,,,,01:05:00,,,,,3.0,,,,,,,,,,,,,,duunijooga. ihan ook harjoitus. aika rankka viikko ollut ja vielä jatkuu. jos huomenna hiihtämään.,
+2012-02-18,12,cross-country skiing,,,02:53:10,,,,,02:53:10,,38.008,425.0,4.0,,,,,,,,,,,,xc-ski - classic,,"vähän pidempi retkihiihtely ympäri pääkaupunkiseutua. Siisti reitti, alkumatkasta joutu vähän hiihtää koirankusetuspolkuja, samoin stadionin liepeillä. Vikat kaks kilsaa juosten hesarin ja sturenkadun vartta.
+
+Pöperölumessa pari vuotta vanha pitoteippi ei pelannut. Jääty ja luisto oli heikko. Pitää raapia se veke ja ostaa purkki luupäätä. Tasasella ei oikein kulje kun pitäisi olla käsivoimia. Niitä ei ole kun kahteen peräkkäiseen tasatyöntöön.",
+2012-02-19,,winter swimming,,,00:00:01,,,,00:00:01,,,,,3.0,,,,,,,,,,,,,,,
+2012-02-20,18,Yoga,,,01:10:00,,,,01:10:00,,,,,3.0,,,,,,,,,,,,barefoot - avojaloin,,Joogaa annankadulla. hyvä notkeus. hiihtoväsy hävinnyt.,
+2012-02-21,8,Yoga,,,00:55:00,,,,00:55:00,,,,,3.0,,,,,,,,,,,,,,Lyhennetty aamujooga töissä. Paska loskakeli. Ei juoksemiseen saati hiihtämiseen. Pyöräilä onneksi voi ja avantouida.,
+2012-02-23,,Yoga,,,01:15:00,,,,01:15:00,,,,,3.0,,,,,,,,,,,,,,Aamujooga salilla. Eilinen 15 tunnin työpäivä tuntui kintereissä. Kovvoo hommoo.,
+2012-02-24,,Yoga,,,00:58:00,,,,00:58:00,,,,,3.0,,,,,,,,,,,,,,todella ripeästi tehty koko sarja. hyvin lähtee jo.,
+2012-02-25,19,Running,,,00:45:00,,,,00:45:00,,,8.0,,3.0,,,,,,,,76.8,,,,Brooks lenkkarit,,saunalenkki. ihan voimat pois. pitäis olla vähemmän töissä ja enemmän sängyssä. Ja avanto päälle. huomenna ladulle!,
+2012-02-26,14,cross-country skiing,,,01:26:50,,,,,01:26:50,,21.49,236.0,4.0,,,,,,,,,,,,xc-ski - classic,,"Heikosti kulki alkuun. Vanha pitoteippi jääty sadan metrin jälkeen. Loppua kohden liukastui, mutta olin jo päättänyt jättää leikin kesken. Yks 1,5 kilsan lenkki jäi kellottamatta. Lisäsin kokonaisaikaan ja matkaan. Nyt on pakko voidella nämä ja lopettaa kitinä.",
+2012-02-28,18,Yoga,,,01:15:00,,,,01:15:00,,,,,3.0,,,,,,,,,,,,barefoot - avojaloin,,Iltajooga 3. linjalla. hemmetin hyvä harjoitus. hyvä lämmöt päälle lumisohjossa rällätessä.,
+2012-02-29,9,winter swimming,,,00:00:01,,,,00:00:01,,,,,3.0,,,,,,,,,,,,,,Aamu-uinti ennen töitä. On raikasta.,
+2012-03-01,18,Yoga,,,01:10:00,,,,01:10:00,,,,,3.0,,,,,,,,,,,,barefoot - avojaloin,,"kova harjoitus. tanssitreenit päälle. vahva olo, tanssi oli horjuvaa.",
+2012-03-03,17,cross-country skiing,,,01:06:57,,,,01:06:57,,,17.424,148.0,3.0,,,,,,,,,,,,xc-ski - classic,,"no, sukset oli putsattu ja voitelin rexin sinisellä ja startin tervalla 0- -3. Vedin ohuelti ja vähän lyhyemmästi kun kyllästytti tökkiminen. No, ei pitänyt yhdelläkään potkulla koko reissulla. Luistoa kyllä oli.  Käsistä kun loppui voimat niin vaidoin vastasissa siitospotkulle. <http://www.hevoskuuri.fi/hiihto/2165-pauli-siitonen-kesti-kauan-ennen-kuin-ymmaersin-voittaneeni> Alussa ja lopussa kilsa koirankusetuspolun penkkaa. Reilun vkon päästä pääsis uuteen kämppään tuohon ladun varteen. Ois vielä kelejä huhtikuulle niin tulis kilsoja.
+
+Huomenna paremmalla tällillä paloheinään.",
+2012-03-03,16,Running,,,00:10:00,,,,00:10:00,,,2.0,,3.0,,,,,,,,,,,,Merrel gore,,Juoksut ladun varteen.,
+2012-03-04,16,cross-country skiing,,,03:01:47,,,,,03:01:47,,47.119,575.0,4.0,,,,,,,,,,,,xc-ski - classic,,"Viikon kestävyysurheiluharjoitus. Puolikas pirkka oli tavoitteena ja lähdin pitämään alle 4 minsan vauhtia. Paloheinässä hieroin tervaa pohjiin ja pito oli tautinen. Vasta 35 kohdalla laitoin lisää kun yhdyslatu kaupunkiin oli aivan jäinen. 25 kohdalla aloin sipata, mutta onneksi sain snickersin 28 kohdalla. Pullosta laihaa mehua päälle ja vauhti parani loppuun asti. Koko pirkka ois saattanut jäädä hiihtämättä, mutta jos ensi vuonna lähtis kokeilemaan. upea sää ja upeat ladut. helsinki on talviurheilun ykköspaikka tällä hetkellä!",
+2012-03-07,20,cross-country skiing,,,01:20:59,,,,01:20:59,,,21.766,267.0,3.0,,,,,,,,,,,,xc-ski - classic,,Iltalenkki. Menin autolla. Heti kulki huonommin.,
+2012-03-08,,Yoga,,,01:15:00,,,,01:15:00,,,,,3.0,,,,,,,,,,,,barefoot - avojaloin,,ja hyvä harjoitus miltei viikon tauon jälkeen. aika rankka harjoitus. ois se urheilu helppoa jos kunto nousis vaan hiihtelemällä.,
+2012-03-12,16,Yoga,,,01:15:00,,,,01:15:00,,,,,3.0,,,,,,,,,,,,barefoot - avojaloin,,Olin pyörtyä pari kertaa. varmaan jotain kundaliinijuttuja.,
+2012-03-20,,Yoga,,,00:50:00,,,,00:50:00,,,,,3.0,,,,,,,,,,,,Brooks lenkkarit,,"duunijoogan ohjaus aamulla. alkaa olla ammattimainen meininki. siis osallistujilla, ei ohjaajalla.",
+2012-03-21,,Yoga,,,01:05:00,,,,01:05:00,,,,,3.0,,,,,,,,,,,,barefoot - avojaloin,,aikapulassa kiivaammin. erinomainen harjoitus!,
+2012-03-22,,Running,,,00:35:00,,,,00:35:00,,,7.5,,3.0,,,,,,,,,,,,Brooks lenkkarit,,"Iltalenkki liian pitkän työpäicän päätteeksi. Jalassa on tuntemuksia. Ei oikein uskalla treenata. Tai siis ei tuntunu yhtään, mutta varmasti alkaa tuntua jos juoksee enemmän. Siksipä ajattelin alkaa juosta enemmän ja katsoa miten käy.",
+2012-03-23,,Yoga,,,01:10:00,,,,01:10:00,,,,,3.0,,,,,,,,,,,,barefoot - avojaloin,,,
+2012-03-24,,Note,,,,,,,,,,,,,,,,,,,,,,,,,,taas koko päivä muuttamista paikasta d paikkaan f. isometristä voimaa tuli hankittua sormiin.,
+2012-03-25,,Running,,,01:10:00,,,,01:10:00,,,14.0,,3.0,,,,,,,11.00,,,,,Brooks lenkkarit,,"iltalenkki. aattelin ottaa nyt juoksua kehiin ja kattoa miten tuo jalka reagoi. alkumatkasta vähän oireili, mutta ei pahentunut. muuten jäykkää hoipertelua...",
+2012-03-26,,Note,,,,,,,,,,,,,,,,,,,,,1,,,,,"Eilen lounaalta tullessa ajelin hakaniemessä merenrannan hiekkapintaista kävelytietä, ihan kävelyvauhtia, ja puhuin takana ajavalle seuralaiselle. No harmittoman näköinen pieni vesipotti olikin 30 senttiä syvä reikä, johon eturengas upposi. Mulla oli vaan kämmenet siinä ohjaintagolla, jotka lipsahti yli ja tärähdin täydellä voimalla häränsarvisarvien toineen piikkiin. Tulos, yks tai kaks murtunutta kylkiluuta....",
+2012-03-27,,winter swimming,,,00:00:01,,,,00:00:01,,,,,3.0,,,,,,,,,,,,,,taas laiturilla pitkästä aikaa,
+2012-03-28,,winter swimming,,,00:00:01,,,,00:00:01,,,,,3.0,,,,,,,,,,,,,,,
+2012-03-30,9,winter swimming,,,00:00:01,,,,00:00:01,,,,,3.0,,,,,,,,,,,,,,"aamu-uinti. Resepti onnistuneen päivän alulle on:
+avantoon, kylmään suihkuun ja päälle kahvia.
+",
+2012-03-31,14,cycling,,,02:40:18,,,,02:40:18,,,62.435,536.0,3.0,,,,,,,,,,,,Bike: Rossano-fixed gear42*16,,"Kauden avauslenkki velipojan kanssa. Kylkiluu oli alkujaan jo hemmetin hellanänä, mutta tämä lenkki teki kyllä tepposensa. Huohottaa ei pysty ja mäet putkelta, mutta tuli vedettyä alku iisimmin. Hyvin tuli loppuun saakka. Tästä aletaan kiristämään kainun junan vauhtia ja pidentämään lenkkiä. Fillaroinin lisäksi tää kylkiluu estää kyllä tehokkaasti kaiken urheilun. 
+
+Sipoossa on lunta vielä metri etelärinteillä ja kaks pohjoisessa. Pääsiäisleireily onnistuisi vain hiihtosuunnistuksen merkeissä.",
+2012-04-01,,winter swimming,,Classic,00:00:01,,,,00:00:01,,,,,3.0,,,,,,,9.00,,,,,Mizuno Aero 9,,Uudet kengåt oli illalla jalassa uinnin j2lkeen,
+2012-04-03,,Note,,,,,,,,,,,,,,,,,,,,,1,,,,,"Lääkärissä kävin. Kuulemma tuntuu murtumakohta pinnalle, mutta pitäis levolla luutua. lepolepolepolepo. Tarvis reeniä!",
+2012-04-11,19,cycling,,,01:38:35,,,,01:38:35,,,39.011,469.0,3.0,,,,,,,,,,,,Bike: Rossano-fixed gear42*16,,Iltalenkki Sipoossa. Ollu keltakuumerokotteen jälkitautia tai muuta lunssaa ja ei ollu kulku päällä. Onneksi pikkuveli veti takaisin metrolle. Kylkiluu on jo yhtä palaa ja kestää puhaltaa. juosta ei vielä,
+2012-04-13,15,Yoga,,,01:05:00,,,,01:05:00,,,,,3.0,,,,,,,,,,,,barefoot - avojaloin,,"Instituutin joogaveto. Varovasti piti vielä ottaa, reilu kaks vkoa murtumasta. Ainoastaan päälläseisonta oli no-no ja jotkut kierrot piti tunnustella. Kyllä tämä tästä.",
+2012-04-17,18,Running,,,00:42:00,,,,00:31:00,00:07:30,00:03:30,9.5,,3.35,,,,,,,,,,,,Mizuno Aero 9,,"Etelän leiri avattu. Juoksumatolla vajaa kymppi. Nopein kilsa 3.15, mutta jouduin jo pistellä aika tosissani. Kuten gepsistä näkee niin 2380m korkeus. En tiedä oliko mahaoireet vai se, mutta on tullut joskus kevyemminkin.",
+2012-04-18,18,Running,,,00:30:00,,,,,00:30:00,,6.0,300.0,4.0,,,,,,,,,,,,Mizuno Aero 9,,"Vähän kiirettä projektissa, joten valitsin matolta mäkijuoksun. 12km/h oli vähän liikaa kun oli aika jyrkkiä seiniä. Pudotin 11 ja siinäkin sai pistellä ihan tosissaan. Lihakset kipeinä. Täytyy huomenna soutaa.",
+2012-04-22,7,Running,,,01:02:20,,,,00:22:00,00:40:20,,10.007,405.0,3.65,,,,,,,,,,,,Mizuno Aero 9,,"Aamulenkki kahden paikallisen pojan kanssa. Molemmilla rikkinäiset muovisandaalit, mulla mizunot.
+
+<iframe src=""http://muuankarski.org/kuvia/shoes.JPG""></iframe>
+
+
+
+Kannattaa kattoa GPS. Kohtuu raaka profiili toimistotyöntekijälle ja juoksuun tottumattomalle..",
+2012-04-26,7,Running,,,00:58:20,,,,00:17:00,00:41:20,,9.861,108.0,3.71,,,,,,,,,,,,Mizuno Aero 9,,Yksi karuimmista treeneistä ikinä... ,
+2012-05-03,19,Running,,,01:00:00,,,,00:45:00,00:15:00,,12.356,243.0,3.25,,,,,,,,,,,,Mizuno Aero 9,,"Juoksulenkki. Tavoitteena parantaa kestävyysjuoksukuntoa. Se onkin päässyt aika huonoksi. Jalassa tuntemuksia lopussa, muttei mitään ihan hälyttävää. Jos lauantaina lähtis rasteille ja huomenna pistäis joogakierron taas käyntiin.
+Vedin vetun paidassa ja etiopian maajoukkueen punaisissa sortseissa",
+2012-05-07,,Note,,,,,,,,,,,,,,,,,,,,,,1,,,,Tänään jo tuntuu helpottavan. Kevyt kevätlentsu. Semmonen joka yleensä tulee 10milasta tuli nyt paria päivää ennen.,
+2012-05-10,17,Running,warm up/down,,00:15:00,,00:15:00,,,,,,,1.0,,,,,,,,,,,,,,Vähän verkkaa ennen ja jälkeen. Lisäksi tein hengitysharjoituksia ja keskityin rajusti suoritukseen.,
+2012-05-10,17,Orienteering,,,00:38:05,,,,,,00:38:05,5.0,,5.0,,,,,,,,,,,,VJ Bold,,"Kauden eka treeni. Lähdin tekemään virheetöntä perusjuoksua ja miltei siihen pystyin. Pari pientä virhettä ja juoksu oli todella perus. Ehkä kuitenkin parempaa kun osasin odottaa. Unohdin satelliittikellon, perhana. 
+
+Kartta:
+http://muuankarski.org/suunnistus/doma/show_map.php?user=markus&map=6",
+2012-05-12,9,Orienteering,,,00:32:49,,,,,00:32:49,,5.124,66.0,4.0,,,,,,,,,,,,VJ Bold -11,,"Aamusuunnistus Nauvossa. Mustavalkonen printti peruskartasta oli mukana. Hyvin piti paikkansa ja sain neljän kallion kierroksen vedettyä. Iisiä juoksua, keskittymistä ja kehonhallintaa. Kylmä oli.",
+2012-05-13,12,Orienteering,,,00:32:34,,,,00:32:34,,,5.161,46.0,3.0,,,,,,,,,,,,VJ Bold -11,,"Toisen aamun suunnistus. Keli koheni, meno oli vähän jäykempää. Upeaa maastoa. Kello oli hetken aikaa stopilla kun jäin kumpareelle istumaan ja kattomaan kurkikaverusten kävelyä. Enkä painanut starttia kun jatkoin. Liekö ollut pariskunta kun oli vähän kärtyisyyttä ilmassa",
+2012-05-15,21,Running,,,00:47:36,,,,00:47:36,,,9.772,203.0,3.0,,,,,,,,,,,,Mizuno Aero 9,,"iltalenkki. Hyvin kulki eikä jalassa kipuja, paitsi ehkä vähän sellaista varjosärkyä. Juoksin niin hiljaa kun kehtasin. Juoppo nojapyörältä ajoi takana kulosaaren sillalla ja huikkasi ohimennessä ""sulla on hyvä rytmi"". Punastuin.",
+2012-05-17,11,Orienteering,race,,00:37:33,,,,,,00:37:33,5.9,,5.0,,,,,,,,,,,,VJ Bold -11,,"Kp-viesti. Pronssia. Vetulta ehjin viestiveto ikinä. Jos suorituksenhallinta pysyi tuolla tasolla niin tossun kevetessä kisa kovenee. Femmanin kaverit oli kuitenkin kaikki rankissa alle 70. 
+
+http://muuankarski.org/suunnistus/doma/show_map.php?user=markus&map=14",
+2012-05-20,19,Running,,,00:52:57,,,,00:52:57,,,10.389,218.0,3.0,,,,,,,,,,,,Mizuno Aero 9,,"Iltalenkki Mustikkamaalla. Jalat jumissa, mahtavaa. Ekaa kertaa ehkä vuosiin on jumia juoksusta. Nyt se täytyy lopettaa ja aloittaa voimistelua. Ei tässä muuten vauhtiin päästä. Ilmassa lupaus kesästä.",
+2012-05-22,18,Running,,,00:58:03,,,,,00:58:03,,8.5,175.0,4.0,,,,,,,,,,,,VJ Bold,,"Iltarasteilla. Selitykset suorituksesta domassa. Hylsy tuli, mutta hyvä treeni!
+
+
+http://muuankarski.org/suunnistus/doma/show_map.php?user=markus&map=22",
+2012-05-22,19,Running,,,00:15:00,,,,00:15:00,,,2.5,,3.0,,,,,,,,,,,,VJ Bold,,Verryttelyt ennen ja jälkeen. En laulanut mutta hyräilin hyväntuulisena.,
+2012-05-24,9,Yoga,,,00:15:00,,,,00:15:00,,,,,3.0,,,,,,,,,,,,,,Aamuvoimistelua. Ihan hirveältä tuntui aurinkotervehdykset. Pakko se on alkaa tekemään kun juoksemalla vaan askel lyhenee.,
+2012-05-25,19,Running,,,00:54:59,,,,00:54:59,,,10.349,169.0,3.0,,,,,,,,,,,,Mizuno Aero 9,,Veli-Mikon kanssa kierrettiin mustikkamaalla. Kusitauolla jäi pauselle mittari hetkeksi. Josko tästä sais sopivasti kireyttä jalkoihin huomiseen kisaan.,
+2012-05-26,11,Orienteering,,,00:44:07,,,,,,00:44:07,6.79,107.0,5.0,,,,,,,,,,,,VJ Bold -11,,"Lynxin kisat. Yksi paha pummi, mutta montaa hyvää väliä. Tarkempi tilitys
+
+http://muuankarski.org/suunnistus/doma/show_map.php?user=markus&map=25",
+2012-05-26,10,Running,,,00:15:00,,,,00:15:00,,,,,3.0,,,,,,,,,,,,VJ Bold -11,,Verryttelyt lähtöpaikalle ja ,
+2012-05-27,9,Orienteering,,,01:16:18,,,,,01:16:18,,8.9,211.0,4.0,,,,,,,,,,,,VJ Bold,,"Vetun ex tempore -jukolaleirin harjoitus. Apsun ja Veijon kanssa aamuinen suunnistusjuna Ahvenlammen maastossa. Hyvin vedettiin 
+
+http://muuankarski.org/suunnistus/doma/show_map.php?user=markus&map=27",
+2012-05-29,17,Yoga,,,01:15:00,,,,01:15:00,,,,,3.0,,,,,,,,,,,,barefoot - avojaloin,,"Ah, viimein oikeaan joogaan. Juuri ja juuri yletyin varpaaseen ja jokainen lihas oli jumissa ja hengitys teki kipeää. Täältä haetaan se minuutti kilsalle lisää vauhtia. 18 päivää jukolaan, ihan ihmeitä tässä ei enää ehdi tekemään..",
+2012-05-30,19,cycling,,,01:17:16,,,01:17:16,,,,31.532,161.0,2.0,,,,,,,,,,,,Hamlet 44*17,,iltalenkki hiilarimiehen kanssa Hamletilla. Lihaskivut jo pinnassa eilisestä joogasta. Luulen että huomenna on tosi pahat vibat. Hieno lenkki. Kaunis on kaupunki.,
+2012-06-03,20,Running,,,00:14:50,,,,00:14:50,,,3.0,,3.0,,,,,,,,,,,,Mizuno Aero 9,,Iltalenkki,
+2012-06-03,10,cycling,,,01:35:00,,,,01:35:00,,,43.0,,3.0,,,,,,,,,,,,Hamlet 44*17,,Maarianhaminasta Havsviddeniin. Satoi ja tuuli. Vähän kurjaa lyhyiden yöunien päätteeksi,
+2012-06-04,7,Running,,,01:12:18,,,,01:12:18,,,10.961,143.0,3.0,,,,,,,,,,,,Mizuno Aero 9,,"Aamulenkki. Meni mettäseikkailuksi kun keksi vedellä oikoreittejä. Järjettömän liukkaat kalliot oli koitua kohtaloksi, todella ilkeä kaatuminen selälleen ja pää kallioon. Pienellä huimauksella selvinnyt toistaiseksi. Tai niinkuin ois vedetty turpaan ja kovaa.",
+2012-06-05,,Yoga,,,00:55:00,,,,00:55:00,,,,,3.0,,,,,,,,,,,,,,Joogaharjoituksen vetäminen. NIskassa ja päässä inhottavia tuntemuksia. vaan seisomasarja. kaulan lihakset revähtäneet ja korvat soi.,
+2012-06-06,16,cycling,,,02:25:00,,,,02:25:00,,,61.0,,3.0,,,,,,,,,,,,Hamlet 44*17,,Maariahaminasta pikkuteitä pohojoiseen ja Getabergetin huiputus päälle. Tussuilla renkailla. Toivoin vastatuulta kun oli loppua välitys kesken. Hyvä väsytys mäkisessä maastossa.,
+2012-06-07,7,Running,,,01:05:40,,,,,01:05:40,,15.1,,4.0,,,,,,,,,,,,Mizuno Aero 9,,"Aamulenkki toonarimiehen kanssa. Meni reippaaksi vetelyksi. niska jumissa, jooga tuntui takareisissä, mutta ihan ok. Upea aamu. Avomeriuintia päälle.",
+2012-06-08,7,Running,,,00:44:00,,,,00:44:00,,,8.0,,3.0,,,,,,,,,,,,Mizuno Aero 9,,Iisi aamupalauttelu toonarimiehen kanssa,
+2012-06-08,16,cycling,,,01:45:00,,,,01:45:00,,,48.0,,3.0,,,,,,,,,,,,Hamlet 44*17,,"Seminaarit sodittu ja kotiinpaluun aika. tiukka vääntö vastatuuleen marianhaminaan kaikkien kamojen kanssa. Vähällä ruoalla oltu koko viikko ja nyt loppu kalakeiton potku puolessa välissä. Jos stallhagenilla tankkaisi sunnuntaille.
+
+http://www.stallhagen.com/",
+2012-06-08,23,Note,,,,,,,,,,,,,,,,,,,,,1,,,,,"Ja kaaduin fillarilla sitten vielä päivän päätteeksi. Kiireellä lautalle ja shikaanissa fillarin lastattu etupää linkkuun ja sarvien yli asfaltille. Ukemi oli pehmeä, mutta silti kämmenet auki ja yläselkään iskua. Jalat ja pää säilyi ehjinä. Niitä tarvitaan jukolassa eniten.",
+2012-06-09,21,Running,,,00:16:00,,,,00:16:00,,,3.0,,3.0,,,,,,,,,,,,Mizuno Aero 9,,"Iltalenkki. Raskaan tuntuiset jalat ja pää. Aika rankka viikko takana, eikä todellakaan treenien takia.. Lapaluun seudut arkoina eilisillan pyöräsekoilusta.",
+2012-06-10,10,Orienteering,,,00:21:45,,,,,00:21:45,,4.0,28.0,4.0,,,,,,,,,,,,VJ Bold -11,,"No tämmönen tällä kertaa. Juoksu lähtöpaikalle ja alun rastit hiljalleen. Sitten kääntöpaikalla turvalleen ja joku tikku nenään. Ns. luomupunkteeraus ja kädet oli verta täynnä. Sitten kävelyä varmaan 6 kilsaa takaisin kisapaikalle. Siinä tyrehty vuotokin.
+
+Kulku oli kovin väsynyttä alkuun, mutta alkoi piristymään ennen kompurointia. täytyy tiistaina tulla juoksemaan rata kokonaan kelloa vastaan.",
+2012-06-12,19,Orienteering,,,01:26:23,,,,,01:26:23,,11.6,173.0,4.0,,,,,,,,,,,,VJ Bold,,"Suuntogamesin rata kokonaan joka jäi sunnuntaina kiertämättä. Tein eri reitinvalinnat alkuradalle kuin mitä sunnuntaina alkumatkalle, joten joutui suunnistamaan. Ja rastit oli kerätty pois, mikä aiheutti epävarmuutta rastinotossa. Vetelin reippaasti ja ihan hyvin kulki. Helposti menee pari lisäkilsaa sunnuntaiaamuna kun tästä palautuu.
+
+Kartta ja reitti:
+http://muuankarski.org/suunnistus/doma/show_map.php?user=markus&map=43",
+2012-06-14,19,Orienteering,,,00:48:38,,,,,00:48:38,,6.1,74.0,4.0,,,,,,,,,,,,VJ Bold -11,,"Viimeistelyä Sipoossa. Raskas oli jalka ja mieli. Nyt huilaillaan sunnuntaiaamuun ja sitten vedetään kiihtyvällä vauhdilla 1.45. Tosin jos suunnistuskunto on tämän päiväisellä tolalla, niin sitten menee kaks..
+
+Kartta ja sepustukset:
+http://muuankarski.org/suunnistus/doma/show_map.php?user=markus&map=44",
+2012-06-14,10,cycling,,,00:44:04,,,,00:44:04,,,19.636,179.0,3.0,,,,,,,,,,,,Bike: Rossano-fixed gear42*16,,Ajot kotoa Kalasataman metrolle ja Mellunmäestä k-pistelle.,
+2012-06-15,,swimming,,,00:00:01,,,,00:00:01,,,,,3.0,,,,,,,,,,,,,,Fillarilla mustikkamaalle ja velipojan kanssa meressä palauttelua. ,
+2012-06-17,6,Orienteering,race,,01:53:58,,,,,,01:53:58,15.1,355.0,5.0,,,,,,,,,,,,VJ Bold -11,,"Jukolan ankkuriosuus. Haparoivaa niin juoksun kuin suunnistuksen osalta.
+
+Kartta ja selitykset:
+http://muuankarski.org/suunnistus/doma/show_map.php?user=markus&map=46",
+2012-06-21,21,Running,,,00:18:00,,,,00:18:00,,,4.0,,3.0,,,,,,,,,,,,Mizuno Aero 9,,Iltalenkki 14 tunnin työpäivän päätteeksi. Jäykkä on kroppa jukolan ja pitkien työpäivien jälkeen. Saa nähä viittiskö lähteä juhannusjuoksuun kun häviää Mäkelän Jarille.,
+2012-06-22,13,Running,,,00:27:24,,,,,,00:27:24,7.33,12.0,5.0,,,,,,,,,,,,Mizuno Aero 9,,"Pulukkisen juhannusjuoksut. 41. kerta, mutta mulle eka. Apsu vei kisan odotetusti, mutta Veijon vauhti oli myös todella rautainen. Oma vauhti oli myös erittäin hyvää. Pistos tuli polkuvälillä kun yritin Veijoa kiinni (ajattelin että apsun karkaaminen olisi nujertava kokemus), mutta en saanut. Erinomainen tapahtuma ja kokemus, vaikkakin hetkittäin hyvin epämiellyttävä.",
+2012-06-22,13,Running,,,00:20:00,,,,00:20:00,,,3.0,,3.0,,,,,,,,,,,,Mizuno Aero 9,,verryttelyt hyvässä seurassa,
+2012-06-23,,Note,,,,,,,,,,,,,,,,,,,,,,,,,,"Tuntuu eilinen juoksu joka paikassa. Myös vähän vanha oikean polven vaiva ilmoittelee itsestään. Illalla pari tuntia vakiotansseja Emetissä riittänee:
+http://www.emet.fi/",
+2012-06-25,17,Yoga,,,01:12:00,,,,01:12:00,,,,,3.0,,,,,,,,,,,,barefoot - avojaloin,,"Kunnon harjoitus taas pitkästä aikaa. Ilmoittauduin lauantaiksi karjaa-rasteille ja toivon että lihaskivut ovat siihen mennessä laantuneet. Hirveitä tuntemuksia kropassa, mutta niin parin kuukauden laiskottelun jälkeen tuleekin olla.",
+2012-06-28,8,Running,,,00:51:58,,,,00:51:58,,,10.576,208.0,3.0,,,,,,,,,,,,Mizuno Aero 9,,"Aamun kestävyysjuoksulenkki. Ajattelin alkaa heräämään aikaisemmin aamulla. Syitä on monia, mutta tämän luettuani olin vakuuttunut:
+http://zenhabits.net/10-benefits-of-rising-early-and-how-to-do-it/
+
+Ai niin, kulki ihan hyvin. Jalkavaiva tuntui vasta ihan lopussa parilla askeleella. Takareidet todella kipeät vielä joogasta. Otin lyhyin askelin.",
+2012-06-29,19,Running,,,00:25:00,,,,00:25:00,,,5.5,,3.0,,,,,,,,,,,,Mizuno Aero 9,,Rullaava juoksu Tuska-vestifaalialueen ja sörkan vankilan ympäri. Lopuksi avomeriuintia omassa rannassa.,
+2012-06-30,1,Orienteering,,,01:30:16,,,,00:40:16,00:30:00,00:20:00,11.263,120.0,3.78,,,,,,,,,,,,VJ Bold -11,,"Keskeytys Karjaa-rasteilla.
+
+http://muuankarski.org/suunnistus/doma/show_map.php?user=markus&map=54",
+2012-07-04,,Note,,,,,,,,,,,,,,,,,,,,77.1,,,,,,Aamupaino. Ihan helvetin väsyny olo. Varmaan joku tappava tauti iskenyt.,
+2012-07-05,8,Note,,,,,,,,,,,,,,,,,,,,74.9,,,,,,Kun ei voi treenata niin aina voi laihduttaa,
+2012-07-05,17,Yoga,,,01:15:00,,,,01:15:00,,,,,3.0,,,,,,,,,,,,,,"Jooga. Kamala harjoitus. Sama ku iltarasteilla ei ois löytäny ykköstä ja pyörästä ois paluumatkalla puhjennu kumi,",
+2012-07-06,21,Running,,,01:10:40,,,,01:10:40,,,14.19,143.0,3.0,,,,,,,,,,,,Mizuno Aero 9,,"Myöhäseen jäi lenkki, mutta sitäkin hienompi oli keli. Lihaskivut joogasta olivat jo päällä, joten askel oli lyhyt ja ryhti vasemmalle vinossa. Siistiä juosta lenkki vaan iisisti ilman mitään vetoja tai muita nykyajan hömpötyksiä. Satelliittikello oli hömpötyksistä vaan mukana.",
+2012-07-09,17,Yoga,,,01:15:00,,,,01:15:00,,,,,3.0,,,,,,,,,,,,,,"lihaskivuilta pääsi taas harjoittelemaan. Oli jo parempi veto. Sain halasanassa varpaat lattiaan.
+
+
+<iframe src=""http://www.ashtangabook.com/images/gallery/pindasana.jpg"" width=""335"" height=""425""></iframe>",
+2012-07-10,20,Running,,,01:16:56,,,,01:16:56,,,16.249,175.0,3.0,,,,,,,,,,,,Mizuno Aero 9,,"Kestävyysjuoksua saaristostolaismaisemissa. Pitkän työ- ja matkapäivän päätteeksi pitkänhuiskea lenkki. Meininki muistutti alla olevaa.
+
+<iframe width=""560"" height=""315"" src=""http://www.youtube.com/embed/OKw7Z0PQb0Y"" frameborder=""0"" allowfullscreen></iframe>",
+2012-07-11,,cycling,,,00:55:00,,,,00:55:00,,,25.0,,3.0,,,,,,,,,,,,Hamlet 44*17,,"Kirjaisiin ravintolaan ja pienen ekstralenkin kautta takaisin. En ottanut kuin yhden oluen, niin voi laittaa treeninä. Seuralaisen suorituskyky alentunut, joten poljin kahden (ja puolen) edestä.",
+2012-07-12,11,Yoga,,,00:10:00,,,,00:10:00,,,,,3.0,,,,,,,,,,,,,,aurinkoa tervehdin. jäykkää. tulee nukuttua liikaa.,
+2012-07-12,20,Running,,,00:55:00,,,,00:55:00,,,11.1,,3.0,,,,,,,,,,,,Mizuno Aero 9,,"Sjundeå IF:n J Järvelän kanssa kevyt rullaava iltalenkki Nauvon maisemissa. Satelliittikello jäi kotiin, joten arvio. Keskustelu revolveerasi etupäässä siinä, voisiko velkarahalla saada juoksuun lisää vauhtia nyt kun korot on alhaalla.
+
+http://www.sports-tracker.com/#/workout/JuhaJarvela/1qsbre6srsbaeb7l",
+2012-07-13,19,Running,,,01:26:15,,,,,01:26:15,,18.717,361.0,4.0,,,,,,,,,,,,Mizuno Aero 9,,Vähän reippaampi kestävyysjuoksuharjoitus. Kääntöpaikan liepeillä oli vähän rinnettäkin. Lounaaksi nautitut soijanakit olivat tulla pihalle joka suuntaan. Joutui vähän antaa periksi lantion asennossa ja närästi vastenmielisesti. Ihan mukavasti kulki.,
+2012-07-14,19,cycling,,,01:16:10,,,,01:16:10,,,38.484,372.0,3.0,,,,,,,,,,,,Hamlet 44*17,,"Piti vaan rullailla, mutta kun pääsee kireällä ratapyörällä kunnon soratielle, niin kyllähän se on Kankkusen Juhan vetely heti mielessä. Joka nyppyyn piti uruttaa ja skiddailla vastaheitot kurveihin.",
+2012-07-16,21,Running,,,00:53:36,,,,00:53:36,,,10.561,203.0,3.0,,,,,,,,,,,,Mizuno Aero 9,,Takaisin pääkaupunkiin ja tuttuihin treenimaastoihin. Hissuttelua reissaamisen päätteeksi.,
+2012-07-17,17,Yoga,,,01:15:00,,,,01:15:00,,,,,3.0,,,,,,,,,,,,,,Hyvä harjoitus. Sain halasanassa varpaat lattiaan vaikka olen vähän juossennellut. Alkaa roppa hiljalleen sulamaan.,
+2012-07-19,20,Running,,,02:28:25,,00:28:25,02:00:00,,,,21.019,270.0,1.81,,,,,,,,,,,,Mizuno Aero 9,,"Maratonharjoitus Nuuksion polkumaratonille. En ole osallistumassa, mutta isoveli. Alku mentiin hyvää vauhtia, vaikka piti hissutella. Se kostautui loppumatkasta, kun velipojalle bonk 15 kilsan paikkeilla <http://en.wikipedia.org/wiki/Hitting_the_wall> Sitten käveltiin loppumatka. Itsellä ois ollu kulkupäivä. Pitää tehdä tuollaisia pitkiä hiljaisia, luulen. Vaikka hevosmiesten hommia ovatkin. Lauantaina uusiksi!",
+2012-07-20,17,Yoga,,,01:15:00,,,,01:15:00,,,,,3.0,,,,,,,,,,,,,,Raakaa treeniä. Yllättävän kovaa vääntöä hölkkäpäivän päätteeksi. Alkaa kroppa tottua.,
+2012-07-22,7,Note,,,,,,,,,,,,,,,,,,,,75.5,,,,,,aamupaino. ei laske.,
+2012-07-22,21,Running,,,02:09:06,,,02:09:06,,,,22.355,285.0,2.0,,,,,,,,,,,,Mizuno Aero 9,,"Polulla kun tuli bonkki niin nyt kokeiltiin profiililtaan tasaisempaa reittiä ja hitaampaa vauhtia. Jätin kellon stopille välillä, mutta varmaan aika tasavauhtinen lenkki. vähän liian hidasta omille jäsenille. Selkää ja jalkapöytää alkoi särkeä hidas jumputtaminen. Velipojan meno paranemaan.",
+2012-07-24,18,Orienteering,,,01:09:18,,,,00:20:00,00:39:18,00:10:00,7.3,131.0,3.86,,167,188,,,,,,,,,VJ Bold,,"Espoo-rasteilla. Ihan sama hyytyminen kuin kuukausi sitten karjaalla. Ajattelin vetää kovaa, mutta jo puolen tunnin jälkeen piti laittaa kävelyksi ja pian sen jälkeen ei enää juosta pystynytkään. Täysin tehot pois, vaikka varmaan aika tosissani yritin tuonne 50 minuutin korville. Joku pöpö täytyy olla koneessa, tai en minä tiedä. Nukuttanutkin jo monta viikkoa ja ollut vähän veto pois. Oisko ideoita?
+
+http://www.espoonakilles.fi/er12/er17_t.htm#normaali65
+
+http://muuankarski.org/suunnistus/doma/show_map.php?user=markus&map=64",
+2012-07-26,20,Running,,,01:16:01,,,,01:16:01,,,14.834,171.0,3.0,,,,,,,,,,,,Mizuno Aero 9,,Peruslenkki. Potkasin ukkovarpaasta kynnen iltarasteilla tohjoksi eikä joogaan oo asiaa. Misukoissa on tilaa ja yritin vähän juosta. Aika ahdas fiilis. Keli oli mitä hienoin.,
+2012-07-28,17,cycling,,,00:50:00,,,,00:50:00,,,26.0,,3.0,,,,,,,,,,,,Hamlet 44*17,,"Mikon kanssa vedettiin melko aggressiivisesti Myymäen stadionille kattomaan Kainun suvun muita huippuja. 
+http://www.ops.fi/joukkue/861/876",
+2012-07-29,19,Running,,,00:15:05,,,,00:15:05,,,2.888,76.0,3.0,,135,159,,,,,,,,,Mizuno Aero 9,,Menomatka uimaan Mustikkamaalle,
+2012-07-29,19,Running,,,00:28:01,,,,00:28:01,,,5.457,90.0,3.0,,139,158,,,,,,,,,Mizuno Aero 9,,testijuoksua yritin. oli tulla ranskalaiset tulla pihalle. sykenauha mukana.,
+2012-07-31,,cycling,,,01:30:00,,01:30:00,,,,,35.0,,1.0,,,,,,,,,,,,Hamlet 44*17,,seurustelupyöräilyä helsingin rannoilla,
+2012-08-01,20,Running,,,01:04:18,,,,00:30:00,00:34:18,,14.395,131.0,3.53,,152,166,,,,,,,,,Mizuno Aero 9,,Lääkitys kuntoon ja lenkille Vanhankaupunginlahden ympäri. Tuntui heti alusta jotenkin kevyeltä ja ajattelin juosta ns. TV-reippaan. Viilenevä ilta ja tuulenvire loivat erinomaiset puitteet. Reitti on vähän tylsän tasainen.,
+2012-08-03,17,Yoga,,,01:15:00,,,,01:15:00,,,,,3.0,,,,,,,,,,,,,,"Varvas sen verran parantunut että uskalsi joogaan. Hyvin meni, huomenna on kipuja luvassa.",
+2012-08-04,8,Note,,,,,,,,,,,,,,,,,,,,75.6,,,,,,,
+2012-08-05,,Running,,,00:32:00,,,,00:32:00,,,7.0,,3.0,,,,,,,,,,,,Mizuno Aero 9,,"Yks kiekka mustikkamaalla pitkän työpäivän päätteeksi ennen estefinaalia. Takareidet oli joogasta arkana, mutta muuten oli lennokas kulku.",
+2012-08-09,21,Running,,,00:30:52,,,,,00:30:52,,7.178,121.0,4.0,,151,170,,,,,,,,,Mizuno Aero 9,,reipas iltalenkki vastenmielisen työputken päätteeksi. Nyt olisi loma tarpeen ja taidan vähän pitääkin. Niska ja selkä aivan jumissa neljän päivän tauottomasta koneella nuokkumisesta. Ja etenkin aivot.,
+2012-08-10,10,Yoga,,,01:10:00,,,,01:10:00,,,,,3.0,,,,,,,,,,,,barefoot - avojaloin,,Taiteilijajoogassa lomapäivän kunniaksi. Siis vähän myöhemmin alkava sessio. Aika hyvin kulki vaikka taas veny tauko viikoksi.,
+2012-08-14,21,Running,,,01:14:26,,,,00:54:26,00:20:00,,15.755,253.0,3.27,,148,182,,,,,,,,,Mizuno Aero 9,,"iltalenkki velipojan kanssa. se piti pari lenkkiä taukoa ja mä juoksin putkeen. Vähän festivaaliväsymystä mutta ihan hyvin kulki. Yhden lenkin vedin reippaammin, 2.58 ja 10.14. Rantareitti on jonkun kovan estejuoksijan suunnittelema. Pitää alkaa testijuosta sitä tässä kun alan kohta urheilla.",
+2012-08-14,10,Yoga,,,00:25:00,,,,00:25:00,,,,,3.0,,,,,,,,,,,,,,aamujoogailua,
+2012-08-16,10,Yoga,,,01:15:00,,,,01:15:00,,,,,3.0,,,,,,,,,,,,,,Taiteilijajooga. Oli aika hankalaa tällä kertaa. Liian pitkät unet alla ja niska jumissa. Hikoilin ehkä kolme litraa.,
+2012-08-17,10,Kayaking,,,03:30:00,,,03:30:00,,,,35.0,,2.0,,,,,,,,,,,,North Sea kayak (red),,"Melontakauden avaus. Jäi satelliittikello kotiin, perhana. Tuli nähtyä Laajasaloa, Vuosaarta, Villinkiä, Aurinkolahtea ja Tammisalon kanava. 
+http://fi.wikipedia.org/wiki/Tammisalon_kanava",
+2012-08-19,19,Running,,,01:07:31,,,00:47:31,00:20:00,,,13.852,250.0,2.3,,,,,,,,,,,,Mizuno Aero 9,,"Treeni alkoi automatkalla Myllypuroon, missä oli tarkoitus ajaa kilpaa kartingia. Kisapaikalla oli kovasti jonoa, etupäässä maahanmuuttajia. http://www.youtube.com/watch?v=U1QfHzsxBKk 
+Näyttää siltä että seuraava suomalainen formulastara on musta ja puhuu hyvää englantia.
+Sieltä pudottelin kohti Herttoniemen purtseja ja simahdin täysin. Pidin puolen tunnin tauon vadelmapuskilla ja sitten taas jaksoin. Kiertelin Kivinokan työväenliikkeen merkittävien kohteiden kautta, joista kerrotaan mm. Kjell Westön romaanissa. 
+http://fi.wikipedia.org/wiki/Miss%C3%A4_kuljimme_kerran",
+2012-08-20,10,Yoga,,,01:15:00,,,,01:15:00,,,,,3.0,,,,,,,,75.5,,,,,,Taitelijajooga. Ohjaaja pisti mut koville. Paikat kestää hyvin ja mieli on täysin kontrolloitu.,
+2012-08-21,20,Running,,,01:59:26,,,,01:59:26,,,21.537,408.0,3.0,,137,167,,,,,,,,,Mizuno Aero 9,,"Taas velipoikaa sparraamassa maratonille. Täytyy sanoa että yllättävän kovaan kuntoon se on päässyt.. nyt juostiin aika mäkistä reittiä ja ihan hyvin se tuli mukana, loppua kohden mulla alko himmenemään, mutta se näytti vetävän vahvasti. No mutta, hyvä lenkki ittellekin.",
+2012-08-23,17,Running,,,01:32:22,,,,01:32:22,,,14.232,396.0,3.0,,,,,,,,,,,,Mizuno Aero 9,,"KRP:n kanssa vuosijuoksua Oslossa. Juice lauloi ""mies tuli vuonolta näyttäen huonolta"". Tän lenkin jälkeen oli sanottava, ""mies tuli vuorelta näyttäen huonolta"". Mizunon paskat taas lipsahti kriittisessä paikassa ja verta valui useasta kohdasta. Siisti lenkki kuitenkin. Upeat maastot, hieno ilma ja kovankuntoista seuraa.",
+2012-08-26,12,Running,,,02:08:07,,,,,02:08:07,,25.705,763.0,4.0,,,,,,,,,,,,Mizuno Aero 9,,"Oslon reissun päätteeksi piti saada myös ittelle matkamuisto. Ja näinä kulutuskritiikin aikoina päädyin ns. aineettomaan matkamuistoon, eli gps-jälkeen Holmenkollenilta. Siellä haisi Dahlien, Myllylän ja Ulvangin hiki ja terveen näköistä väkeä oli kuin pipoa. Hieno lenkki. Välillä pirun hankalaa polkua ja loppu asfalttia alamäkeen. Otti jo vähän reisiin.",
+2012-08-26,12,pesäpallo,,,00:07:00,,00:07:00,,,,,,,1.0,,,,,,,,,,,,,,Pesäpalloa Vigelandin puistossa suomiseuran väreissä. Parin kunnarin ja takalaittoman jälkeen jouduin lähtemään Helsingin lennolle. Valitettavasti gps-jälkeä ei ole tarjolla.,
+2012-08-28,16,Orienteering,,,00:52:59,,,,,00:21:00,00:31:59,8.387,143.0,4.6,,173,188,,,,,,,,,VJ Bold,,"Iltarastit sillaa reippaasti. Ihan hyvin jaksoin vaikka kollenin lenkki ja norjan reissu painoi kintereissä. Sunnuntaina e-gamesissa kokeillaan pitkä matka.
+
+http://muuankarski.org/suunnistus/doma/show_map.php?user=markus&map=72
+
+http://www.espoonakilles.fi/er12/er22_t.htm",
+2012-08-28,18,Running,,,00:15:00,,,,00:15:00,,,3.0,,3.0,,,,,,,,,,,,VJ Bold,,verskat ennen ja jälkeen,
+2012-08-30,,Yoga,,,01:10:00,,,,01:10:00,,,,,3.0,,,,,,,,,,,,,,"iltapäiväharjoitus. Haara-asennoissa vähän juoksun kireyttä. Tästä vetreydytään sopivasti sunnuntaille, jolloin vetun eliitti ottaa yhteen Espoossa.
+
+http://espoonsuunta.fi/wp-content/uploads/2012/08/LahtolistaSeuroittain.htm#VetU",
+2012-09-01,11,Running,,,00:50:00,,,,00:50:00,,,10.0,,3.0,,,,,,,,,,,,Mizuno Aero 9,,"Nuuksion polkumaratonin kuvausta. Juoksentelua huippujen ja vähemmän huippujen perässä stedicamin kanssa. Valmennettava hyyty lopussa, mutta treenimääriin nähden veti tosi hyvin.
+
+http://racesplitter.com/races/43BE0E379 ",
+2012-09-02,10,Orienteering,,,01:30:20,,,,,00:30:20,01:00:00,12.685,202.0,4.66,,174,184,,,,,,,,,VJ Bold -11,,"egamesin pitkä matka. Tarkemmat analyysit illemmalla jahka voi reittihärvelistä pölliä kartan. Ei tullut mitään omituista sammumista, olkoonkin että loppu oli aika taapertamista. Hieno rata ja sää! Ja kisapaikalla soitettiin Wigwamia! Kunnon progea, eikä mitään Nigthwishin rämpytystä.
+
+Doma:
+http://muuankarski.org/suunnistus/doma/show_map.php?user=markus&map=77
+
+<iframe width=""420"" height=""315"" src=""http://www.youtube.com/embed/191k-VU2mYY"" frameborder=""0"" allowfullscreen></iframe>",
+2012-09-03,18,Orienteering,,,00:52:37,,,,,00:52:37,,7.488,122.0,4.0,,171,182,,,,,,,,,VJ Bold -11,,"Maanantairasteilla Karjaalla. Olin kuullut poikkeuksellisen tasokkaasta ratamestariryhmästä sekä huippumaastosta, joten oli pakko lähteä katsastamaan Keski-Uusimaan taso. Sykkeiden mukaan vedin täysiä, mielestäni hissuttelin. Kulku oli hidasta, mutta varmaa. Todella jylhä peitteinen kalliomaasto. 
+
+Doma:
+http://muuankarski.org/suunnistus/doma/show_map.php?user=markus&map=83",
+2012-09-03,18,Running,,,00:20:00,,,,00:20:00,,,3.0,,3.0,,,,,,,,,,,,VJ Bold -11,,"Alkuverkat ja loppuverkkana juoksu hakemaan erään rastin lähellä olleet järjettömän kokoiset kanttarellit.
+
+<iframe src=""http://ubuntuone.com/1vsGAkrfYBcZIdBHZUZzhO"" width=""450"" height=""600""></iframe>",
+2012-09-08,14,Running,,,00:19:51,,,,00:19:51,,,4.4,26.0,3.0,,,,,,,,,,,,Mizuno Aero 9,,"Verryttelyt kisapaikalle. Ei karttaa mukana, joten hyvä muistiharjoitus. hiki tuli pintaan",
+2012-09-08,14,Orienteering,,,00:18:46,,,,,00:18:46,,4.229,21.0,4.0,,,,,,,,,,,,Mizuno Aero 9,,"Figgate Parkin lauantaisprintti. Juhlaillallisen ja pitkän yöjuoksun päätteeksi normaalia enemmän sydämentykytyksiä. Sen verran kimuranttia ratamestarityötä, että ei pystynyt koko aikaa paahtaa. Pariin miinaan ajoin. Mukava tapahtuma, kannatti lähteä.
+
+Doma:
+http://muuankarski.org/suunnistus/doma/show_map.php?user=markus&map=86",
+2012-09-08,14,Running,,,00:45:46,,,,00:45:46,,,6.751,272.0,3.0,,,,,,,,,,,,Mizuno Aero 9,,"Ja verryttelyt takaisin hotellille. Matkalle osui reilu 200metrin Arthurs Seat -kukkula. Oli upeat näkymät.
+
+<iframe src=""http://ih1.redbubble.net/image.4144361.9905/flat,550x550,075,f.jpg"" width=""600"" height=""400"">",
+2012-09-09,10,Running,,,00:32:20,,,,00:32:20,,,5.749,186.0,3.0,,,,,,,,,,,,Mizuno Aero 9,,"Sen verran väsytti aamulla, ettei ehtinyt tämän pidempään ennen check-outtia. Sopiva noususumma aamun pikku herättelylle. Kyllä tulis menestystä keski-euroopassa jos aamulenkit ois tällasia.",
+2012-09-11,17,Yoga,,,01:15:00,,,,01:15:00,,,,,3.0,,,,,,,,,,,,,,"Ah, jooga. Vähän lentsua vielä, mutta onneksi tuli mentyä. Oikea takareisi on krampissa. Ei oo haitannut juoksua, vielä.",
+2012-09-12,18,Running,,,00:20:00,,,,00:20:00,,,3.0,,3.0,,,,,,,,,,,,VJ Bold,,verkskat ennen ja jälkeen.,
+2012-09-12,18,Orienteering,,,00:38:23,,,,00:38:23,,,5.0,115.0,3.0,,,,,,,,,,,,VJ Bold,,"Hissukseen 5 kilsan rata Hakunilassa. Ei päästy kunnon mettään. Koko kroppa joogasta aivan tulessa. Otin iisisti ja yritin keskittyä. En oikein onnistunut siinäkään.
+
+http://muuankarski.org/suunnistus/doma/show_map.php?user=markus&map=88",
+2012-09-14,8,Note,,,,,,,,,,,,,,,,,,,,76.6,,,,,,Vahva olo. Lihaskivut hellittävät juuri sopivasti lauantain starttiin.,
+2012-09-14,20,Running,,,00:25:00,,,,00:25:00,,,5.0,,3.0,,,,,,,,,,,,VJ Bold,,"Iltahissuttelut Varkauden tehtaan varjossa. Oikea takareisi kiristää, mutta muuten ihan ok fiilinki.",
+2012-09-15,9,Orienteering,race,,00:29:01,,,,,,00:29:01,4.0,,5.0,,,,,,,,,,,,VJ Bold -11,,Keskarin karsinta. Kaks pummia. Ei menny A-finaalin paikka. Siihen ois tarvittu parempaa kuntoa.,
+2012-09-15,15,Orienteering,race,,00:42:59,,,,,,00:42:59,5.3,,5.0,,,,,,,,,,,,VJ Bold -11,,B-finaali. Vähän yritin opetella peesaamaan ja tekemään irtiottoja. Kulki paremmin ku aamulla. Enemmän vaan peesailin. Jyrkät ylämäet myrkkyä. ,
+2012-09-15,8,Running,,,00:30:00,,,,00:30:00,,,5.0,,3.0,,,,,,,,,,,,VJ Bold -11,,Verryttelyt päivän mittaain,
+2012-09-16,12,Running,,,01:25:53,,,,01:25:53,,,8.0,,3.0,,,,,,,,,,,,VJ Bold -11,,"SM-viestin kolmas osuus. Vire tuntui pirun hyvältä ja olikin. Kaikki vaan meni ykkösen karmeaan pummiin ja kakkosen reitinvalintaan. Sitten olin ruuti poltettu. Aika rämpimistä oli kyllä välillä. Vartti kovempaa ois pitäny tulla tälläkin kunnolla.
+
+http://muuankarski.org/suunnistus/doma/show_map.php?user=markus&map=96",
+2012-09-18,,Note,,,,,,,,,,,,,,,,,,,,,,,,,,Vähemmän liikuntaa ja enemmän töitä. Tuntuu kankealta.,
+2012-09-20,18,Running,,,01:37:07,,,,01:37:07,,,17.637,275.0,3.0,,127,145,,,,,,,,,Mizuno Aero 9,,Naapurin vapaaottelijan kanssa kevytvauhtinen lenkki. Oikea takareisi on kovasti jumissa. Vkonlopun kisat ja kolmen päivän istuminen on jumittanut pahasti. Loppua kohden alkoi kolottaa vähän muualtakin. Ihan pirteästi silti.,
+2012-09-20,8,Yoga,,,00:15:00,,,,00:15:00,,,,,3.0,,,,,,,,,,,,,,Vähän aamuvoimistelua. Ihan hirveetä.,
+2012-09-22,21,Running,,,00:24:05,,,,00:24:05,,,5.195,25.0,3.0,,140,156,,,,,,,,,,,Iltahölkkä veljen luota. Ei oikeen kulje.,
+2012-09-23,19,Running,,,01:10:06,,,,00:51:00,00:10:06,00:09:00,15.734,254.0,3.4,,150,181,,,,,,,,,Mizuno Aero 9,,"Reippaampi iltalenkki synkässä ja myrskyisessä illassa. Vedin yhden kiekan reippaasti (2.6, 10.01) ja toisen täysiä (2.6, 9.33). siinä on joku 60 metriä nousua ja 25 korkeuseroa. Ei mitenkään lentoisaa, mutta ihan ok. Tuolla suolla ja risukossa vaan ei jaksa ollenkaan polkea.",
+2012-09-25,20,Running,,,01:24:38,,,,01:24:38,,,16.039,231.0,3.0,,146,165,,,,,,,,,Mizuno Aero 9,,"Lamppulenkki keskuspuistossa ja jossain missä lie. Yritin mahdollisimman paljon juosta pimeitä polkuja. Varmaan tuli koukkuja aika paljon. 
+
+Ennen lenkkiä luonnoin aiheesta ""IT ja suunnistuksen taitoharjoittelu"". Diat:
+http://markuskainu.fi/files/6713/4857/5857/presentation.html#slide1",
+2012-09-26,20,Orienteering,,,01:15:15,,,,,01:15:15,,7.1,125.0,4.0,,151,174,,,,,,,,,VJ Bold,,"Yö-treeni Kuusijärvellä. Pehmeää olo ja vedin aika kevyellä tatsilla. Etenkin tuon taitopuolen...
+
+Doma:
+http://muuankarski.org/suunnistus/doma/show_map.php?user=markus&map=107",
+2012-09-28,20,Orienteering,race,,00:54:52,,,,,,00:54:52,6.3,144.0,5.0,,,,,,,,,,,,VJ Bold -11,,"SM-yö karsinta. Ihan hyvin meni, pieniä virheitä ja en ihan täysiä vetäny. Kannatti, vikana a-finaaliin!
+
+http://muuankarski.org/suunnistus/doma/show_map.php?user=markus&map=110",
+2012-09-28,20,Running,,,00:25:00,,,,00:25:00,,,4.0,,3.0,,,,,,,,,,,,VJ Bold -11,,Hyväy verruttelyt enne ja jälkeen,
+2012-09-29,19,Orienteering,race,,01:42:37,,,,,,01:42:37,13.1,217.0,5.0,,,,,,,,,,,,VJ Bold -11,,"SM-yö A-finaali. No perhaha, hienosti meni läpi. Karu sää, vettä tuli alkuun aika rankasti ja suo oli pehmeitä 46 kengälläkin. Tarkemmat taitoerittelyt domassa.
+
+http://muuankarski.org/suunnistus/doma/show_map.php?user=markus&map=111",
+2012-09-29,19,Running,,,00:10:00,,,,00:10:00,,,1.5,,3.0,,,,,,,,,,,,VJ Bold -11,,Sen verrran hölkkäsin viitoituksesta. Kävin rauhassa hupun sisällä läpi tulevaa suoritusta sateen ropistessa gore-texiin.,
+2012-10-01,,Note,,,,,,,,,,,,,,,,,,,,,,,1,,,uupumus,
+2012-10-02,,Note,,,,,,,,,,,,,,,,,,,,,,,1,,,Töitä ja yskää. Ihan oikeaa yskää. Tuli ventiloitua suon ylityksissä  liian rajusti.,
+2012-10-03,,Note,,,,,,,,,,,,,,,,,,,,,,,1,,,yskittää ja matalan työn tuottavuuden vuosi joutuu illasta pidentää,
+2012-10-04,,Note,,,,,,,,,,,,,,,,,,,,,,,1,,,Oisko huomenna taas reenipäivä,
+2012-10-05,,Note,,,,,,,,,,,,,,,,,,,,,,,1,,,"Vähän kipee, liian paljon töitä. Öisin yskittää.",
+2012-10-06,,Note,,,,,,,,,,,,,,,,,,,,,,,1,,,huilasin ku vieläkin heikko olo,
+2012-10-07,14,Running,,,01:25:45,,,,01:25:45,,,18.01,304.0,3.0,,152,167,,,,,,,,,Mizuno Aero 9,,"tv-medium. ehkä syssyn hienoin päivä ja aattelin päättää ylimenokauden tähän. tuli vähän huonosti juotua ja kun mustikkamaalla oli miltei hellekeli, niin jano oli ja paheni. Sykkeet nousi siinä samalla. Aika paljon juokukunto viikossa heikkenee kun vaan istuu perseellään ja yskii.",
+2012-10-15,17,Running,,,00:41:43,,,,00:41:43,,,7.895,155.0,3.0,,131,145,,,,,,,,,Mizuno Aero 9,,"Paluu lenkkipolulle. Datan mukaan hissuttelulenkki, mutta aika heikolle tuntui puolen välin tienoolla. Lopussa alkoi jo vähän väsymys sulaa. Viikon keskiarvoiset unitunnit siinä kahden kolmen paikkeilla.",
+2012-10-17,21,Running,,,00:41:04,,,,00:41:04,,,8.429,108.0,3.0,,,,,,,,,,,,Mizuno Aero 9,,Iltahissuttelu työpaikan kautta. Juoksutekniikkaa tuomiokirkon portaissa. Harjoittelun ja perheen yhteensovittaminen on vielä kesken.,
+2012-10-19,20,Running,,,01:03:41,,,,01:03:41,,,14.444,147.0,3.0,,154,173,,,,,,,,,Mizuno Aero 9,,"Hevosmiesten termeillä tv-reipas. Alkuun vähän yski, mutta loppua kohden lämpeni. Takareisi on parantunut kun en oo istunut työtuolilla vaan tehnyt hommia kotona seisoma-asennossa. Sunnuntaina joku raatoon valmistava. 
+
+Oisko se 15 kilsaa sitten Sipoossa viikon päästä??",
+2012-10-21,20,Running,,,01:12:18,,,,01:12:18,,,14.499,159.0,3.0,,139,159,,,,,,,,,Mizuno Aero 9,,"Hissuttelin hiljalleen. Hyvin kulki, märkää oli.",
+2012-10-25,,Note,,,,,,,,,,,,,,,,,,,,,,,,,,miten helvetissä yhdistää harjoittelu työelämään ja perhe-elämään?,
+2012-10-26,,Running,,,00:25:00,,,,00:25:00,,,5.0,,3.0,,,,,,,,,,,,Mizuno Aero 9,,"Raatojuoksuun valmistavaan harjoitusputkeen valmistava iltahissuttelu. Tuntui hirveältä hyvin epäliikunnallisen viikon jälkeen. Ei sinänsä hätää, sillä raadon pahimmat kilpakumppanit, apsu ja pforma, ovat molemmat flunssan kourissa.",
+2012-10-27,18,Running,,,00:58:04,,,,00:58:04,,,12.202,196.0,3.0,,150,169,,,,,,,,,Mizuno Aero 9,,Kankiaa juoksua Mustikkamaalla. Todella kankiaa. Muutaman päivän tiivis työputki istumisineen ja valvomisineen on kyllä myrkkyä. Alkuviikosta tuli painoakin varmaan pari kiloa lisää. Huomenna täytynee mennä maastoon tekemään taitoharjoitus. Fyysisesti peli alkaa olla menetetty raatoa silmällä pitäen.,
+2012-10-28,19,Running,,,01:25:52,,,,00:25:52,01:00:00,,18.589,296.0,3.7,,153,181,,,,,,,,,Mizuno Aero 9,,"Hevosmiesten kirjanpidon mukaan tv-reipas. Metrolla Hertsikkaan ja siellä pari rinkiä Herttoniemi-Viikki-Myllypuro -rinkiä. Pohkeet oli edellispäivien hölkistä kireänä, mutta muuten kulki jo paremmin. Joku metsäsuunnistusharjoitus olisi hyvä saada viikolle että jaksais mettässä. Olkoonkin jos pakkanen pysyy, niin nykyaskel on routaiseen maastoon aika hyvä.",
+2012-10-30,20,Running,,,00:31:43,,,,00:20:43,00:11:00,,7.049,44.0,3.35,,151,169,,,,,,,,,Mizuno Aero 9,,"Iltalenkki Ympyrätalon S-marketin suuntaan. Tätä Töölönlahden rinkiä kiertävät ymmärtääkseni mm. deltajengin seniorit toisinaan. Puiseva lenkki, jossa jokaisen kanssajuoksijan korvista tulee johdot. Ei kummempaa kulkua. Jos huomenna jotain iisiä pitkää maastossa.",
+2012-11-01,18,Running,,,01:20:13,,,,01:20:13,,,15.563,255.0,3.0,,146,175,,,,,75,,,,Mizuno Aero 9,,"Viimeistelyjuoksu raatoon. Juoksin 15 kilometriä hiljalleen saadakseni varmuuden että jaksan lauantaina saman matkan. Hyvin jaksoin, mukavaa oli. Paino on pudonnut kun jooga on ollut jäähyllä. Läskiä on kyllä tullut mm. mahaan.",
+2012-11-03,10,Orienteering,race,,01:57:15,,,,,01:57:15,,18.623,253.0,4.0,,167,185,,,,,,,,,VJ Bold -11,,"Ei kulkenut tänään. Ei suunnistus, eikä juoksu. Alussa törkeätä pummailua ja juoksu alkoi hiipua hyvin nopeasti. Paras tsemppi jäi kyllä ykkösen reitinvalintaan. Mutta keposesti jaksoin, kuten torstain valmistavan perustella osasin osoittaa. Vauhti ja suunta vaan oli hukassa.
+
+Doma:
+http://muuankarski.org/suunnistus/doma/show_map.php?user=markus&map=130",
+2012-11-16,,Note,,,,,,,,,,,,,,,,,,,,,,,1,,,Kävin vaunuja työntelemässä. Alaselkä kipeytyi. Alkaa olla kroppa pikku hiljaa palautunut raadosta.,
+2012-11-21,,Note,,,,,,,,,,,,,,,,,,,,,,,,,,Menen illalla juoksulenkille,
+2012-11-21,,Running,,,00:50:00,,,,00:50:00,,,9.5,,3.0,,,,,,,,,,,,VJ Bold -11,,"Saunalenkki kovassa veteliläisessä seurassa. Hieman juoksutuntuma hävinnyt, mutta miten hienoa. Jos tästä alkaisi hiljalleen taas liikkumaan.",
+2012-11-22,,Running,,,00:40:00,,,,00:40:00,,,7.5,,3.0,,,,,,,,,,,,Mizuno Aero 9,,"Yks rinki mustikkamaata naapurin mustan vyön fujitsun kanssa. Veettiin leukoja kilpaa. Pääsin 1-2-3-4-5-6. Aika heikkoa, Mukavasti tuntui eilinen juoksu kintereissä.",
+2012-11-27,21,Running,,,00:39:31,,,00:39:31,,,,7.997,156.0,2.0,,146,168,,,,,,,,,Mizuno Aero 9,,Iltalenkki Mustikkamaan ympäri satelliittikellon kanssa. Leuat 4/5. Kankiaa on.,
+2012-11-29,20,Running,,,00:38:19,,,,00:38:19,,,7.693,135.0,3.0,,152,169,,,,,,,,,,,"Iltalenkki alkavassa lumipyryssä. Ajattelin Tapani Arviston salitreenejä ja mieleen tuli tämä pätkä rockysta.
+
+<iframe width=""560"" height=""315"" src=""http://www.youtube.com/embed/b6w4XtsfyVo"" frameborder=""0"" allowfullscreen></iframe>",
+2012-11-30,,cycling,,,00:45:00,,,,00:45:00,,,8.0,,3.0,,,,,,,,,,,,Bullitt cargo,,"Kova vääntö Lauttasaaresta Lintulahteen pahimpaan aikaan. Ei ollut muita pyöräilijöitä. Tällaista sähkövetoa olisi kaivannut.
+
+<iframe width=""420"" height=""315"" src=""http://www.youtube.com/embed/5VqeQjw41ro"" frameborder=""0"" allowfullscreen></iframe>",
+2012-12-01,,cycling,,,00:40:00,,,,00:40:00,,,10.0,,3.0,,,,,,,,,,,,Bullitt cargo,,Ajelua tampatuilla pyöräteillä. Kulkee ku juna,
+2012-12-02,,cycling,,,00:45:00,,,,00:45:00,,,19.0,,3.0,,,,,,,,,,,,Bullitt cargo,,"Hertikka, viikki vanhakaupunki bullitilla. voimille otti, ehkä vaan tussut kumet.",
+2012-12-03,,cycling,,,00:40:00,,,,00:40:00,,,16.0,,3.0,,,,,,,,,,,,Bullitt cargo,,Larusta hain nastat myös taakse. Nyt voi kiihdytellä rajummin valoista.,
+2012-12-08,17,cycling,,,00:46:22,,,,00:46:22,,,13.587,75.0,3.0,,,,,,,,,,,,Bullitt cargo,,Arkiliikuntaa satelliittikellon kanssa. Aika paskat on ajaa pyörällä kun on paksusti lunta.,
+2012-12-17,21,cycling,,,00:34:59,,,,00:34:59,,,7.787,169.0,3.0,,129,165,,,,,,,,,Bullitt cargo,,"Lähdin katsomaan olisiko Mustikkamaalla ladut jo tehty. Ladut oli erinomaisessa kunnossa, mutta pyörätiet edelleen karmeassa kunnossa. Pk-tehoilla pääsin tuollaista 13 km keskituntituntinopeutta. Jos ne huomenna olisivat auratut niin aloittaisin hiihtokauden. Voisin aloittaa.",
+2012-12-22,20,cross-country skiing,,,00:58:14,,,,00:58:14,,,14.46,250.0,3.0,,135,169,,,,,,,,,xc-ski - classic,,"Cargolla menot ja mustikkamaalla pari rinkiä pertsaa. Tuomiokirkon torni näky ja yksin sai hiihellä.
+
+Skeittihallilla oli ollu kuulemma täyttä. Onko hiihto jäämässä pois muodista?",
+2012-12-23,20,cross-country skiing,,,00:44:06,,,,00:44:06,,,10.483,186.0,3.0,,126,160,,,,,,,,,xc-ski - classic,,"Piti vetää pari kiekkaan pidemmästi, mutta ekan potkun jälkeen tajusin ettei onnistu. Nivusissa oli kiputilaa ja jäykkyyttä niin, ettei potkuun saanut pitoa. Etelätuuli oli myös tuiskuttanut latua tukkoon. Sen sijaan tulin kotia ja kaivoin rellun hangesta. En merkannut vaikka oli hiihtoa kovempi reeni.",
+2012-12-26,19,cross-country skiing,,,01:07:36,,,,,01:07:36,,15.168,194.0,4.0,,153,178,,,,,,,,,xc-ski - classic,,Iltalenkki Piffenin skibanalla Paraisilla. Aamun paukkupakkanen oli lauhtunut nollakeliksi ja pöperöisellä ladulla tervapurkki lipsui. Edellisestä lenkistä vielä kipeät nivuset tekivät lipsuvasta menosta hieman tukalaa. Luvattu plus-asteita seuraaviksi päiviksi. Täytynee viedä peltoset IKRP:n pukille ja pyytää joku leudon kelin hyvä tälli.,
+2012-12-28,12,cross-country skiing,,,01:06:50,,,,01:06:50,,,14.776,174.0,3.0,,155,178,,,,,,,,,xc-ski - classic,,"Heikkoa menoa heikolla ladulla. Pitäisi saada ketju-Pentti opettamaan laduntekoa paraislaisille. Ladut ajetaan suvella eikä pakkaspäivänä suven perään. Tai ajetaan ylipäänsä. Suurimmat puutteet kuitenkin suksen päällä, no suksen siteestä irtosi kantalappu. Haarakäyntinousuissa vitutti vielä sitten sekin.",
+2012-12-29,9,cross-country skiing,,,00:45:45,,,,00:45:45,,,11.332,128.0,3.0,,148,175,,,,,,,,,xc-ski - classic,,"Aamulenkki ennen lauantain rientoja. Audienssi marathoonari IKRP:n kanssa myöhemmin ja piti varmistaa omalta osalta ettei selityksiä tarvita harjoittelun osalta.
+
+Pakkanen oli kovettanut ladun ja tervan jämät antoivat verrattain hyvän pidon. Kantalappu pitää saada ensi tilassa kiinni.",
+2013-01-02,17,cycling,,,01:07:51,,,,01:07:51,,,22.339,177.0,3.0,,144,168,,,,,,,,,Bullitt cargo,,"Vähän lapsiperheen hyötyajoja ja sitten lenkkinä hakemaan lahjapakettia paloheinästä. Ei oikein kulkenut, mutta pääsin perille ja takaisin. Hain alla olevan vehkeen tulevaa kautta varten.
+
+<iframe src=""http://www.nordenmark.com/bilderhtml/produktreklam/mtb-extreme-eng.html"" width=""600px"" height=""600px""></iframe>",
+2013-01-05,19,cycling,,,01:08:05,,,,01:08:05,,,24.343,176.0,3.0,,139,169,,,,,,,,,Bullitt cargo,,"Iltalenkki velipojan kanssa. -5 pakkasta ja nastat vaan kipinöi kun vedettiin. Meno oli vähän ku videossa, paitsi että oli miehet ratissa ja milat hehku kypärissä.
+
+<iframe src=""http://player.vimeo.com/video/29442438"" width=""650"" height=""366"" frameborder=""0"" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe> <p><a href=""http://vimeo.com/29442438"">Bullitt Girls.</a> from <a href=""http://vimeo.com/user8493397"">Claus Andersen</a> on <a href=""http://vimeo.com"">Vimeo</a>.</p>",
+2013-01-06,16,Yoga,,,01:15:00,,,,01:15:00,,,,,3.0,,,,,,,,,,,,,,"Piiiitkästä aikaa joogassa. Kipuillut vanha jalka vaiva ja laiskuus pitäneet poissa. Nyt huolellinen voimistelu. Jäykkä, kipeä ja voimaton on kropasta tullut.",
+2013-01-06,16,winter swimming,,,00:00:01,,,,00:00:01,,,,,3.0,,,,,,,,,,,,,,Irina Krohn kertoi juuri elämä pelissä sarjassa kahdeksi parhaaksi harjoituksekseen kylmä uinnin ja joogan. Tein molemmat. Ensi sunnuntaina vielä aamulla kirkkoon. Sen voinee merkitä sielun vaellukseksi.,
+2013-01-13,15,Yoga,,,01:15:00,,,,01:15:00,,,,,3.0,,,,,,,,,,,,,,Yoga. Olin niin kipeä koko viikon etten voinut mennä kuin vasta tänään. Avannossa ja kirkossa jäi käymättä.,
+2013-01-19,14,Yoga,,,01:15:00,,,,01:15:00,,,,,3.0,,,,,,,,,,,,,,"Viikon tärkein ja ainoa harjoitus. No, kävin tän jälkeen vähän pidemmän kauppareissun cargolla. Töitä ja yskää tuppaa olemaan.",
+2013-02-02,,Yoga,,,01:10:00,,,,01:10:00,,,,,3.0,,,,,,,,,,,,,,niskahartiaseisonnassa näin kuinka läski tursusi resistä ja mahasta,
+2013-02-03,,cycling,,,00:40:00,,,,00:40:00,,,15.0,,3.0,,,,,,,,,,,,Bullitt cargo,,Eka lenkki Untoon kaa. Tällä mennään,
+2013-02-24,18,cycling,,,00:56:59,,,,00:56:59,,,20.792,132.0,3.0,,153,173,,,,,,,,,Bullitt cargo,,"Alotin treenikauden. Oon mä aika paljon arjessa ajellut, mutta muuten en oo tehnyt mitään. Tiukka flunssa kävi ja vähän liikaa ollut istumahommissa. Alkaa aurinko jo sulattaa. Pari viikkoa ja aletaan Unton kanssa heittämään Sipoossa lenkkejä kuivalla pinnalla.",
+2013-03-03,20,cycling,,,00:52:53,,,,00:52:53,,,14.185,232.0,3.0,,138,164,,,,,,,,,Lapierre MTB,,"Meni neljä tuntia ja neljä sisuria kun yritin saada takarenkaalle uutta kumia. Tiedoksi tubeless-kiekon kanssa häärääville, että se keskirako on tarkoitettu avuksi tähän hommaan. Hirveessä vitutuksessa viimein illalla pimeällä vähän ajelemaan. Kerran tangon yli, kaikki säädöt pielessä. Kevään tullen alkaa raju sudittelu.",
+2013-03-07,11,cycling,,,00:51:08,,,,00:51:08,,,14.713,185.0,3.0,,140,171,,,,,,,,,Lapierre MTB,,"Oisko tää ollu maasturilla.. Oli. Kävin seurasaaren tuntumassa piston jäällä, mutta hanki ei kantanut. Hienoja polkuja keskuspuistossa.",
+2013-03-10,12,mtb-o,,,00:40:00,,,,,00:40:00,,8.0,,4.0,,,,,,,,,,,,Lapierre MTB,,"No, en vetänyt lapierrellä vaan iskän spessulla kaustisen puhkion hisu-treenin. Hengästytti kun on ollut hiljaista treenirintamalla.",
+2013-03-18,19,cycling,,,00:56:40,,,,00:40:00,00:16:40,,17.111,196.0,3.29,,145,168,,,,,,,,,Lapierre MTB,,"Joku pätkä vähän reilummin, muuten reipasta vääntämistä. Kivinokalla aika upeat koirankusetuspolut. Jotain iloa noista viihde-elukoista. Mila päässä vedin ja lunta satoi. Vähän eri meininki kun tapsan salonkiajoissa turussa.",
+2013-03-19,17,cross-country skiing,,,01:13:14,01:13:14,,,,,,11.07,35.0,0.0,,113,134,,,,,,,,,xc-ski - skating,,"Vetun miehen kanssa nihkeessä pakkaslumessa itäisen kantakaupungin saaristossa. Nähtiin korkeasaaren villieläimiä sekä graffititaiteilijoita työssään. Enemmän sykettä nosti keskustelu kuin hiihto, mutta parempi niin.",
+2013-03-20,,winter swimming,,,00:00:05,,,,00:00:05,,,,,3.0,,,,,,,,,,,,,,Vähän pidempi sessio.,
+2013-03-24,,cycling,,,00:50:00,,,,00:50:00,,,15.0,,3.0,,,,,,,,,,,,Lapierre MTB,,"Uruttelua nokalla. Siellä missä Kjell Westön eilisiltana päättyneen ""Missä kuljimme kerran"" romaanin filmatisoinnin tapahtumapaikat kuten Kiimaniemi sijaitsevat.",
+2013-03-25,20,cycling,,,00:39:08,,,,00:39:08,,,11.226,149.0,3.0,,139,161,,,,,,,,,Lapierre MTB,,Tykittelyä Nokalla. Ei oikein kulkenu.,
+2013-03-27,9,winter swimming,,,00:00:01,,,,00:00:01,,,,,3.0,,,,,,,,,,,,,,"Avantouintikuuri alkoi tänään. 
+
+<iframe src=""http://ubuntuone.com/3uvvf8TPMYtXOAANuIdZSk"" width=""525px"" height=""690px""></iframe>",
+2013-03-28,,Note,,,,,,,,,,,,,,,,,,,,,,,,,,"Menin avannolle, mutta pukkarin siivous oli päälle. En rohjennut vaihtaa laiturilla.",
+2013-03-29,9,winter swimming,,,00:00:01,,,,00:00:01,,,,,3.0,,,,,,,,,,,,,,,
+2013-03-29,,cycling,,,00:50:00,,,,00:50:00,,,18.0,,3.0,,,,,,,,,,,,Bullitt cargo,,"Unton KAA tuntuman hakemista. Toiselle tulee hiki, toiselle uni. Win-win",
+2013-03-30,19,Running,,,00:30:11,,,,00:30:11,,,5.252,83.0,3.0,,140,155,,,,,,,,,Lidl orange,,"Aloitin juoksuharjoittelun. IKRP:lle tuli ilmeisesti sama viesti jostain korkeammalta taholta. Otin uudet kengät käyttöön. Kuulemma on köyhät ajat tulossa, niin alan totuttaa jalkoja lidlin tuotteisiin.
+
+<iframe src=""http://ubuntuone.com/3csgillyTgFbdDjq3lDiUC"" width=""525px"" height=""440px""></iframe>",
+2013-03-30,10,winter swimming,,,00:00:01,,,,00:00:01,,,,,3.0,,,,,,,,,,,,,,,
+2013-03-31,18,cycling,,,00:57:08,,,,00:57:08,,,18.014,175.0,3.0,,140,173,,,,,,,,,Bullitt cargo,,"Sijoituskohteiden katselua itäisen Helsingin rannoilla. Poika nukkui ja uudet renkaat pitivät kuin ferrarin pirellit.
+
+<iframe src=""http://ubuntuone.com/6UtQlFxW6twlrrDRus5rQW"" width=""430px"" height=""563px""></iframe>",
+2013-04-01,13,cycling,,,01:46:31,,,,01:46:31,,,34.334,471.0,3.0,,148,177,,,,,,,,,Bullitt cargo,,Sibboooseen kahville ja takasin. Menomatkalla oli vähän vastasta tuulta ja kaupunkipaineet kumeissa. Paluumatkalle pistin 5 baaria aika parani 10 min. Apukuskille vaihdettiin kuivat vaipat rahtareiden kiroillessa Söderkullan nesteellä. Iskä ajoi märällä vaipalla koko matkan. Hyvä treeni. Vain vähän jäätä.,
+2013-04-02,,cycling,,,00:16:00,,,,00:16:00,,,18.0,,3.0,,,,,,,,,,,,Bullitt cargo,,"itiksessä käytiin ostoksilla. meni aika paljon pidempää, mutta laitoin vaan ylämäkiin puskemiseen käytetyn ajan. Jo Harri Kirvesniemi piti huippu-urheilijan merkkinä sitä, että sammuttaa kellon alamäessä. Nykypäivänä on sitten näitä ""urheilijoita"" joiden gps-käyristä näkee kusitauot yms.",
+2013-04-03,9,winter swimming,,,00:00:01,,,,00:00:01,,,,,3.0,,,,,,,,,,,,,,,
+2013-04-03,18,Running,,,00:43:56,,,,00:43:56,,,7.414,143.0,3.0,,,,,,,,,,,,Lidl orange,,"Fujitsu-miehen kanssa kauden avauslenkki. Hiljaa vedettiin, mutta koko ajan juostiin.",
+2013-04-05,19,Running,,,00:47:59,,,,,00:47:59,,10.043,162.0,4.0,,,,,,,,,,,,Lidl orange,,"Juoksin kympin. Sykemittarin asetukset oli huonot, mutta syke oli vähän koholla. Kolmen kilometrin jälkeen reisilihaksissa alkoi sisäinen verenvuoto, joka yltyi loppua kohden. Portaiden nousu kolmanteen kerrokseen oli tuskainen. Jos olisin yksin kotona en uskaltaisi istua pöntölle. Tulee parin päivän juoksutauko. Positiivista että kipu sama molemmilla puolilla. Pari päivää seisomatyöskentelyä on auttanut orastavaan vanhaan jalkavaivaan.",
+2013-04-05,9,winter swimming,,,00:00:02,,,,00:00:02,,,,,3.0,,,,,,,,,,,,,,,
+2013-04-06,10,winter swimming,,,00:00:01,,,,00:00:01,,,,,3.0,,,,,,,,,,,,,,,
+2013-04-06,10,cycling,,,00:45:00,,,,00:45:00,,,18.0,,3.0,,,,,,,,,,,,Bullitt cargo,,Asiointia unton kanssa. vedin koko ajan täysillä ja jeppe koisaili.,
+2013-04-07,13,cycling,,,00:35:00,,,,00:35:00,,,15.0,,3.0,,,,,,,,,,,,Bullitt cargo,,Käytiin sukuloimassa ja vähä tykittelemässä kaupunnilla.,
+2013-04-08,9,winter swimming,,,00:00:01,,,,00:00:01,,,,,3.0,,,,,,,,,,,,,,aurinko paisto ja pari senttiä tuoretta lunta. Niin oli vesi kirkasta ja kylmää!,
+2013-04-09,18,Running,,,00:39:19,,,,00:39:19,,,7.496,79.0,3.0,,140,156,,,,,,,,,Mizuno Aero 9,,Piti juosta itikseen ja takaisin. saattoväestä puhkesi perillä rengas ja takasin tultiin metrolla ja pyörään kantaen. Melko painava on tavarafillari toimistotyöntekijälle kun raahausmatka lasketaan kilometreissä.,
+2013-04-09,9,winter swimming,,,00:00:01,,,,00:00:01,,,,,3.0,,,,,,,,,,,,,,,
+2013-04-10,10,winter swimming,,,00:00:01,,,,00:00:01,,,,,3.0,,,,,,,,,,,,,,,
+2013-04-10,8,cycling,,,00:50:00,,,,00:50:00,,,21.0,,3.0,,,,,,,,,,,,Bike: Rossano-fixed gear42*16,,"Rossanossa välitys on 39*16, mutta sillä mentiin passihakemusta laittamaan vireille Malmille ja takaisin. Tämän päälle vielä rahtipyörälle se normi 10 kilsaa päivä päivältä lihova apukuljettaja mukana. Ei näitä merkkailla.",
+2013-04-13,20,cycling,,,01:05:58,,,,00:50:58,00:15:00,,29.107,226.0,3.23,,147,172,,,,,,,,,Bike: Rossano-fixed gear42*16,,"Hain biltemasta kolme sport-mallista ohjaintankoa. Asensin yhden Rossanon, pätkäsin hieman kapeammmaksi ja kiersin sisuskumesta tupit. Ja etulevariin vielä uusi kaapeli ja herkistely. Uskomaton lähiötykki. Kuvia luvassa kiinnostuneille. Alla yksi sport-ohjaustangosta.
+
+<iframe src=""http://www.biltema.fi/ProductImages/27/medium/27-0002_m.jpg"" width=""400px"" height=""300px""></iframe>",
+2013-04-14,10,cycling,,,01:00:00,,,01:00:00,,,,18.0,,2.0,,,,,,,,,,,,Bullitt cargo,,Kaks lenkkiä. Aamulla taas kumi hajos. Onneksi saatiin pakettiautolla kyyti takaisin. Illalla vähän kevyempää settiä. Uni ja hiki tuli entiseen tapaan.,
+2013-04-19,17,Running,,,00:31:40,,,,00:31:40,,,6.531,113.0,3.0,,,,,,,,,,,,Mizuno Aero 9,,valmisteleva lenkki sunnuntain kisaan,
+2013-04-21,11,Orienteering,,,01:04:10,,,,,00:50:00,00:14:10,9.836,83.0,4.22,,,,,,,,,,,,VJ Bold -11,,"Kauden avaus Paraisilla. Fysiikka oli väkevää, keskittymisessä vähän hapuilua. Juoksu kivutonta ilman mitään outoja uupumuksia, joten menestyksekäs kausi tulossa. Pitää vaan aloittaa kohta treenaaminen.
+
+http://suunnistus.muuankarski.org/doma/show_map.php?user=markus&map=136",
+2013-05-10,15,Running,,,00:28:00,,,,00:28:00,,,9.656,,3.0,,,,,,,,,,,,Mizuno Aero 9,,"Juoksu Viikkiin hakemaan Rellu huollosta. Pari tuntia tämän jälkeen nuori mies kaasutti kohti rellulla alupallot välkkyen kohti kuumaa kesää 2013. Yksi onnellinen autonomistaja lisää ja yksi onneton vähemmän. Juoksu oli kamalaa.
+
+Olen tehnyt vähän liikaa töitä viime viikot. Ja myös sairastellut.",
+2013-05-12,14,cycling,,,01:55:00,,,,01:55:00,,,40.5,,3.0,,,,,,,,,,,,Bullitt cargo,,"Pojan ja velipojan kanssa lenkki Espooseen. Oli melko hyvä reissu. Mononen nukkui koko matkan kun Leppävaaran Shellin tupakkipaikalle otettiin yks päärynägeeli.
+
+http://www.semperlastenruoka.fi/lastenruoka/hedelma-ja-marjasoseet/alkaen-4-kk/semper-eco-paarynaa-tayshedelmasose
+
+",
+2013-05-13,20,Running,,,00:53:25,,,,00:53:25,,,10.43,201.0,3.0,,142,156,,,,,,,,,Mizuno Aero 9,,tv-kevyt. kestävyysjuoksuharjoitus. taas ollaan pohjilla. juoksin hiljaa että kunto nousisi. ,
+2013-05-14,19,cycling,,,00:50:00,,,00:50:00,,,,19.0,,2.0,,,,,,,,,,,,Bullitt cargo,,Heitettiin pojan kanssa kierros vanhankaupunginlahden ympäri muutamilla ekstroilla. Iisisti.,
+2013-05-18,,walking,,,01:50:00,,,,01:50:00,,,12.0,,3.0,,,,,,,,,,,,,,Vähintää tuo. Yksi 8 kilometrin marssi Kitai-Gorodista Leninskiy Prospektille. Kartalla Helsingissä sama ku Hakaniemestä Kurviin. Iso on maailma Moskovassa.,
+2013-05-19,12,Running,,,01:28:33,,,,01:00:00,00:28:33,,17.456,260.0,3.32,,,,,,,,,,,,Mizuno Aero 9,,"Aamulenkki suuren maailman tyyliin Moskovassa. Piti vaan käydä tunnustelemassa huomista varten, mutta pikku pummin myötä matkaa kertyi aika paljon. Pohkeet melko tohjona loppumatkasta. Hemmetin hyviä polkuja mitä vedellä Moskovajoen rannalla. ",
+2013-05-19,12,walking,,,01:50:00,,,,01:50:00,,,12.0,,3.0,,,,,,,,,,,,,,Ja koko iltapäivä kävelyä. Varmaan tuli tuplat. Jalat aivan tohjona illan 4 kilometrin pikamarssin päätteeksi. Huominen lenkki peruttu.,
+2013-05-20,,walking,,,01:30:00,,,,01:30:00,,,10.0,,3.0,,,,,,,,,,,,,,Aika pitkiä haikkeja tein vielä. vaikka aamulla tuntui etten pysty kun taksiin nilkuttaa.,
+2013-05-21,,cycling,,,01:00:00,,,,01:00:00,,,18.0,,3.0,,,,,,,,,,,,Lapierre MTB,,rauhallista keulimista ja sudittelua vanhankaupunginlahden ympäri.,
+2013-05-23,20,Running,,,00:44:47,,,,00:44:47,,,8.577,167.0,3.0,,140,155,,,,,,,,,Mizuno Aero 9,,Aika pitkää päivää ja lyhyttä yötä taas. Jäi ruoatkin syömättä niin tuli noutaja nopeasti. Moskova painoi vielä pohkeissa.,
+2013-05-25,12,Orienteering,,,00:52:54,,,,,00:52:54,,6.6,145.0,4.0,,163,182,,,,,,,,,VJ Bold -11,,"Itärastit. Kartat oli jo loppu kun tultiin vajaa tunti alun jälkeen. Piirsin vähän suttuisesti ja sitten vedin ysille kun piti mennä kolmoselle ja sekosin. ~10 min. Sitten vielä toinen. Aika raskas oli askel, mutta paska oli kyllä karttakin. Eksyin täällä myös vuosi sitten.",
+2013-05-26,12,cycling,,,01:05:00,,,,01:05:00,,,22.0,,3.0,,,,,,,,,,,,Bullitt cargo,,raju veto laajalahteen. hissutellen kaupungin kautta takas. perillä kevyt muutto,
+2013-05-27,18,cycling,,,01:22:07,,,,01:22:07,,,30.261,129.0,3.0,,135,157,,,,,,,,,Bullitt cargo,,Käytiin Unton kanssa Biltemassa. Melko mukava reitti melko mukavassa säässä. Päästeltiin rajusti ja haettiin koko ajan aggressiivista ajolinjaa. Koirankarvoja kopannurkat täys.,
+2013-05-28,23,Note,,,,,,,,,,,,,,,,,,,,,,,,,,Valvoin auringonnousuun koko ajan keskittyen. Hyvä harjoitusta yöpätkille.,
+2013-05-29,18,Running,,,01:43:23,,,,01:43:23,,,20.467,238.0,3.0,,151,175,,,,,,,,,Mizuno Aero 9,,"Harjoittelin Apsun tapaan tunnin jälkeistä juoksemista. Pohkeet oli kovilla ja kaikinpuolin jäykkää. Kyllä pitäis tehdä ihan kaikkea muuta kuin juosta nylkyttää, vaan ehtiikö.. sykkeet ei kyllä ollu kai noin korkealla. helposti ois menny vielä pidempää, vaan pitäis mennä kovempaa!",
+2013-05-31,19,Running,,,00:49:57,,,,00:49:57,,,9.849,93.0,3.0,,143,169,,,,,,,,,Mizuno Aero 9,,"Eestin leirin avausharjoitus. Treenimaastojen katsastusta ja tasotestausta leiriohjelman hienosäädön tueksi. Vaikeaa oli kulku. Jäykkää ja huohottavaa. 
+
+Alla isolla kuormapyörällä ajelua satamien ja majapaikkojen väliä.
+
+<iframe src=""http://ubuntuone.com/2izJ7yX6fR7sgQUtOqoL7w"" width=""420px"" height=""625px""></iframe>",
+2013-06-01,10,cycling,,,01:39:24,,,,01:39:24,,,38.032,143.0,3.0,,131,153,,,,,,,,,Bullitt cargo,,Unton aamu-unien verran maisema-ajelua. Hienot oli maisemat. Ajeltiin metsäteillä ja yksityisteilä ihan vaan summan mutikassa. Virossa onni suosii rohkeaa.,
+2013-06-01,21,Running,,,00:37:47,,,,,00:37:47,,8.123,101.0,4.0,,155,183,,,,,,,,,Mizuno Aero 9,,"Leirin toinen pääharjoitus. Päivä meni kaupungilla samaan tapaan kuin muilla suomalaisturisteilla. Askel oli alussa siten hieman haparoiva, mutta parani lenkin edetessä. Vedin pari pätkää kovempaa ja aivan hirveältähän se tuntui ja varmasti näytti. Selkään ja hartioihin oli tulla kuolioita kun veri ei kierrä. Tullut istuttua ehkä hieman liikaa ja väärässä asennossa. Upea auringonlasku hotellin parvekkeelta.",
+2013-06-02,8,Running,,,00:23:21,,,,00:23:21,,,4.677,29.0,3.0,,144,160,,,,,,,,,Mizuno Aero 9,,Lämmittelyä aamum body massage hierontaan. Hieman oli helpompaa juoksu. Tein välillä voimisteluliikkeitä. Saan vedettyä ehkä kolme leukaa.,
+2013-06-02,9,Hieronta - massage,,,01:00:00,,,,01:00:00,,,,,3.0,,,,,,,,,,,,,,Anastasia leipoi body massagen. ,
+2013-06-04,18,Orienteering,,,01:23:55,,,,,01:00:00,00:23:55,9.5,239.0,4.29,,169,220,,,,,,,,,VJ Bold -11,,"Rasteilla Espoon Korpilammella. Kuuma päivä ja ihan totinen maasto. Rata oli helppo, mutta silti oli hapuilua. Pitäis saada rutiinit rutiineiksi. Vauhti oli hiljaista alusta asti. Ei taida jukolassa olla letkan keulaan, mutta enköhän mä mukana pysy. Jos ois vähän leudompi kelikin.
+
+http://www.suunnistus.muuankarski.org/doma/show_map.php?user=markus&map=164",
+2013-06-06,22,Running,,,00:21:36,,,00:21:36,,,,4.133,2.0,2.0,,132,142,,,,,,,,,Lidl orange,,Kevyt iltalenkki. Ei tunnu kevyeltä eikä irtonaiselta.,
+2013-06-08,11,Orienteering,,,00:44:19,,,,,00:20:00,00:24:19,5.31,150.0,4.55,,,,,,,,,,,,VJ Bold -11,,Turku-sprintin keskari Kaarinan Kuusistossa. Lämmin keli ja kunnon mukainen kulku. Vedin joka välin kompassilla ja muutenkin reenailin maneereja jukolaan. Ekan pitkän välin peesasin Bertuksia. Toisen pitkän välin olinkin sitten pahasti hapoilla ja lopun hissuttelin miten jaksoin. ,
+2013-06-10,6,Running,,,00:51:06,,,,00:51:06,,,9.736,72.0,3.0,,,,,,,,,,,,Mizuno Aero 9,,Aamulenkki diman kanssa. Jäykkää ja jumista menoa. Päälle hyinen dippaus ahvenanmereen.,
+2013-06-11,21,Running,,,01:19:55,,,,01:19:55,,,15.129,108.0,3.0,,,,,,,,,,,,Mizuno Aero 9,,"Juoksua tiellä ja ihan umpimettässä. Jumista on edelleen, mutta mukavasti jaksoin. Hienoa on metsä täällä päin oolantia.",
+2013-06-12,,Note,,,,,,,,,,,,,,,,,,,,,,,,,,"Reenattu on
+",
+2013-06-13,,cycling,,,00:55:00,,,00:55:00,,,,22.0,,2.0,,,,,,,,,,,,Bullitt cargo,,Varusteita hakemassa Konalasta. Kokeilin Inoveita. Ehkä teen hankinnan Jukolassa.,
+2013-06-14,23,Running,,,00:21:18,,,00:21:18,,,,4.381,1.0,2.0,,136,147,,,,,,,,,Mizuno Aero 9,,"Iltaverryttelyt Kalasataman maastoissa. Ihan hirveältä tuntui jaloissa ja kaikkialla kropassa. Näin retrospektiivisesti päivitettynä voi sanoa, että jukolan juoksu oli edellisillan verryttelyyn nähden aivan eri maailmasta.",
+2013-06-16,0,Orienteering,race,,01:26:20,,,,,,01:26:20,13.0,98.0,5.0,,,,,,,,,,,,INOV-8 OROC-280,,"Jukolan viestin 2. osuus. Tarkemmat kommentit domassa. Taas jäi hampaankoloon..
+
+http://muuankarski.org/suunnistus/doma/show_map.php?user=markus&map=169",
+2013-06-18,18,Orienteering,,,00:38:36,,,,00:20:00,00:10:00,00:08:36,5.422,12.0,3.7,,,,,,,,,,,,INOV-8 OROC-280,,"KOmmentit domassa:
+
+http://muuankarski.org/suunnistus/doma/show_map.php?user=markus&map=171",
+2013-06-19,,Note,,,,,,,,,,,,,,,,,,,,,,1,,,,noro-virus. Erittäin heikkona.,
+2013-06-20,,Note,,,,,,,,,,,,,,,,,,,,,,1,,,,Toipumista ripulista. Koko talo oksentaa. Kesälomaa parhaimmillaan. ,
+2013-06-22,17,Running,,,01:16:09,,,,01:16:09,,,13.844,137.0,3.0,,,,,,,,,,,,INOV-8 OROC-280,,Tuomaksen kanssa toipumislenkki Puusaaresa. Juostiin kaikki klassikkopolut ja karhuhavaintopaikat. Polut umpeutuu ja karhuja ei näkyny. Mukava lenkki. Kulku ei ollut mahataudista järin keventynyt. Selkä makaamisesta jäykkänä.,
+2013-06-27,17,Yoga,,,01:10:00,,,,01:10:00,,,,,3.0,,,,,,,,,,,,barefoot - avojaloin,,"Jooga. Reilu kaksi viikkoa joogaviikon alkuun. Oli pakko aloittaa. Valtaosa pousseista jäi tekemättä, koska en ylettynyt. Myös erilaisia akuutteja äärimmäisiä kiputiloja ilmeni. Keskityn nyt tähän kunnes valmistautuminen syksyn SM-turneehen alkaa.",
+2013-06-29,15,cycling,,,01:11:26,,,01:11:26,,,,25.052,253.0,2.0,,122,155,,,,,,,,,Bullitt cargo,,Velipojan ja oman pojan kanssa keskuspuistossa. Käytiin paluumatkalla varustelekassa. Pääsi sivarikin hipelöimään maihareita ja taisteluvöitä.,
+2013-07-01,15,Yoga,,,01:15:00,,,,01:15:00,,,,,3.0,,,,,,,,,,,,barefoot - avojaloin,,"Kivut helpottaneet niin että tohdin palata salille. Heikkoa oli edelleen, mutta askel on jo pidentynyt senttejä.",
+2013-07-07,16,Yoga,,,01:15:00,,,,01:15:00,,,,,3.0,,,,,,,,,,,,barefoot - avojaloin,,Penkkiurheilua aamupäivä ja iltapäivällä voimistelua. Hyvin meni molemmat. ,
+2013-07-09,19,Yoga,,,01:10:00,,,,01:10:00,,,,,3.0,,,,,,,,,,,,barefoot - avojaloin,,Iltamysore 3. linjalla. Alkaa vähän antaa liha jo periksi. vielä yksi harjoitus ennen joogaviikkoa eestissä.,
+2013-07-12,14,cycling,,,00:54:50,,,,,00:54:50,,28.221,103.0,4.0,,,,,,,,,,,,Bullitt cargo,,"Matkalla Haapsaluun. Muu perhe meni pätkän taksilla, mä lämmittelin Bullittia ennen Läänemaan terviseteetä. Erinomaisesti kulki.",
+2013-07-12,16,cycling,,,02:30:00,,,02:30:00,,,,51.206,50.0,2.0,,,,,,,,,,,,Bullitt cargo,,"Läänemaan tervisetee koko porukalla. Cargossa oli painoa lähemmäksi sata kiloa, mutta onneksi korkeuserot olivat minimaaliset. Kannattaa katsoa gps.
+
+<iframe src=""http://ubuntuone.com/66lZ7DRTnbGOHod6P1bPfy"" width=""620"" height=""930""></iframe>",
+2013-07-14,7,Yoga,,,01:15:00,,,,01:15:00,,,,,3.0,,,,,,,,,,,,barefoot - avojaloin,,,
+2013-07-15,,Yoga,,,00:30:00,,,,00:30:00,,,,,3.0,,,,,,,,,,,,barefoot - avojaloin,,Kevyttä ylläpitävää voimistelua,
+2013-07-16,,Yoga,,,01:15:00,,,,01:15:00,,,,,3.0,,,,,,,,,,,,barefoot - avojaloin,,Aamuharjoitus. Melko rankkaa.,
+2013-07-17,8,cycling,,,00:37:40,,,,,00:37:40,,17.315,42.0,4.0,,,,,,,,,,,,Bullitt cargo,,Tiukempi lepopäivän aamuveto Rohukylän satamaan ja takaisin. Poika nukku ja isä huohotti.,
+2013-07-18,7,Yoga,,,01:15:00,,,,01:15:00,,,,,3.0,,,,,,,,,,,,barefoot - avojaloin,,Aamuharjoitus. Melko rankkaa.,
+2013-07-19,10,cycling,,,04:02:09,,,04:02:09,,,,74.738,156.0,2.0,,,,,,,,,,,,Bullitt cargo,,Haapsalusta Paldiskiin. Bullitt oli kevyttä ja vastatuuli meni läpi kun oli viikko joogattu.,
+2013-07-20,12,Yoga,,,01:10:00,,,,01:10:00,,,,,3.0,,,,,,,,,,,,barefoot - avojaloin,,Kotijooga. Leirin pöhinöissä jaksaa keskittyä vielä kotonakin.,
+2013-07-22,7,Running,,,00:38:58,,,,00:38:58,,,7.563,154.0,3.0,,,,,,,,,,,,Mizuno Aero 9,,AAmulenkki Ekebergille ja takaisin. Näin pitkän juoksutauon jä'lkeen olisi syytä sijoittaa juoksut iltaan ja välttää vuorijuoksua asfaltilla. Tästä tulen kipeäksi. Muuten kulki hyvin ja oli kevyt olo.,
+2013-07-24,7,Note,,,,,,,,,,,,,,,,,,,,,,,,,,lihaskivut edelleen melko pahat. Aamujoogan sijaan otin pitkän kuuman suihkun ja nilkutin aamupalalle.,
+2013-07-25,22,Running,,,00:42:20,,,,00:30:00,00:12:20,,8.599,167.0,3.29,,,,,,,,,,,,Mizuno Aero 9,,"Iltalenkki meni myöhäiseen, mutta niin ne vaan on koodit kirjoitettava. Sama alku ku maanantaiaamun lenkillä, mutta käänsin Baekkelagetin kautta rantaan ja takaisin. Metsäpoluilla tuntui että mm. Björnar Valstad on varmasti vetänyt tässä vauhtileikittelytyyppistä harjoitusta. Melko isot korkeuserot näillä jaloille, nimittäin palautuminen oli vielä pahasti kesken. Oslon ilta on lämmin >25C.",
+2013-08-02,10,Yoga,,,01:10:00,,,,01:10:00,,,,,3.0,,,,,,,,,,,,,,aamupäivän joogaharjoitus viikon laiskottelun päälle. Oikein otti ja tuntui. ,
+2013-08-03,21,track cycling,,,00:01:40,,,,,,00:01:40,1.022,1.0,5.0,,172,176,,,,,,,,,Hamlet 44*17,,Velolla enkkoja yrittämässä. tonni paikaltaan 1.40 (katso gps) ja lentävä 400m 30.73. Otin Mäkelänkadulla niin kovat hapot matkalla ettei pystynyt radalla oikein tykittää. Ja joogasta oli takareidet tulessa. Tulevalla viikolla parantamaan aikoja. Mentiin aidan yli salaa.,
+2013-08-05,8,Yoga,,,01:10:00,,,,01:10:00,,,,,3.0,,,,,,,,,,,,barefoot - avojaloin,,,
+2013-08-06,18,Note,,,,,,,,,,,,,,,,,,,,,,,,,,Illalla punnerruksia ja muita kuntoliikkeitä pihakuntosalilla. Viitsi näitä merkkailla.,
+2013-08-07,17,Orienteering,,,01:02:44,,,,,,01:02:44,7.0,168.0,5.0,,178,191,,,,,,,,,INOV-8 OROC-280,,"Aluerastit Vantaalla. Aika rankka keikka. Domat kohta.
+
+http://suunnistus.muuankarski.org/doma/show_map.php?user=markus&map=216",
+2013-08-07,19,cycling,,,00:28:00,,,,00:28:00,,,7.3,35.0,3.0,,143,166,,,,,,,,,Bike: Rossano-fixed gear42*16,,Verryttelyt Mellunmäen metrolta kisapaikalle ja takas. Löysin hyvän mettäreitin.,
+2013-08-08,,Note,,,,,,,,,,,,,,,,,,,,,,,,,,Pikkukoskella harrastamassa kerroshyppyjä. Punttikatoksella kokeilin penkkienkkoja. 10 vuoden tauon jälkeen ei 80 kiloa enää noussut. Joskus meni pitkiä sarjoja. Enää ei oo siitä virhetreenistä jäljellä kun jäykkä selkä ja liikkuvuusrajoitteiset hartiat/olkapäät. Pari vuotta joogaa ja jäljet voi olla häipyneet.  ,
+2013-08-09,10,Yoga,,,01:15:00,,,,01:15:00,,,,,3.0,,,,,,,,,,,,barefoot - avojaloin,,Taiteilijajooga aamupäiväunien päätteeksi. Vedin tiukan kaupunkiMTB-Osprintin Annankadulle ja valuin hikeä jo saliin tullessa. Siitä sitten bandhat tiukkoina punnerrusta toisen perään. Hyvä harjoitus.,
+2013-08-11,8,Yoga,,,01:15:00,,,,01:15:00,,,,,3.0,,,,,,,,,,,,,,aamu voimistelua annankadulla,
+2013-08-11,,Note,,,,,,,,,,,,,,,,,,,,,,,,,,"Ilmoittauduin lynxin kansallisiin. <a href=""https://irma.suunnistusliitto.fi/irma/public/competition/entries?id=1204493&reportType=1&competitionClass=H21A&club=0&user="">Kauden ensimmäistä voittoa lähdetään hakemaan</a>",
+2013-08-12,17,cycling,,,00:31:57,,,,00:31:57,,,9.689,53.0,3.0,,119,152,,,,,,,,,Bike: Rossano-fixed gear42*16,,"Verryttelyt Paloheinään. Uusi <a href=""http://miketechinfo.com/brooks021-sm.jpg"">Brooks</a> pehmitettävänä, joten painoa polkimilla tavanomaista enemmän. Kevyt hiki pintaan.",
+2013-08-12,17,Orienteering,,,00:51:24,,,,,00:11:24,00:40:00,7.0,68.0,4.78,,172,189,,,,,,,,,INOV-8 OROC-280,,"Pahamainen paloheinän viidakko. Käsittämättömiä polkuja, jotka alkavat vahvoina oikeasta paikasta ja häviävät hetkeä myöhemmin saniaisten sekaan. Kaatuneita puita ja maagisia kompassiin vaikuttavia voimia. Kakkoselle vedin hipihiljaa ja varman päälle ja mitä vielä.. Ysillä johdatin Veve:n hävittäjäpilotin rastille ja jätin tossulla. Parempi kulku, pintakaasulla uskomattoman lennokasta. Hana auki tukehtuu. 
+
+Kartta niille, joilla ei vetun domaa feedlyssä tms.
+http://www.suunnistus.muuankarski.org/doma/show_map.php?user=markus&map=220",
+2013-08-12,19,cycling,,,00:29:22,,,,00:29:22,,,10.013,47.0,3.0,,139,165,,,,,,,,,Bike: Rossano-fixed gear42*16,,Verrryttelyt takaisin. Onneksi oli fiksissä jarru. eilisen joogan väsyttämät takareidet alkoivat jo nikotella alamäissä.,
+2013-08-13,,Note,,,,,,,,,,,,,,,,,,,,,,,1,,,"Pidin lepopäivän kun eilen Paloheinän rastien jälkeen oli tuntemuksia alaselässä. Nopea lantion liikkuvuuden lisääntyminen mahdollistaa liian rajut hypyt ja pitkät askeleet, joihin selkä ei ole vielä valmis.",
+2013-08-14,10,Yoga,,,01:10:00,,,,01:10:00,,,,,3.0,,,,,,,,,,,,barefoot - avojaloin,,Perustekemistä selkää varoen. Ei siinä mitään tuntemuksia. Selän lihakset vähän varuillaan tapahtuneesta. Liikkuvuudessa ei eroja. Vedin matkat bullitilla lämpösukissa ja sandaaleissa. Alan ottamaan tuntumaa jo yösuunnistuskauden varusteisiin.,
+2013-08-16,16,Yoga,,,01:10:00,,,,01:10:00,,,,,3.0,,,,,,,,,,,,barefoot - avojaloin,,Iltapäiväjooga. AAmujoogan suojajumi oli poissa ja venyvyys hirvitti. Seĺkä ok.,
+2013-08-18,11,Orienteering,race,,00:45:38,,,,,,00:45:38,6.0,128.0,5.0,,182,196,,,,,,,,,INOV-8 OROC-280,,"Kansalliset Kirkkonummen Veikkolassa. Heikkoa oli suunnistaminen eikä fysiikkakaan ihan parhaiden tasolla. Sykkeet oli hyvin.
+
+http://suunnistus.muuankarski.org/doma/show_map.php?user=markus&map=221",
+2013-08-19,18,cycling,,,00:46:00,,,,00:46:00,,,16.371,140.0,3.0,,125,154,,,,,,,,,Bullitt cargo,,Iltalenkki Unton kans. Kateltiin lintuja ja kiipeiltiin portaita. Syssyn hajua kaislikossa.,
+2013-08-21,18,Running,,,00:32:16,,,00:32:16,,,,6.132,2.0,2.0,,133,150,,,,,,,,,Mizuno Aero 9,,iltalenkki,
+2013-08-22,17,Yoga,,,01:05:00,,,,01:05:00,,,,,3.0,,,,,,,,,,,,barefoot - avojaloin,,jookaa,
+2013-08-23,9,cycling,,,01:17:35,,,,01:17:35,,,30.021,190.0,3.0,,138,162,,,,,,,,,Bullitt cargo,,elektroniikkaa espoosta untoo kaa bullitilla,
+2013-08-24,,Note,,,,,,,,,,,,,,,,,,,,,,,,,,oli lenssuoloa eilen filaroidessa ja illalla vähän paheni. varmaan jotain lassilan poikien kulkutautia jonka pohjoistuuli toi. peruin jo sovitun pitkän lenkin.,
+2013-09-02,10,Running,,,00:43:26,,,,00:23:26,00:20:00,,9.867,104.0,3.46,,,,,,,,,,,,Mizuno Aero 9,,"Aamulenkki Torinossa. Viikko mennyt hyvin epäurheilijamaisissa merkeissa, mutta kun oltiin ison kaupungin keskustassa lähdin reippaasti liikkeelle. Parin kilsan jälkeen olin alle neljän vauhdissa ja ajattelin jatkaa vielä viiteen kilometriin reippaasti että saa testijuoksun ajan. Sitten hissuttelin takaisin kämpille. Kannattaa kattoa mestoja gps:stä. Oli nimittäin melko komiat.",
+2013-09-04,17,Orienteering,,,00:38:21,,,,,00:38:21,,4.6,111.0,4.0,,,,,,,,,,,,INOV-8 OROC-280,,"Aluerastit Sipoossa. Juostiin Jukolan maastoissa ja hienot oli mettät. Juoksukin kulki yllättävän hyvin. Juoksin sitä vauhtia mikä tuntui hyvältä ja suunnistuskin sujui ok.
+
+<a href=""http://suunnistus.muuankarski.org/doma/show_map.php?user=markus&map=227"">Doma</a>
+</br>",
+2013-09-07,14,Yoga,,,01:10:00,,,,01:10:00,,,,,3.0,,,,,,,,,,,,,,"Paluu tatamille. Oli lähellä pitkä tauko, mutta sain otettua homman haltuun. Arkana oli paikat, huomenna varmasti vielä enemmän.",
+2013-09-08,13,cycling,,,02:16:07,,,,02:16:07,,,56.019,402.0,3.0,,124,166,,,,,,,,,Bullitt cargo,,Sunnuntain pitkä lenkki Espoon suunnassa featuring Äänipäät*3. Ehkä miljoona cargolle liian korkeaa kivetystä. Pitää hankkia katumaastori.,
+2013-09-09,,Note,,,,,,,,,,,,,,,,,,,,,,,,,,Yötreeniaikataulun laatimista,
+2013-09-10,20,Orienteering,,,01:07:11,,,,,01:07:11,,7.3,101.0,4.0,,,,,,,,,,,,INOV-8 OROC-280,,"Yötreeni espoorasteilla. Pitkän työpäivän päätteeksi ei oikein jaksanut näperrellä. Hyvä harjoitus viikon päästä olevia AM-kisoja varten. Samanlaista polkupusikkopaskikkoa varmasti luvassa.
+
+<a href=""http://suunnistus.muuankarski.org/doma/show_map.php?user=markus&map=229"">Domassa lisää selittelyä</a>",
+2013-09-12,16,Yoga,,,01:15:00,,,,01:15:00,,,,,3.0,,,,,,,,,,,,barefoot - avojaloin,,Aika kova. Jahve auttoi melko ronskisti,
+2013-09-16,8,Note,,,,,,,,,,,,,,,,,,,,,,,,,,"kuoroharrastus tukee yösuunnistusta valvomisen kautta, mutta ei kehitä fyssiikkaa. Huomenna ois pitkä kisa, täytyy jotain illalla käydä lenkillä.",
+2013-09-16,19,Running,,,00:38:05,,,,00:38:05,,,7.645,152.0,3.0,,140,154,,,,,,,,,Mizuno Aero 9,,"Iltajuoksu eli valmistava treeni huomiseen am-yöhön. Hyydyin viiden kilometrin jälkeen. Huomenna on matkaa 9.65km,. Täytyy ottaa vähän tukevampi iltapala tänään.",
+2013-09-17,20,Orienteering,,,01:03:16,,,,,01:03:16,,9.337,64.0,4.0,,,,,,,,,,,,INOV-8 OROC-280,,"am-yö päättyi keskeytykseen vähän puolenvälin jälkeen. Otin suunnan jotenkin aivan päin helvettiä ja vedin mäen väärään rinteeseen. Siellä sitten meni se vähäkin lyönti ja kelloa vilkaistuani päätin yrittää ehtiä 22.07 junaan. Ehdin juuri ja juuri.
+
+Aika karmeaa risukkoa ja nokkospuskaa. Tuollainen vaatii hieman aggressiivisempaa asennetta kuin mitä työpäivän jälkeen on saatavilla. Hieno keli kuitenkin ja hyvä lenkki.
+
+<a href=""http://www.lynx.fi/index.php?option=com_content&view=article&id=490&Itemid=119&lang=fi"">Kisasivut</a>",
+2013-09-18,16,Yoga,,,01:15:00,,,,01:15:00,,,,,3.0,,,,,,,,,,,,barefoot - avojaloin,,Perusteellinen harjoitus lyhyeksi jääneen yön. Uusia 30-lukulaisia kikkoja eteentaivutukseen.,
+2013-09-21,9,Orienteering,,,00:28:01,,,,,,00:28:01,4.508,43.0,5.0,,,,,,,,,,,,INOV-8 OROC-280,,"Tasaista taaperrusta keskimatkan SM-kisojen karsinnassa. Kyllä mä tosissani juoksin, muttei se riittänyt mihinkään.",
+2013-09-22,9,Orienteering,,,00:56:06,,,,,,00:56:06,9.037,74.0,5.0,,,,,,,,,,,,INOV-8 OROC-280,,SM-viestin aloitusosuus. Tämänkin vedin aika täysiä. Paha pummi sekoitti suorituksen. Lopun tulin silti ihan ok.,
+2013-09-25,20,Running,,,00:45:10,,,,00:45:10,,,7.467,224.0,3.0,,,,,,,,,1,,,Mizuno Aero 9,,"SM-yöhön valmistava lamppulenkki. Vähän tuntui vielä vkonloppu kintereissä, mutta tasaisella rullasi mukavasti. Kunnes loppuviitoituksen koittaessa kompuroin hieman kivisessä alamäessä, otin pidemmän askeleen ja potkaisen rusauksen saattelemana oikean ukkovarpaan kiveen. Tämä kausi on suunnistuksen osalta taputeltu siihen. Täytyy mennä lääkärille aamulla. Sama vamma kuin SM-keskimatkan karsinnassa 2010.",
+2013-09-26,,Note,,,,,,,,,,,,,,,,,,,,,1,,,,,"Terveyskeskuskiertueen päätteeksi tuomiona proximal phalanges I horisontaali pitkittäissuuntainen murtuma. Siisti ja paikoillaan, ei kontrollia. Aika parantaa.",
+2013-09-29,,cycling,,,00:40:00,,,,00:40:00,,,13.0,,3.0,,,,,,,,,,,,Bullitt cargo,,Arkiajelua yhdellä jalalla. Ettei läskisty. Hyvin sujuu,
+2013-10-04,,Note,,,,,,,,,,,,,,,,,,,,,,,,,,"Flunssa päällä kaikkien muiden ruumiinvammojen ohella. Tiedoksi vaan ettei luulla että vietän jotain ylimenokautta
+
+<iframe src=""http://muuankarski.org/kuvia/jaetut/murtuma.JPG"" width=320 height=530></iframe>",
+2013-10-05,16,cycling,,,01:00:00,,,,01:00:00,,,18.0,,3.0,,,,,,,,,,,,Bullitt cargo,,"mastopyöräilyä bullitilla. Velipoika oli testaamassa lapierren uutta takaiekkoa. Herttoniemen dh-spoorissa jätkä kaatui melko pahasti. Muistutti oheisen videon tapahtumia.
+
+<iframe width=""600"" height=""325"" src=""http://www.liveleak.com/ll_embed?f=be40452dfa18"" frameborder=""0"" allowfullscreen></iframe>",
+2013-10-16,,cycling,,,01:10:00,,,,01:10:00,,,25.0,,3.0,,,,,,,,,,,,Bullitt cargo,,"Palasin kuntourheilijan kaidalle tielle. Hyvä ja halpa kaappi löytyi Leppävaarasta ja nokkelana ajomiehenä kävin sen hakemassa bullitilla. Nerokas laite. Kunto oli mennyt heikoksi.
+
+<iframe src=""http://muuankarski.org/kuvia/jaetut/kaappi.jpg"" width=600 height=900></iframe>",
+2013-10-20,,Note,,,,,,,,,,,,,,,,,,,,,,,1,,,,
+2013-10-24,12,Note,,,,,,,,,,,,,,,,,,,,,,,1,,,taitaa tulla taas lepopäivä,
+2013-10-28,19,Running,,,00:18:00,,,,00:18:00,,,3.6,,3.0,,,,,,,,,,,,Mizuno Aero 9,,"Paluu juoksuharjoitteluun 33 päivää alaraajamurtuman jälkeen. Varvas on jäykkä, mutta melko mukavasti sillä juoksi. Painoa on tainnut tulla jokunen kilo lisää tai sitten se johtuu sarjanvaihdon lähestymisestä, mutta että raskasta oli.",
+2013-11-05,,Note,,,,,,,,,,,,,,,,,,,,,,,1,,,Varmaan tulee taas lepopäivä,
+2013-11-11,21,Running,,,00:39:30,,,,00:39:30,,,7.74,80.0,3.0,,,,,,,,,,,,Mizuno Aero 9,,"Moskovan leirin avauslenkki. Aika paljon tullut oltua paikallaan viime viikot, joten tuntui oli mukava päästä irti. Viehättävältä Leninsky prospektilta suuntasin kohti kesän MM-kisojen näyttämöä Luzhniki-stadionia. Hiljaista oli ja satoi vielä. Yhden oikean rullasuksihiihtäjän näin ja toinen tuli adidas-pipossa juosten vastaan. Samanlainen kuin Jelena Välbellä oli joten varmasti suksiporukkaa ja todennäköisesti huippu kun oli sateella lenkillä.
+
+Kurkkasin myös olympia-altaaseen jossa näytti huudosta ja puitteista päätellen vallitsevan edelleen ns. itä-blokin meininki.",
+2013-11-12,20,Running,,,00:51:16,,,,00:51:16,,,10.064,88.0,3.0,,157,183,,,,,,,,,Mizuno Aero 9,,"Leirin kakkosharjoitus. Teemana oli ""followed the Moskva, down to Gorki park"". Matkalla näin mm. avaruussukkulan ja Kremlin tornit häilyi horisontissa. Jos tokenen tästä niin loppuviikosta voisi olla Kremlin kierros.
+
+Konferenssin tiukka ohjelma häiritsee treenaamista. Presentaatioita 9.30-19.00 joka päivä.
+
+<iframe width=""560"" height=""315"" src=""//www.youtube.com/embed/n4RjJKxsamQ"" frameborder=""0"" allowfullscreen></iframe>
+
+
+",
+2013-11-28,,Note,,,,,,,,,,,,,,,,,,,,,,1,1,,,Vähän kipeenä. Taitaa tulla taas lepopäivä,
+2013-12-01,15,cycling,,,01:01:32,,,,01:01:32,,,21.022,263.0,3.0,,126,167,,,,,,,,,Lapierre MTB,,"Parin päivän poikamiesaika alkoi heti kestävyysharjoittelulla. Oli karmea keli pyöräillä. Pari astetta plussaa, mutta niin asfaltti- kuin hiekkabaanat välillä peilijäällä. Velipojan kanssa molemmille yksi kaato. Jätettiin homma kesken kun tuli mieleen että käsi paketissa saattaa jäädä työt tekemättä.",
+2013-12-06,18,cycling,,,01:00:55,,,,00:30:55,00:30:00,,19.227,207.0,3.49,,150,179,,,,,,,,,Bullitt cargo,,"Meni vähän vk:n puolelle tämä lenkki. Tehtiin unton kans milasta etuvalo, ja kun oli nastat vielä alla, ja koirankusettajat kattomassa juhlia televisiosta, niin pystyttiin vetään aika kovaa. Kunnossa on vielä parantamisen varaa.",
+2013-12-08,,Running,,,00:20:00,,,,00:20:00,,,4.0,,3.0,,,,,,,,,,,,Mizuno Aero 9,,Sain eilen (ke 11.12) kuulla ap-kollegoilta että kirjauksia tulee perin harvoin. Päätin sitten kirjata sunnuntain juoksuharjoituksen joka oli unohtunut. Nyt kirjanpito on ajan tasalla.,
+2013-12-28,20,Running,,,00:47:56,,,,00:47:56,,,10.443,38.0,3.0,,,,,,,,,,,,Mizuno Aero 9,,"Vetelissä kylän ympäri. Oli laina-garmin mukana eikä tiedonsiirto tietenkään toimi. On ollut pientä taukoa harjoittelussa, joka näkyi ainakin heikkiläntien varren talojen asukkaille. Velipoika vetelee parin kympin lenkkejä eikä musta oo mukaan. Ekaa kertaa näin päin.
+
+<b>Data lisätty</b>",
+2014-01-01,,Note,,,,,,,,,,,,,,,,,,,,,,1,,,,joululoman työputki päättyi ja lentsu alkoi,
+2014-01-02,,Note,,,,,,,,,,,,,,,,,,,,,,1,,,,,
+2014-01-03,,Note,,,,,,,,,,,,,,,,,,,,,,1,,,,,
+2014-01-04,,Note,,,,,,,,,,,,,,,,,,,,,,1,,,,pari päivää vaan nukuttu. tilanne parempi.,
+2014-02-28,17,Running,,,00:40:00,,,,00:40:00,,,7.5,,3.0,,,,,,,,,,,,Mizuno Aero 9,,Aloitin treenit. mustikkamaan kierto. Seuraavalle lenkille lataan garminin. heikosti kulki.,
+2014-02-28,17,kettlebell,,,00:10:00,,,,00:10:00,,,,,3.0,,,,,,,,,,,,,,"Tai siis leuanvetoja. Ostin lidlistä ovirekin. Ei niissä 5:ssä leuassa ihan 10 minuuttia menyt, mutta niin kauan oli kädet hapoilla",
+2014-03-19,,Note,,,,,,,,,,,,,,,,,,,,,,,,,,Latasin lamppua. Akku taitaa olla kaput. Ainakin kuus vuotta pelas. Huomenna museokadulle ostamaan uusi patteri ja illalla kuvataan 4k:na lamppujuoksua.,
+2014-03-28,17,cycling,,,00:25:00,,,,00:15:00,00:10:00,,10.3,,3.4,,,,,,,,,,,,Hamlet 44*17,,"Moskovan leiri alkoi ja otin Hamletin mukaan. Jarruttomalla fiksillä ajo ilman kypärää Moskovan liikenteessä kehittää kaikkia suunistuksessa tärkeitä osa-alueita.
+
+Koska Garmin lakkasi toimimasta, reitti kartalla:
+https://mapsengine.google.com/map/edit?mid=znZwBvYyFk-Q.kJN79Xb9Pg9s",
+2014-03-29,8,cycling,,,00:25:00,,,,00:15:00,00:10:00,,10.3,,3.4,,,,,,,,,,,,Hamlet 44*17,,,
+2014-03-29,17,cycling,,,00:25:00,,,,00:15:00,00:10:00,,10.3,,3.4,,,,,,,,,,,,Hamlet 44*17,,,
+2014-03-30,9,cycling,,,00:25:00,,,,00:15:00,00:10:00,,10.3,,3.4,,,,,,,,,,,,Hamlet 44*17,,,
+2014-03-30,14,cycling,,,00:20:00,,,,00:20:00,,,6.0,,3.0,,,,,,,,,,,,Hamlet 44*17,,"kevyt lounasrullailu Tverskajalla ja punaisella torilla. Bentleyta ja Ferrareita on moninkertainen määrä fikseihin verrattuna.
+
+<iframe src=""http://ubuntuone.com/5erbNBdglK6ZCeJIHIAnfC"" width=""630px"" height=""470px""></iframe>",
+2014-03-30,18,cycling,,,00:25:00,,,,00:25:00,,,10.3,,3.0,,,,,,,,,,,,Hamlet 44*17,,,
+2014-03-31,9,cycling,,,00:25:00,,,,00:25:00,,,10.3,,3.0,,,,,,,,,,,,Hamlet 44*17,,,
+2014-04-01,,Note,,,,,,,,,,,,,,,,,,,,,,,,,,sato 15cm lunta. tuli lepopäivä.,
+2014-04-02,9,cycling,,,00:28:00,,,,00:28:00,,,10.3,,3.0,,,,,,,,,,,,Hamlet 44*17,,"Back on track. En nähnyt ketään muuta pyörällä. Tästä voisi kirjoittaa vertailevan artikkelin.
+
+<iframe src=""https://pbs.twimg.com/media/BkMjvi0CYAA_2ph.jpg"" width=""630px"" height=""470ox""></iframe>",
+2014-04-02,19,cycling,,,00:48:00,,,,00:48:00,,,19.0,,3.0,,,,,,,,,,,,Hamlet 44*17,,"Heitin pienen ekstralenkin Lushnikin ohitte ja kohti Novgorodia. Iso on kaupunki ja ankea paikka asua. Otin vähän tiukempia ruskoja paluumatkalla Pääskyvuoren (<a href=""http://en.wikipedia.org/wiki/Sparrow_Hills"">Sparrow Hills</a>) kohdilla.",
+2014-04-03,9,cycling,,,00:21:00,,,,00:21:00,,,10.3,,3.0,,,,,,,,,,,,Hamlet 44*17,,"Pistelin vähän tiukemmin ja olo perillä oli kuin kämpän viereisellä hyörykoneella. Taaskaan ei ketään muita fillarilla.
+
+<iframe src=""http://ubuntuone.com/2iHLKHvj8HTuS6fx6rHH1V"" width=""620px"" height=""470px""></iframe>",
+2014-04-03,20,cycling,,,00:30:00,,,,00:30:00,,,12.0,,3.0,,,,,,,,,,,,Hamlet 44*17,,Kävin Tverskayan nurkilla luennoimassa ja heitin vähän pidemmän lenkin.,
+2014-04-04,,cycling,,,00:28:00,,,,00:28:00,,,11.0,,3.0,,,,,,,,,,,,Hamlet 44*17,,Leirin loppu lähestyy. Heitin Gorkin puiston kautta pienen lisälenkin.,
+2014-04-21,,cycling,,,01:24:00,,,,01:24:00,,,35.0,,3.0,,,,,,,,,,,,Bullitt cargo,,Käytiin Paloheinässä kattoon iltarasteja ja Haltialassa elukoita. Lampolassa oli pääsiäisen jäljiltä väljää.,
+2014-04-22,,Yoga,,,01:20:00,,,,01:20:00,,,,,3.0,,,,,,,,,,,,barefoot - avojaloin,,"Miltei puolen vuoden löysäily loppui tähän. Yritin ottaa tosi iisisti, mutta taitaa tulla vuosituhannen lihaskivut. Vaikkei paino ole noussut, niin niska-hartiaseisonnassa huomasin mahan vyöryvän erikoisesti. Soturiasennossa näytin tältä:
+
+<iframe src=""http://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2010/5/2/1272829466174/jabba-the-hutt-Star-Wars--004.jpg"" width=""480"" height=""290""></iframe>",
+2014-04-30,,Yoga,,,01:15:00,,,,01:15:00,,,,,3.0,,,,,,,,,,,,barefoot - avojaloin,,Tpka treeni. Aika kaukana on varpaat,
+2014-05-01,,Running,,,00:40:00,,,,00:40:00,,,7.5,,3.0,,,,,,,,,,,,Mizuno Aero 9,,Aloitin juoksuharjoittelun.,
+2014-05-04,,Running,,,00:35:00,,,,00:35:00,,,7.0,,3.0,,,,,,,,,,,,Mizuno Aero 9,,Heti parempaa kulkua. Oisin silti pudonnut apsun letkasta 10milassa.,
+2014-05-18,,cycling,,,01:50:00,,,,01:50:00,,,35.0,,3.0,,,,,,,,,,,,Bullitt cargo,,Sunnuntaiajelu poikaporukassa Vuosaaren sataman taakse katsomaan laivoja. Ei ollut yhtään laivaa hakemassa taikka tuomassa. Nähtiin kuolleita kaloja ja se onneksi riitti. Ajeltiin nälkäisinä takaisin ja mustikkamaalle jätskille.,
+2014-05-21,21,Running,,,00:40:00,,,,00:40:00,,,7.5,,3.0,,,,,,,,,,,,Mizuno Aero 9,,aloitin taas harjoittelun illan pimetessä.,
+2014-05-24,,Running,,,00:00:07,,,,00:00:07,,,1.0,,3.0,,,,,,,,,,,,INOV-8 OROC-280,,Kuvaushommia. Vedin polkujuoksua malliksi kameralle.,
+2014-05-25,20,Running,,,00:37:00,,,,00:37:00,,,7.5,,3.0,,,,,,,,,,,,Mizuno Aero 9,,peruslenkki ja päälle meriuintia.,
+2014-05-28,6,Running,,,00:35:00,,,,00:35:00,,,7.0,,3.0,,,,,,,,,,,,Mizuno Aero 9,,Oli pari aamua aikaisella herätyksellä niin kokeilin lähteä töiden sijaan varhain juoksemaan. Kulosaaren sillalla oli hyytävät olosuhteet,
+2014-05-31,,Running,,,00:40:00,,,,00:40:00,,,8.0,,3.0,,,,,,,,,,,,Mizuno Aero 9,,"Reippaampi lenkki, jossa yhdistin polkujuoksun kartanlukuun. Jos kartta olisi ollut ko. maastosta, niin kyseessä olisi ollut suunnistusharjoitus. Nyt kuitenkin ns. polkujuoksu suunnistusajatuksella.
+
+Molemmat sujuivat ihan hyvin. Merkittävimmät heikkoudet liikkuvuuspuolella.",
+2014-06-04,,Orienteering,,,00:36:00,,,,00:36:00,,,4.6,,3.0,,,,,,,,,,,,INOV-8 OROC-280,,"Mike-viestin aloitusosuus. Aika kylmiltään helteiseen kalliomaastoon. En ole koskaan ollut näin huonossa kunnossa. Viikossa on tapahduttava ihmeitä. Yritän avittaa kevyellä lenkkeilyllä.
+
+http://www.helsinginjyry.fi/vanha/suunnistus/4614m-tulo.html",
+2014-06-05,,cycling,,,00:40:00,,,,00:40:00,,,,,3.0,,,,,,,,,,,,Lapierre MTB,,Palauttelua velipojan kanssa. Tiukka työputki päätökseen ja nyt rästihommien kimppuun.,
+2014-06-07,9,cycling,,,01:35:00,,,,01:35:00,,,36.0,,3.0,,,,,,,,,,,,Lapierre MTB,,Vantaanjoki - pitkäkoski - Paloheinä - Haaga - Ruoholahti - Baana. Iisiä ajelua ja satunnaista keulimista,
+2014-06-07,21,Running,,,00:35:00,,,,00:35:00,,,7.0,,3.0,,,,,,,,,,,,Mizuno Aero 9,,Kahden lenkin päivä. iltalenkki mahdollisimman kevyesti. silti hapotti joka askeleella. joutunee ottaa aika kevyesti valmistautumisen.,
+2014-06-08,7,Yoga,,,00:15:00,,,,00:15:00,,,,,3.0,,,,,,,,,,,,barefoot - avojaloin,,Voimistelin aamulla. Taitaa tulla lepopäivä urheilun osalta,
+2014-06-09,18,cycling,,,00:45:00,,,,00:45:00,,,18.0,,3.0,,,,,,,,,,,,Bullitt cargo,,"Yhdistelmäharjoituksen ensimmäinen osa. Ajettiin mm. herttoniemen urheilupuiston jyrkkiä nousuja, käytiin hyppyrimäen tornissa ja seurattiin traktorin heinäntekoa.",
+2014-06-09,19,Running,,,00:47:00,,,,00:47:00,,,10.0,,3.0,,,,,,,,,,,,Mizuno Aero 9,,"Yhdistelmäharjoituksen toinen osuus oli kestävyysjuoksua Mustikkamaalla. Yritin juosta hiljaa ja tuntui erityisen kevyeltä. Karttaharjoituksia samalla.
+
+Huomenna Serenaan iltarasteille, kasi täysillä ja se on siinä.",
+2014-06-10,18,Orienteering,,,01:34:56,,,,,01:34:56,,9.1,,4.0,,,,,,,,,,,,INOV-8 OROC-280,,"Korpilammella Espoo-rastit, otin pisimmän radan ja tulin läpi. Alku melko offensiivistä, sitten kahden megapummin ~10 min, jälkeen vaihdoin defensiiviseen ja viimeinen puoli tuntia submissiivista (alistuvaa). Vettä satoi, kaatuneita puita joka paikassa ja pusikot rehevimmillään. Erinomainen valmistava harjoitus jukolaan. KEstävyys on treenattu, enää tarvitaan terävyys ja vauhti. Se tulee levolla kuin itsestään. Mallisuunnistus kisapaikalla täytynee tehdä jos suinkin ehtii.",
+2014-06-10,18,cycling,,,00:35:00,,,,00:35:00,,,15.0,,3.0,,,,,,,,,,,,Bike: Rossano-fixed gear42*16,,Verryttelyt Haagaan ja takas. Paluumatka erityisen rauhallisesti.,
+2014-06-13,,Running,,,00:15:00,,,,00:15:00,,,2.0,,3.0,,,,,,,,,,,,Mizuno Aero 9,,Iltaverryttely Hanasaaren voimalaitoksen takana. Sataman telttaleirissä poliisi piti järjestystä. jukola-projekti voisi olla hyvä keino voimauttaa sataman kuljeskelijoita.,
+2014-06-15,3,Orienteering,race,,00:58:50,,,,,,00:58:50,7.5,,5.0,,,,,,,,,,,,INOV-8 OROC-280,,"Jukola Kuopiossa, 4. osuus. Oli hyvä veto sekä lähtökohtiin että aikaisempiin jukola-suorituksiin nähden. 
+
+Olo ennen starttia oli hajamielinen, koska uni ei ollut tullut kunnolla pe-la saati kisayönä. Retkikeittimellä kuppi kahvia teltassa ja striimin seurausta läppäriltä ja hiljalleen alkoi lämmetä. Lähtöpaikalle juostessa erittäin heikko askel, ja arvelutti pitäisikö olla lamppu. Marko tuli portilla vastaan ja otin lampun, karsinassa muilla huipuilla ei ollut lamppuja, joten jätin oman pois. Maha oli sekaisin.
+
+Pääsin Ari-Pekan huippujoukkueen kanssa samaan aikaan mettään. Huippu säntäsi viitoituksella horisonttiin ja totesin ettei tänään hyökätä. Ykkösellä leimasin kuitenkin ennen ja ajattelin että ehkä sittenkin vähän. Pari rastia hallitsin ja sitten taas Koovee hyökkäsi ja otin peesin. Pellon jälkeen Koovee sai tarpeeksi ja pysähtyi (väli 4. - 5., niillä oli kai hylsy). En ollut aivan hapoilla ja pystyin jatkamaan omaa tekemistä 5.-6.-7.-8. aina ysille, jossa kai kävelin tv-kuvissa  (ko. välillä 403m jäin 35s kärjestä ollen 35., en siis kävellyt koko väliä. ja kävelin koska otin chia-geelit ennen kuvia.).
+
+Sitten omaa tekemistä ja lyhyelle putkipätkällä hissuttelin porukassa parin nuoren kaverin kanssa (maha kaasusta turvoksissa) 9. - 13.. Ekan mäen jälkeen (14. - 15.) oli pakko vetäytyä pusikkoon ja aloittaa ns. puhtaalta pöydältä. Ko. välillä vaan reilu minuutti kärkeen, mikä hyvä suoritus sisävessaan tottuneelta sivarilta. Lopun rastit vielä tarkasti ja loppuviitoituksella vaan 7s osuuden nopeimmalle. 
+
+Takalenkillä 5. osuuden kärki juoksi samaa tahtia, tai ryömi. KR & Co meni ohi 14. rastille mennessä (maha erityisen kipeä ko. kohdassa. )Oli mukava pudotella huippujen perässä. 
+
+Rastiväliajat:
+http://online.jukola.com/tulokset/fi/j2014_ju/kilpailijat/158/4/
+Rata:
+http://www.tulospalvelu.fi/gps/2014jiivee4/
+
+Mukava kirjoitella osuuden käänteistä kun meni hyvin. GPS-kelloa ei ollut, jäi todisteet hyvästä juoksusta saamatta.",
+2014-06-16,21,Running,,,00:25:00,,,,00:25:00,,,5.0,,3.0,,,,,,,,,,,,Mizuno Aero 9,,Iltalenkki Haikossa. Kevyttä niin kevyttä.,
+2014-06-17,,Note,,,,,,,,,,,,,,,,,,,,,,1,,,,jukola-lentsu,
+2014-06-18,,Note,,,,,,,,,,,,,,,,,,,,,,1,,,,jukola-lentsu,
+2014-06-19,,Note,,,,,,,,,,,,,,,,,,,,,,1,,,,jukola-lentsu,
+2014-06-24,,Note,,,,,,,,,,,,,,,,,,,,,,1,,,,Edelleen nokka tukossa. Juhannuksen tehotreenit puusaarenkallioilla jäi tekemättä.,
+2014-07-03,19,cycling,,,00:05:04,,,,00:05:04,,,1.786,5.0,3.0,,,,,,,,,,,,Bike: Rossano-fixed gear42*16,,Uusi satelliittikello ekassa testissä. Tallensin päivittäisen kestävyysharjoitteluannoksen. Hieman haastavaa oli rakentaa yhteensopivuus linuxissa. ,
+2014-07-04,9,cycling,,,00:04:05,,,,00:04:05,,,1.803,12.0,3.0,,,,,,,,,,,,Bike: Rossano-fixed gear42*16,,"Takaisin töihin. Alla ohjeet debian-pohjaisiin linuxeihin asentamisesta.
+
+<code>
+
+# avaa pääte
+
+## garmin plugin
+sudo add-apt-repository ppa:andreas-diesner/garminplugin
+sudo apt-get update
+sudo apt-get install garminplugin
+
+## Garmin-Forerunner-610-Extractor
+wget https://github.com/Tigge/Garmin-Forerunner-610-Extractor/archive/drivers.zip
+unzip drivers.zip
+mv ~/Garmin-Forerunner-610-Extractor-drivers/ ~/garmin
+
+## erinäisiä riippuvuuksia
+
+wget http://sourceforge.net/projects/libusb/files/libusb-1.0/libusb-1.0.18/libusb-1.0.18.tar.bz2 # löytyy myös asennus-kansiosta
+tar jxf libusb-1.0.18.tar.bz2
+cd libusb-1.0.18
+sudo apt-get install libudev-dev
+./configure
+make
+sudo make install
+cd ..
+
+wget http://downloads.sourceforge.net/project/pyusb/PyUSB%201.0/1.0.0-beta-1/pyusb-1.0.0b1.zip
+unzip pyusb-1.0.0b1.zip
+cd pyusb-1.0.0b1 # löytyy myös asennus-kansiosta
+sudo python setup.py install
+sudo apt-get install python libusb-dev
+cd ..
+
+# etitään usb-tikku
+lsusb | grep Dynastream
+sudo modprobe usbserial vendor=0x0fcf product=0x1008
+
+# ladataan data
+cd garmin
+sudo python garmin.py
+
+</code>",
+2014-07-05,9,Running,,,00:55:26,00:00:15,00:00:29,00:02:32,00:28:40,00:23:26,00:00:04,10.546,150.0,3.35,,152,176,,,,,,,,,Mizuno Aero 9,,"T. Arviston kanssa lomanaloituslenkki Mustikkamaalla. Tästä pitäisi ottaa tapa. Asetin sykerajat vanhojen mattotestien pohjalta. Taisin olla silloin kovemmassa kunnossa. Oikeassa takareidessä vanhana hermovaiva tuntemuksia. Josko se menisi sillä, ettei hetkeen istu koneen ääressä pitkiä aikoja.",
+2014-07-05,16,cycling,,,00:56:26,,00:11:56,00:15:56,00:25:49,00:02:45,,18.964,179.0,2.34,,122,165,,,,,,,,,Bullitt cargo,,Käytiin kattoon pohjois-helsingistä uuden tukikohdan paikkoja. Aamulla aristanut oikee polvi oli nyt oikein kipeä. täytyy lepuutella pari päivää,
+2014-07-06,,cycling,,,00:55:00,,,,00:55:00,,,20.0,,3.0,,,,,,,,,,,,Bullitt cargo,,Leikkipuistoja ja asioitten hoitoa. ,
+2014-07-07,12,cycling,,,01:40:00,,,,01:40:00,,,30.0,,3.0,,,,,,,,,,,,Bullitt cargo,,Turun päärautatieasemalta Paraisille Bullittilla kyydissä poika ja aika paljon kamaa. Mukavan mäkinen tie niin joutui välillä puuskuttaa. Muuten hyvin rauhallinen tahti.,
+2014-07-08,15,Running,,,00:50:10,00:00:12,00:00:08,00:00:10,00:13:22,00:31:44,00:04:34,9.262,109.0,3.79,,162,185,,,,,,,,,Mizuno Aero 9,,"Iltapäivälenkki Paraisilla. Juoksin niin hiljaa kuin pystyin, kuitenkin vältellen kävelyä. Näin korkeita sykkeitä näin hiljaisella vauhdilla en ole koskaan saanut aikaiseksi. Todella kuuma sää.",
+2014-07-08,19,cycling,,,01:46:55,00:20:56,00:31:24,00:30:01,00:23:16,00:01:18,,28.767,356.0,1.56,,112,163,,,,,,,,,Bullitt cargo,,Iisiä ajelua paraisilta nauvoon. kulku erinomaista iltapäivän kärsimysjuoksun jälkeen. Pari tuntia tätä päivään ja alkaa toimistotyön jäykistämät nivelet oieta.,
+2014-07-09,11,cycling,,,02:45:52,00:41:41,00:34:45,00:34:23,00:52:59,00:02:04,,46.249,571.0,1.63,,116,160,,,,,,,,,Bullitt cargo,,Nauvosta lautalla Hankaan ja sieltä Livonsaareen Rymättylän ja Merimaskun kautta. Oli kuuma päivä ja retkueen peruskestävyys koetuksella. Ko. reitillä on monta hemmetin jyrkkää lyhyttä mäkeä. Tuntuu raskaalla pyörällä vaikka ei näy noususummassa.,
+2014-07-11,11,cycling,,,02:16:14,00:37:20,00:46:41,00:27:04,00:25:09,,,37.311,330.0,1.29,,110,155,,,,,,,,,Bullitt cargo,,Köykäistä perhepyöräilyä Livonsaaresta Turkuun. Ei  mainittavia vastoinkäymisiä.,
+2014-07-11,16,cycling,,,01:02:15,00:00:45,00:04:40,00:05:38,00:42:52,00:08:20,,26.492,215.0,2.86,,140,172,,,,,,,,,Bullitt cargo,,V'ähän tiukempi rypistys Turusta Paraisille tyhjällä bullittilla. Hain ajoasentoa ja optimaalista välitystä huomiselle.,
+2014-07-12,18,cycling,,,02:29:08,,,,02:29:08,,,59.61,502.0,3.0,,,,,,,,,,,,Bullitt cargo,,"Lähdin ajamaan ultraa Paraisilta Helsinkiin. Tiellä 110 ennusteet navakasta itätuulesta (5-7m/s) osoittautuivat paikkansa pitäviksi ja poljettavaa telttaa muistuttava ajopelini vauhti hiipui. Yritin kuitenkin pusertaa peltoaukioiden tuulessa ja pitkissä vastamäissä kunnes kiputuntemukset polvessa alkoivat. Saloon tultaessa ajoin bussiaseman kautta ja jäin odottelemaan Helsingin bussia 10 minuutiksi. Bussissa oli pyörälle tilaa ja yhtäkkiä ultra vaihtui bussikyydiksi. Aamulla polvessa tuntui vielä arkuutta, mutta eiköhän se toivu niin että Mallorcan treenileiri saadaan vedettyä suunnitelmien mukaan.",
+2014-07-15,7,cycling,,,00:09:00,00:09:00,,,,,,30.921,140.0,0.0,,,,,,,,,,,,barefoot - avojaloin,,Räväkämpi lähtö. Nousumetrit ei rekisröityny,
+2014-07-15,18,swimming,,,00:04:10,,,,00:04:10,,,0.191,,3.0,,,,,,,,,,,,,,Avomeriuintia. Meni vettä silmiin ja suola maistui suussa pahalle. Lisäksi ilmeinen tappajahairiski. Palasin rantaan.,
+2014-07-16,15,Running,,,01:01:40,00:00:38,00:00:17,00:01:19,00:20:41,00:37:11,00:01:34,12.629,19.0,3.59,,157,177,,,,,,,,,Mizuno Aero 9,,Juoksin hakemaan vuokrapyörää. Hemmetin kuuma. ,
+2014-07-16,17,cycling,,,00:30:12,00:00:03,00:02:58,00:03:50,00:13:13,00:10:08,,12.457,56.0,3.01,,144,174,,,,,,,,,Centurion Gigadrive Carbon Ult,,Ekat tyypit lainatäyshiilarilla. Oli lenkkarit vaan jalassa niin ei voinu pommittaa.,
+2014-07-17,10,cycling,,,00:59:47,,00:15:33,00:07:38,00:30:17,00:06:19,,24.659,80.0,2.46,,127,168,,,,,,,,,Centurion Gigadrive Carbon Ult,,"Edestakaisin pyörävuokraamolle Mallorcan paskinta pyöräilyreittiä todistamaan henkilöllisyys. Ihme säätämistä koko päivä. Nyt on sähköpyöräkin tallissa. Omat treenit vaan vielä vähissä. Ehkäpä huomenna pääsisi isommille mäille.
+
+Tän lisäksi illalla vielä 20min Bellverin linnan mäelle elektroavusteinen lastenkuljetuspyörän imussa",
+2014-07-18,10,cycling,,,02:35:31,00:03:52,00:14:45,00:15:22,00:53:34,01:00:20,00:07:38,65.912,1206.0,3.12,,146,183,,,,,,,,,Centurion Gigadrive Carbon Ult,,"Ensimmäinen tunnustelu <a href=""http://en.wikipedia.org/wiki/Serra_de_Tramuntana"">Tramuntanan</a> suuntaan. Ensimmäinen nousu oli vielä jäykkää, mutta seuraavissa alkoi jo vähän kulkemaan. Sain kahteen jälkimmäiseen nousuun apua tanskalaisparivaljakolta, kutsuttakoon isää vaikka Bjärneksi ja poikaa Wiine Riisiksi. Niillä oli enemmän hiilaria ja pääsivät miltei karkuun toisessa nousussa, kunnes isä Bjärne kaatui ylämäessä ja pääsin kuittaamaan. Saavuin väliaikaan toisena. Pitkässä laskussa Valldemossaan saivat kaulaa. Mun pyörässä on liukkaat renkaat, enkä tohtinut tykittää kun oli vieras tie. Kuuma oli. Pitää joku aamu lähteä aiemmin kun joogi pitää lepopäivän.
+
+Niukasti kovemmat nousumetrit kuin mitä Raaseporissa tulee vastaavilla siivuilla.",
+2014-07-19,8,cycling,,,04:49:42,00:12:55,00:38:11,00:35:40,02:36:35,00:46:21,,118.214,2365.0,2.64,,136,166,,,,,,,,,Centurion Gigadrive Carbon Ult,,Vähän rajumpi harjoitus tälle aamulle. Elimistön kuivuminen eli ns. nestehukka valvotti yön. Laitoin herätystä tunnin myöhempään ja hyppäsin puoli kahdeksan junaan kohti pääteasemaa Sa Poblaan. Aamupalaksi steissillä kaksi voisarvea ja laihaa maitokahvia (capuchino tms.). Join junassa pullon gatoradea ja herättelin itseni 16km tasamaaosuudella Pollencaan. Siitä sitten ylös alas seuraavat 90km. Varjossa reilut 30 ja auringossa aika paljon kuumempi. Jossain 80km kohdalla oli vaikea hetki. Jouduin pitää tauon jyrkässä nousussa. Vähän virkosin ja kituutin hotellille. Loppuloma mennee tästä palautuessa.,
+2014-07-20,10,cycling,,,01:54:43,00:24:20,00:19:54,00:49:44,00:11:06,00:09:39,,36.001,430.0,1.67,,114,165,,,,,,,,,Centurion Gigadrive Carbon Ult,,Kevyt lenkki sähköpyöräilijöiden kanssa,
+2014-07-20,18,Running,,,00:32:00,,,,00:32:00,,,6.0,220.0,3.0,,,,,,,,,,,,Mizuno Aero 9,,iltalenkki rannalle ja takaisin. jyrkkää penkkaa,
+2014-07-21,10,cycling,,,04:09:27,00:12:19,00:42:33,00:37:49,02:15:02,00:21:44,,100.177,2057.0,2.45,,133,163,,,,,,,,,Centurion Gigadrive Carbon Ult,,"Vielä toinen pidempi veto ennen pyörä palauttamista. Oli pilvisempi päivä ja varjossa alle 30. Yö meni hikoillessa lievän ruokamyrkytyksen kielissä. Eka tunti oli hankalaa, mutta sitten helpotti. Viileämpi sää teki nousuista jopa suurta huvia.
+
+Jos pari päivää palauttelis ja yrittäis pitää ittensä liikkeessä myös kotona.",
+2014-07-23,12,cycling,,,01:14:50,00:01:37,00:06:59,00:34:29,00:31:45,,,31.338,97.0,2.29,,126,148,,,,,,,,,Bike: Rossano-fixed gear42*16,,Espoon elektoriikkakaupassa ostoksilla. Lisäpalvelimia olohuoneeseen.,
+2014-07-26,10,Running,,,00:59:03,,,,00:59:03,,,13.016,35.0,3.0,,,,,,,,,,,,Mizuno Aero 9,,Reipas helleveto Siponkosken kautta Ahon lavalle treeneihin. Ei kulkenut yhtään mutta piti 11:ksi ehtiä. Pohkeisiin sattui erityisesti.,
+2014-07-30,18,Running,,,01:05:15,00:00:08,00:00:17,00:00:31,00:41:53,00:22:26,,14.099,80.0,3.32,,151,163,,,,,,,,,Mizuno Aero 9,,"Kestävyysjuoksua Vanhankaupunginlahden ympäri. Ei erityisen kevyttä, mutta jaksoin maaliin. Kroppa on pahasti jumissa ja juoksu vain pahentaa tilannetta.
+
+<a href=""http://attackpoint.org/log.jsp/user_13496"">Veli-poika</a> juoksi <a href=""http://attackpoint.org/sessiondata.jsp?sessionid=3844888"">55kilsaa Pallakselta Hettaan</a> sen verran <a href=""http://nuts.fi/wp-content/uploads/2014/07/NUTS_Midnight_Sun_Trail_Ultra_tulokset.pdf"">reippaasti</a> skeittipohjalta että ei voi enää jäädä vaan kattomaan sivusta vaan täytyy alkaa kuntoilemaan.",
+2014-07-31,17,cycling,,,02:09:45,00:16:31,00:32:43,00:52:36,00:27:06,00:00:49,,47.264,391.0,1.71,,118,159,,,,,,,,,Bike: Rossano-fixed gear42*16,,"Suunnassakulkuharjoitus fiksipyörillä Helsingin esikaupunkialueella. Uusia valloituksia: Silvolan tekoalla, MAlminkartanon mäki sekä Vermon ravirata. Lopussa fiksimaastopyöräilyä uuden asunnon liepeillä. Uusi kämppä näkyy myös kahdessa <a href=""http://www.mysport.fi/mysport/my-doma/map_images/1493.blank.png"">näistä karttaklipeistä</a>. ",
+2014-08-02,8,cycling,,,02:16:34,00:03:10,00:07:19,00:39:30,01:22:40,00:03:55,,59.55,509.0,2.56,,132,162,,,,,,,,,Bike: Rossano-fixed gear42*16,,"<a href=""http://www.fillarifoorumi.fi/forum/showthread.php?47833-Gravel-Grinding-ja-Gravel-Racing"">Gravel grindingia</a> eli sorakurvailua ja myös asfalttitykittelyä Sipoon luonnonkauniilla ja hyväosaisten asuttamilla seuduilla. Retkeen kuului mm. aurinkotervehdyksen tekeminen ns. kyypelinvuorella <a href=""http://yle.fi/elavaarkisto/artikkelit/ior_bock_ja_lemminkaisen_temppeli_37959.html#media=37967"">Lemminkäisen temppelin</a> suuaukon liepeillä. (Videolla myös dramaattinen ulosajo, jolta onneksi vältyimme. Hipit olivat myös lähteneet.) Energiaboostina <a href=""http://www.hs.fi/mesta/a1374549900861"">Palmenin lähikaupasta</a> ostettu jääkahvi oli kuitenkin parempi.",
+2014-08-04,18,Running,,,01:06:37,00:00:27,00:01:11,00:02:12,00:50:10,00:12:37,,14.086,78.0,3.1,,147,159,,,,,,,,,Mizuno Aero 9,,"Heikko lenkki. Selkä ja kaikki nivelet ja lihakset jumissa. Pari pysähdystä huoltojoukkojen tukemana, ilman niitä olisin joutunut varmaan kävelemään. Voimistelu alkaa huomenna.",
+2014-08-05,12,Yoga,,,00:25:00,,,,00:25:00,,,,,3.0,,,,,,,,,,,,barefoot - avojaloin,,"Aloitin voimistelun kuten lupasin. Todella sairaan tuntuista, enkä tohtinut tehdä paljoa aurinkotervehdyksiä enempää.",
+2014-08-06,,body building,,,00:10:00,,,,00:10:00,,,,,3.0,,,,,,,,,,,,,,Aloitin puistossa dippien tekemisen. En saanut yhtään kun roikuin. Tuettuna tein muutamia sarjoja. Aika pohjalla ollaan.,
+2014-08-07,,Note,,,,,,,,,,,,,,,,,,,,,,,,,,"Heitän haisevat ja hyvin palvelleet mizuno wave aero 9 roskiin kuun vaihteessa muuton yhteydessä ja ostan uudet.
+
+<table  align=""left"">
+<tr>
+<th>name</th>
+<th>date new </th>	
+<th>kilometres</th>
+<th>Total time</th>
+<th>climb</th>
+<th>sessions </th>
+</tr>
+<tr>
+<td>Mizuno Aero 9</td>
+<td>01/04/12 </td>
+<td>994.7</td>
+<td>84:03:37</td>
+<td>12352</td>
+<td>95</td>
+</tr>
+</table>
+
+</br>
+
+<b>Asiantuntevia suosituksia otetaan vastaan!!</b> Käyttötarkoitus on satunnaista juoksentelua metsäpoluilla ~500km vuodessa tms. mitä vaaditaan veteraanisarjoissa pärjäämiseen.",
+2014-08-08,19,Running,,,01:46:45,00:00:12,00:00:08,00:02:51,01:19:45,00:23:49,,20.506,238.0,3.19,,148,171,,,,,,,,,Mizuno Aero 9,,"Tonni täyteen mizunoilla. Ajattelin että juoksen alle 140 keskisykkeellä alle 5:n vauhtia, siis ns. tantrajuoksua. En onnistunut ja hyydyin 15km jälkeen pahasti. Lihaskipuja ja nestehukkaa. Ois pitänyt juoda etukäteen tai suunnitella juomarasti matkalle. Näin matkan varrella avokalliomaastossa alastomia miehiä sojottavine kikkeleineen.",
+2014-08-08,18,Running,,,,,,,,,,,,0.0,,151,186,,,,,,,,,,,,
+2014-08-10,15,cycling,,,01:57:15,00:05:03,00:27:27,00:48:03,00:36:35,00:00:07,,49.842,402.0,1.99,,123,156,,,,,,,,,Bike: Rossano-fixed gear42*16,,Kevyttä veivaamista velipojan kanssa. Karhusaaressa varallisuus oli rohkeasti esillä.,
+2014-08-10,18,body building,,,00:15:00,,,,00:15:00,,,,,3.0,,,,,,,,,,,,,,"Leukoja ja dippejä Mustikkamaan muscle beachillä.
+
+<img src=""http://www.ironcompany-fitness-news.com/wp-content/uploads/2013/01/arnoldfranco.jpg""/>",
+2014-08-10,18,Running,,,,,,,,,,,143.0,0.0,,147,183,,,,,,,,,,,,
+2014-08-11,13,cycling,,,02:24:28,,,,02:24:28,,,59.32,301.0,3.0,,,,,,,,,,,,Bullitt cargo,,"Keravalle sukuloimaan. Mennessä kallis lasti, paluumatkalla vaan tyhjä pyörä. Paluumatkalla vähän urutin. Siinä ois kaupungin muut bullitt-kuskit olleet tiukilla. Mennessä harmillinen rengasrikko, mutta onneksi oli varakumi mukana. Ei tarvinnut soitella perheenjäseniä apuun.
+",
+2014-08-14,16,cycling,,,01:04:20,,,,01:04:20,,,29.074,130.0,3.0,,,,,,,,,,,,Bike: Rossano-fixed gear42*16,,"Alkulämmittely Keravan Keinukalliolle. Ois ollu keskari yli 30, mutta meni aikaa älypuhelimen areenaa säätäessä. kuuntelin startup-ohjelmaa niinku Stubb ois kuunnellu.",
+2014-08-14,18,Running,,,00:06:50,,,,00:06:50,,,1.509,12.0,3.0,,,,,,,,,,,,INOV-8 OROC-280,,Lämmittelyt lähtöpaikalle,
+2014-08-14,18,Orienteering,,,01:01:00,,,,,01:01:00,,7.0,49.0,4.0,,,,,,,,,,,,INOV-8 OROC-280,,"Seiskan rata Keski-Uusimaa -rasteilla. Eka kerta ikämiehenä ja jukolan jälkeen mettässä. Yllättävän mukava juosta. Jalat vahvat mutta kömpelöt. Aikamoinen pusikko. Tästä alkaa rakentaminen kohti syssyä.
+
+Ja löytyy myös vanha kunnon doma: http://www.suunnistus.muuankarski.org/doma/show_map.php?user=markus&map=316",
+2014-08-19,9,Running,,,01:22:09,,,,01:22:09,,,17.407,85.0,3.0,,,,,,,,,,,,Mizuno Aero 9,,"Maisemien kattelua ja maalaisten tietoyhteiskuntavalmiusasioiden hoitoa. Oli hirveä keli, isoisä ja poika seurasivat bullittilla. Oma juoksu parempaa, selkä tutun juminen. Päivittäinen voimistelu auttanut vähän.",
+2014-08-21,18,Running,,,01:29:24,,,,00:29:24,01:00:00,,18.353,264.0,3.67,,,,,,,,,,,,Nike Wildhorse 2,,"Eka lenkki wildhorseilla. Maagiset kengät. Maha oli Haikon heikoista kasvisruuista pullollaan, mutta pudottelin vähän reippaammin ku oli selvää baanaa. Välillä hakeuduin teknisille poluille, joille wildhorse on tehty. Niillä kyllä vj:t on toistaiseksi parhaat, mutta kuntopolulla nää on nopeat ja mukavat.",
+2014-08-22,7,Running,,,00:56:35,,,,00:56:35,,,10.556,146.0,3.0,,,,,,,,,,,,Nike Wildhorse 2,,"Aamulenkki Porvoon kaupungin suuntaan. Hieno aamu, mutta heikko kulku. Kartanon kasvisdinneri oli karmea: riisiä ja pari surkeaa kanttarellin raatoa. Yön aikana palautumista ei ollut tapahtunut.",
+2014-08-23,21,cycling,,,01:14:28,,,,01:14:28,,,29.436,240.0,3.0,,,,,,,,,,,,Bike: Rossano-fixed gear42*16,,"Eka lamppulenkki Paloheinän suuntaan. Etittiin pimeitä reitteja ja kun löydettiin hyvännäkönen levee polku, niin lähin pommittaan täysiä ja tietty ekasta juurakosta lähti pyörä lentoon ja lensin ties miten maahan. Oikea polvi otti kovimman iskun, mutta tuskin mitään  meni rikki. Piesty olo näin suihkun jälkeen. Etenkin kun paluumatkan satoi ihan kaatamalla kylmää vettä.
+
+Stadikan ohi ku ajettiin niin cheek just kiitti Jonnea.",
+2014-08-28,19,Running,,,00:35:48,,,,,00:35:48,,7.716,81.0,4.0,,,,,,,,,,,,Nike Wildhorse 2,,"Vähän reippaampi iltalenkki. Neljä kilsaa lentoa, viiden kohdalla bonk, mutta kuudesta eteenpäin taas kulki. Niket on omituiset kengät. Jotenkin potkii persiisiin. Taas on persposket hellinä huomenna, luulen.",
+2014-09-01,19,Running,,,00:25:00,,,,00:25:00,,,5.0,,3.0,,,,,,,,,,,,Nike Wildhorse 2,,muuttohommia.. fillareita hakemassa sörkasta. selkä hajalla muutosta ja juoksu aika heikkoa.,
+2014-09-03,19,Running,,trails,01:17:14,,,,01:17:14,,,14.18,147.0,3.0,,,,,,,,,,,,Nike Wildhorse 2,,Muutosta palauttava (henkisesti ja fyysisesti) leppoisa lenkki kotipihalta kotipihalle. Näin hyvillä mestoilla en ole asunut sitten Jyväskylän Runkotien. Selkä ei oo kisakunnossa. Pitäis voimistella.,
+2014-09-06,,Note,,,,,,,,,,,,,,,,,,,,,,1,,,,"lunssaa, kurkku ja selekä kipiät",
+2014-09-07,,Note,,,,,,,,,,,,,,,,,,,,,,1,,,,,
+2014-09-10,15,Running,,,01:18:15,,,,01:18:15,,,22.613,129.0,3.0,,,,,,,,,,,,Bullitt cargo,,"Haettiin kajakki monosen kanssa.
+
+<img src=""http://kapsi.fi/muuankarski/kuvat/misc/kajakki_bullitt.jpg"" width=""600px"" />",
+2014-09-11,,Running,,,00:25:00,,,,00:25:00,,,5.0,,3.0,,,,,,,,,,,,Nike Wildhorse 2,,Aamulenkki ennen palaveria eräässä suomalaisen hyvinvointivaltion tukipilareista. ekan vartin aikana näin 1 ihmisen. sitten tuli jono pyöräilijöitä. homokallioilla oli liukasta ja hiljaista. Sateesta johtuen.,
+2014-09-16,18,Running,,,00:58:24,,,,00:58:24,,,12.222,107.0,3.0,,,,,,,,,,,,Nike Wildhorse 2,,"iltalenkki. Samalla yhdet synttärit, muistisuunnistusta Haagassa ja auton siirtäminen.",
+2014-09-19,8,Orienteering,,,00:31:35,,,,,00:31:35,,4.976,60.0,4.0,,,,,,,,,,,,INOV-8 OROC-280,,"Aamuharjoitus lähimetsässä.
+
+http://www.suunnistus.muuankarski.org/doma/show_map.php?user=markus&map=331",
+2014-09-20,13,Orienteering,,,00:23:16,,,,,00:23:16,,3.873,92.0,4.0,,,,,,,,,,,,INOV-8 OROC-280,,"Viimeistely SM-viestiin. Ennen paukkua sain tietää että aloituspätkää ois huomenna. Siksi kuvittelin vetäväni letkaa. Aika vanhoja pitää ukkojen olla etteivät huomenna tule ohi. 
+
+Doman vetäsin vahingossa eilisen päälle, mutta näitä sattuu digitaalimaailmassa:
+
+http://www.suunnistus.muuankarski.org/doma/show_map.php?user=markus&map=331",
+2014-09-21,11,Orienteering,,,00:43:41,,,,,,00:43:41,6.0,74.0,5.0,,,,,,,,,,,,INOV-8 OROC-280,,"SM-viesti Nastolassa. Hyvät juoksut kaikilta. Vajaat kolme minuuttia mitaliin. Hyvin roikuin mukana ja vielä lopussa tein hyvän oman ratkaisun, joka kuitenkin päättyi viimeisellä ""suunnistusrastilla"" reilun minuutin virheeseen. Voi ku ehtis harjotella.
+
+Tulokset: http://users.kymp.net/timoharju/TP/SMvR214_tu.htm
+Doma: http://www.suunnistus.muuankarski.org/doma/show_map.php?user=markus&map=332",
+2014-09-23,20,Orienteering,,,00:56:37,,,,,00:40:37,00:16:00,9.039,168.0,4.28,,,,,,,,,,,,INOV-8 OROC-280,,"Yöreeni Espoorasteilla Leppävaarassa. Unohtu kompassit kotiin, niin meni näpertelyksi. Ihan hyvä sillä vaan yksi isompi yli minuutin pummi tuli. Silmät vuoti vettä ja viikonloppu painoi jaloissa, mutta kyllä vielä tullaan lauantaina. Matkana näytti siellä olevan vain reilu 8km.
+
+doma: http://www.suunnistus.muuankarski.org/doma/show_map.php?user=markus&map=341",
+2014-09-24,,Note,,,,,,,,,,,,,,,,,,,,,1,,,,,"Velipoika vinkkasi XXL-kaupan avajaisista itiksessä ja sinne lähdettiin pojan kanssa heti aamulla. En oo koskaan käynyt edes hulluilla päivillä ja jonottamisestakin oon vaan lukenu kirjoista neuvostoliitossa, mutta nyt tuli koettua se kotosuomessa. Eka 1.15 sisälle, josta 20 minsaa viimassa. Sitten vartti ostoskelua ja 45 minsaa kassajonossa. JA kaupassa myyjiä oli enemmän kuin asiakkaita, mutta MIKÄÄN ei vaan toiminut. Vittuilivat siinä kun yritin pitää sätkivää ja huutavaa lasta sylissä. Selkä ihan paskana ja hermot. kotiin ostin kahdet 90 sentin rukkaset. Ei ikinä tuohon kauppaan ja aina vaan kaikki netistä. enkä ollut ainoa jolta meni hermot.",
+2014-09-25,,Note,,,,,,,,,,,,,,,,,,,,,1,,,,,selkä ei oo häävi,
+2014-09-26,21,Orienteering,,,00:19:48,,,,00:19:48,,,2.539,40.0,3.0,,,,,,,,,,,,VJ Bold -11,,"Viimeistelyharjoitus lähikallioilla. Keskittyminen ei ihan rautaa, koska hieman hutera olo kaikesta koodaamisesta ja silmät aristi kirkasta valoa. Sai myös vähän varoa ettei hyppää jonkun kodittoman päälle jyrkänteeltä. Selkä vielä kipeä keskiviikon jonotuksesta. Boldit on hyvät kengät juosta metsässä. Inovit tuntuu tarralenkkareilta niihin verrattuna.",
+2014-09-27,21,Orienteering,race,,01:19:00,,,,,,01:19:00,8.3,171.0,5.0,,,,,,,,,,,,INOV-8 OROC-280,,"Sm-yö Tanhuvaarassa Savonlinnassa. Nyt oli liian paha maasto mun kunnolle. Ehkä menneen viikon liian tehot söi ne pienet pohjatkin, sillä heti ykkösvälillä tuntui ettei tänään pysty yhtä hyökkäämään. Maasto oli niin risukkoista ja pusikkoa että tällä notkeudella olin aivan pulassa vaikka rastit löytyivätkin. kahdella helpoilla rastilla pikku virheet.
+
+http://www.suunnistus.muuankarski.org/doma/show_map.php?user=markus&map=345",
+2014-10-01,20,Running,,,01:17:15,,,,,01:17:15,,17.159,190.0,4.0,,,,,,,,,,,,Nike Wildhorse 2,,iltalenkki velipojan kanssa. Yllättävän hyväkuntoinen vaikka vasta toipumassa solisluuoperaatiosta.  Kisat painoi vielä.,
+2014-10-17,21,games,,,00:45:00,,,,00:45:00,,,,,3.0,,,,,,,,,,,,,,"Sulkapalloa velipojan kanssa. Hävisin kaikki 5 erää. Toinen voittaa juoksussa, toinen peleissä. 
+
+ <video width=""640"" height=""480"" controls>
+  <source src=""http://koti.kapsi.fi/~muuankarski/video/VID_20141017_212456773.mp4"" type=""video/mp4"">
+Your browser does not support the video tag.
+</video> 
+
+",
+2014-12-23,,Note,,,,,,,,,,,,,,,,,,,,,,1,,,,lentsu alkaa,
+2015-01-03,,Note,,,,,,,,,,,,,,,,,,,,,,1,,,,"lentsua edelleen.
+
+ja töitä. kohta lopetan työnteon ja sairastamisen ja alotan reenit.",
+2015-02-24,,walking,,,04:00:00,,,,04:00:00,,,25.0,,3.0,,,,,,,,,,,,,,"Aika paljon tullut käveltyä viime päivinä. Btw, aamupaino oli 70.2 sunnuntaina. Ollaan tultu SM-yöstä viis kiloa alas käymättä kertaakaan lenkillä.
+
+Josko saisin tällä viikolla oikein satelliittidataa ladattua juoksulenkiltä. Saas kattoa.",
+2015-03-07,10,cycling,,,01:14:58,,,01:14:58,,,,20.465,167.0,2.0,,,,,,,,,,,,SurlyStraggler s-speed 39*17,,"Eka kuntoilulenkki sitten SM-yön. Tarkoituksena oli ajaa <a href=""http://fi.wikipedia.org/wiki/Via_Appia"">Via Appia Anticaa</a> ja sitten hapuilla jotain reittiä jokeen tukien takaisin.
+
+Tie oli aikamoinen mukulakiviränni, jota tykitti loppumaton letka autoja ja turistibusseja. Vaikka on paksut kumet ja uus teräsrunko, niin aika tavalla rynkytti.
+
+Ja oon kyllä huonossa kunnossa. Vapun suunnistuskisoihin ois reilu kuukausi. Täytyy alkaa kyllä viikoittain käymään lenkillä.
+
+<h2>Pari kuvaa</h2>
+
+<img src=""http://koti.kapsi.fi/~muuankarski/rooma/kuvat/appia1.jpg""/>
+
+<img src=""http://koti.kapsi.fi/~muuankarski/rooma/kuvat/appia2.jpg""/>",
+2015-03-07,19,cycling,,,00:41:42,,,,,00:41:42,,15.768,105.0,4.0,,,,,,,,,,,,SurlyStraggler s-speed 39*17,,Reippaampi iltaveto ensin vastavirtaan ja vastatuuleen joen penkalla ja sitten paria tuntia myöhemmin luotisuoraan keskustan läpi. Erityisesti suosittelen katsomaan paluumatkan suorituskykyarvoja.,
+2015-03-07,14,cycling,,,01:10:00,,,,01:10:00,,,22.0,,3.0,,,,,,,,,,,,SurlyStraggler s-speed 39*17,,"päivälenkki joenrantaan, vatikaanin ympäri ja tutkimaan pamphili 
+puistoa ja sen naapurustoja. ",
+2015-03-08,8,Note,,,,,,,,,,,,,,,,,,,,,,,,,,"<a href=""https://www.youtube.com/watch?v=752TkWQ1Rag&feature=youtu.be"">BOYS OF YOGA Documentary Short //// The Truth </a>",
+2015-03-10,8,Running,,,00:55:00,,,,00:55:00,,,10.0,,3.0,,,,,,,,,,,,Nike Wildhorse 2,,Hiippailin Monteverdin kulmilla. Ei hullummat kulmat ja juoksun koko matkan,
+2015-03-14,13,cycling,,,00:11:13,00:11:13,,,,,,4.642,57.0,0.0,,,,,,,,,,,,Bullitt cargo,,Laitoin Bullittiin sähköt ja tässä käyrä kun vedin pelkällä sähköllä musiikkitalolta kotiin isojen mäkien yli. 1200w on enemmän ku mihin ite pystyy.,
+2015-03-18,19,cycling,,,00:42:50,,,00:42:50,,,,14.68,132.0,2.0,,,,,,,,,,,,SurlyStraggler s-speed 39*17,,Ilta-ajelua. Kun sain kotoa satelliittikellon mukaan ja tuli se ladattua. Nyt vois periaatteessa käydä ihan juoksemassa ajan kanssa.,
+2015-03-19,18,cycling,,,01:11:33,,,01:11:33,,,,19.792,193.0,2.0,,,,,,,,,,,,SurlyStraggler s-speed 39*17,,"Caffarellon puiston ja lähinaapurustojen tutkimista, josko sinne muuttais. Tuo puisto oli maatalousmaastoa, tosin ihan pimeässä piene usb-valon kanssa harhailin. Lampaita, kumpuilevaa pusikkoista maastoa ja siellä täällä temppeleitä tms. muistuttavia kivikasoja. Ja maan alla <a href=""http://fi.wikipedia.org/wiki/Rooman_katakombit"">katakombeja</a>. Vähän kalmanhajuista seutua kaikenkaikkiaan. ",
+2015-03-22,9,Running,,,00:44:30,,,,00:44:30,,,8.305,128.0,3.0,,,,,,,,,,,,Nike Wildhorse 2,,"Kävin hakemassa kännykän laturin töistä JUOSTEN. Sattuikin olemaan <a href=""http://www.maratonadiroma.it/"">Rooman marathoni</a> ja juoksin joen vartta ~4.30 ryhmän, jonka vauhti oli minulle sopivaa. Skouttasin hyviä pyöräreittejä keskustaan täältä monteverdestä, jos vaikka jonnekin tänne asettuis. Isoja on mäet, mutta onneksi fillareihin saa elektron.
+
+Jaa, no ei se oo ku 60metrin penkka tuosta joelta.",
+2015-03-24,8,cycling,,,00:13:24,,,,00:13:24,,,4.215,68.0,3.0,,,,,,,,,,,,SurlyStraggler s-speed 39*17,,Työmatkan profiilia asuinpaikkaoptimoinnin tueksi. Paitahihasillaan vetelin.,
+2015-03-24,22,cycling,,,00:16:49,,,,00:16:49,,,4.753,84.0,3.0,,,,,,,,,,,,SurlyStraggler s-speed 39*17,,heikompikuntonen ois tarvinnu vaihteet ja kevyemmän repun. paitahihasillaan jo tarkenee,
+2015-03-26,19,Running,,,00:44:43,,,,00:44:43,,,9.028,135.0,3.0,,,,,,,,,,,,Nike Wildhorse 2,,"Suoraviivanen juoksulenkki. Ilta oli jo pimentynyt kun pääsin jalkeille mutta <a href=""http://en.wikipedia.org/wiki/Villa_Doria_Pamphili"">Pamphilin puiston</a> portit oli vielä auki ja pääsin livahtamaan sisään. Erinomainen treenipaikka kuten kartoista (<a href=""http://koti.kapsi.fi/~muuankarski/rooma/suunnistuskartat/villa_pamphill2.jpg"">itä</a> ja <a href=""http://koti.kapsi.fi/~muuankarski/rooma/suunnistuskartat/villa_pamphill.jpg"">länsi</a> näkyy. Vappuna näillä rinteillä testataan myös apsun kevätkunto.",
+2015-03-28,,cycling,,,01:40:00,,,,01:40:00,,,35.0,,3.0,,,,,,,,,,,,SurlyStraggler s-speed 39*17,,"Euroma2 ostoskeskuksen sekä <a href=""http://fi.wikipedia.org/wiki/Esposizione_Universale_di_Roma"">EUR</a>:n alueella harhailua. Kaikki trial-taidot pelissä koko ajan. Motareilla reikiä tiessä ja 30 sentin kivetykset joka paikkaan. Hankin pidemmille matkoille helikopterin jos asun täällä pidempään.",
+2015-03-29,19,Running,,,01:21:00,,,,01:21:00,,,15.88,226.0,3.0,,,,,,,,,,,,Nike Wildhorse 2,,"Lenkit vaan pitenee. Kesäajan myötä myös puiston portit pidettiin tuntia pidempään auki ja juostua lajinomaisissa olosuhteissa kunnon lenkin. Nyt täytyy keskittyä hetki notkeuteen ja lihashuoltoon, tän kestävyyspuolen saa sitten viikossa riittävälle tasolle.",
+2015-03-29,11,cycling,,,01:20:00,,,,01:20:00,,,30.0,,3.0,,,,,,,,,,,,SurlyStraggler s-speed 39*17,,"<a href=""http://koti.kapsi.fi/~muuankarski/rooma/suunnistuskartat/borghese.jpg"">Villa Borghesen</a> ja <a href=""http://koti.kapsi.fi/~muuankarski/rooma/suunnistuskartat/villa_ada2.jpg"">Villa Adan</a> seutujen katsastamista. Hienot oli seudut, Villa Adassa vallitseva maastotyyppi Teerijärveltä tuttua pusikkoa. Borghesessa puolestaan taas hyvin sliipattua ja joka jannulla nippu selfie-tikkuja myynnissä",
+2015-04-13,,Running,,,00:40:00,,,,00:40:00,,,7.5,,3.0,,,,,,,,,,,,Nike Wildhorse 2,,"Perheen loma ja kaikenlaiset siihen liittyvät järjestelyt haitanneet kauden toisen juoksulenkin toimeenpanoa. Nyt illalla oli rakonen ja kävin kokeilemassa. Vanha jalkavaiva ilmoittelee kaiken töissä istumisen jälkeen taas, mutta pääsin juoksujalkaa takaisin kämpille. Hirveän heikkoa oli enkä tiedä millä keinoa pääsen vapun kisoihin mennessä kuntoon.",
+2015-04-18,13,cycling,,,04:55:00,,,,04:55:00,,,115.047,777.0,3.0,,,,,,,,,,,,SurlyStraggler s-speed 39*17,,"Täällä kitistiin määrästä niin aloin lappaamaan. Sippasin kahdesti mutta maaliin tulin hyvissä voimin. Kylältä pikkutielle pääseminen on vähän hankalampaa ku Karjaalla. <a href=""http://fi.wikipedia.org/wiki/Castel_Gandolfo"">Castel Gandolfo</a> oli komia paikka. Tuli Billnäs tai Patana mieleen.",
+2015-04-19,,Running,,,,,,,,,,,,0.0,,,,,,,,,,,,Nike Wildhorse 2,,"lisäsin kellosta datan tuohon alapuolelle
+
+Lähdin kokeilemaan josko jaksaisin vielä juosta. 8 kilsan kohdalla meno parani, lopussa vähän hyytyi. yritin juosta vähän runkonopeuden alle. pitäis varmaan juosta vielä hitaammin ja tasaisemmilla. tai ylipäätään juosta.",
+2015-04-19,18,Running,,,01:09:48,,,,01:09:48,,,13.868,229.0,3.0,,,,,,,,,,,,Nike Wildhorse 2,,,
+2015-04-22,,Note,,,,,,,,,,,,,,,,,,,,,,1,,,,tulin sairaaksi. törkeä pääkipu,
+2015-04-23,,Note,,,,,,,,,,,,,,,,,,,,,,1,,,,olen sairaana. onneksi ei ole kuntoa mikä voisi heiketä,
+2015-04-26,20,Running,,,00:39:35,,,00:39:35,,,,7.011,148.0,2.0,,,,,,,,,,,,Nike Wildhorse 2,,"Kokeilin lopettaa sairastamisen pienellä hölkällä. Sen verran jaksoin että uskallan mennä rasitusekg:hen viikolla. Tarvii todistuksen että pääsee ens viikonloppuna viivalle kun on <a href=""http://www.romeorimeeting.net/"">Rome Orienteering Meeting!</a>",
+2015-05-01,15,Orienteering,race,,00:30:52,,,,,00:30:52,,4.8,41.0,4.0,,,,,,,,,,,,Nike Wildhorse 2,,"Eka kisa. Pintakaasulla reilu minuutti kärkeen. No oikeesti vedin minkä pystyin. Huomenna metsään ja kärki kiinni.
+
+Huipuillakin oli paikoin ahdasta. Roomalaisilta puuttui kunnioitusta huippusuunnistusta kohtaan.
+
+<img src=""https://igcdn-photos-f-a.akamaihd.net/hphotos-ak-xpf1/t51.2885-15/11189537_642340482564061_643283611_n.jpg"" width=""500px""/>",
+2015-05-02,10,Orienteering,,,00:40:27,,,,,00:40:27,,5.777,93.0,4.0,,,,,,,,,,,,INOV-8 OROC-280,,"Karmea virhe. Nimittäin en ottanut rastimääritettä ja metsässä joka polunhaarassa oli rasti. Ja pummasin vielä ykkösellä rajusti ja sitten pummasin myös parilla muulla. Huiput ei törttöile vaan tulee  <a href=""https://instagram.com/p/2LPKJjAfLO/"">keulaan</a>",
+2015-05-03,9,Orienteering,,,00:26:46,,,,,,00:26:46,4.2,101.0,5.0,,,,,,,,,,,,INOV-8 OROC-280,,Kolmas kisa kotimaastossa Villa Pamphilissa. Otettiin AP:n kanssa osakilpailuvoitot ja Ari-Pekka samalla vei myös eliitin kokonaiskisan. Jäi hyvä maku ja täytyy nyt aloittaa harjoittelu roomalaissuunnistajien yhteislenkeillä.,
+2015-05-06,,Note,,,,,,,,,,,,,,,,,,,,,,,,,,"<a href=""http://muuankarski.kapsi.fi/kartat/index.php?user=Markus&categoryID=1&year=2015&filter=Rome&displayMode=overviewMap"">Rooman kisakartat Domassa</a>",
+2015-05-07,19,Running,,,00:53:23,,,,00:53:23,,,10.038,175.0,3.0,,,,,,,,,,,,Nike Wildhorse 2,,"Löysä iltalenkki pitkän työpäivän päätteeksi. Viikonlopun kisaputki painoi vielä jaloissa, etenkin oikea takareisi oli vähän kireä. Samoin kaikki muutkin lihakset, paitsi hermot ei ollu. Upea paikka Pamphilin puisto juosta ja päivän +31 olis sopivasta jäähtynyt parilla asteella. Viikonloppuna <a href=""https://goo.gl/maps/SXvLT"">vuorille kisoihin.</a>",
+2015-05-09,15,Running,,,01:23:33,,,00:30:00,00:30:00,00:23:33,,14.317,603.0,2.92,,,,,,,,,,,,Nike Wildhorse 2,,"Holkkä Monte Autoren huipulle. Lähtöpaikkakin kun oli korkealla, niin melko hidasta tassuttamista oli juoksu. Alamäkeen tuli kevyemmin  ja täytyy kehua nike wildhorse lenkkareiden märkäpitoa. Erinomaisen komeat maisemat.
+
+<img src=""https://igcdn-photos-f-a.akamaihd.net/hphotos-ak-xaf1/t51.2885-15/11236021_1631388747080637_1266385215_n.jpg""/>",
+2015-05-10,10,Orienteering,race,,00:56:27,,,,,,00:56:27,7.0,239.0,5.0,,,,,,,,,,,,INOV-8 OROC-280,,"Täysillä vedin, mutta silti pummasin. PAri harmittavaa rastiympyräkohellusta ja yksi isompi koukku. Oli hieno maasto, rata ja sää. Palkintoina oli viiniä formuloiden tapaan, mutta jäin niukasti pallilta.
+
+http://muuankarski.kapsi.fi/kartat/show_map.php?user=Markus&map=33",
+2015-05-10,8,Running,,,00:00:15,,,,00:00:15,,,3.0,,3.0,,,,,,,,,,,,Nike Wildhorse 2,,Oikea aamulenkki tiomilan tulosten selvittyä. ,
+2015-05-17,20,Running,,,00:26:09,,,,00:26:09,,,4.998,68.0,3.0,,,,,,,,,,,,Nike Wildhorse 2,,Laiska iltalenkki. Menee työhommat juoksuhommien edelle ny.,
+2015-05-19,20,cycling,,,00:14:48,,,,00:14:48,,,5.039,75.0,3.0,,,,,,,,,,,,SurlyStraggler s-speed 39*17,,"Lenkin jälkeen töistä kotiin paluureittiä. 75 metriä on climbbia. Tuntuu monesti vielä enemmältä, ainakin ostosten kanssa. Saispa sähköpyörän pian avuksi.",
+2015-05-19,18,Running,,,00:55:56,,,,00:55:56,,,11.0,,3.0,,,,,,,,,,,,Nike Wildhorse 2,,Rooman nuorten suunnistajien tiistain vetoharjoitus. En ottanut vetoja. Hiljalleen hissuttelin. Treenaavat kolme kertaa viikkoon lähtien työpaikan portin edestä. Pakko ainakin kerran viikkoon mennä mukaan.,
+2015-05-23,20,Running,,,00:41:38,,,00:41:38,,,,7.757,127.0,2.0,,,,,,,,,,,,Nike Wildhorse 2,,"iltalenkki töihin kattomaan oisko rosessit tullu valmiiksi. rosesseit kehittyy, mutta kunto vaan heikkenee",
+2015-05-24,20,cycling,,,01:08:01,,,01:08:01,,,,23.59,345.0,2.0,,,,,,,,,,,,SurlyStraggler s-speed 39*17,,Sain työt viimein valmiiksi ja kävin vähän harhaiilemassa pyörän kanssa. Ei tuo hääviä oo tuolla hortoilla vaikka sunnuntai-iltana liikenne onkin rauhallisempaa. no selvisin ehjänä ja onneks kotinurkilla on parempi fillaroida.,
+2015-05-25,20,Running,,,00:44:13,,,00:20:00,00:24:13,,,8.243,120.0,2.55,,,,,,,,,,,,Nike Wildhorse 2,,"Ajattelin etten mee, mutta sitten tulikin että kyllä meen. Ei se kummasti kulkenut, mutta vähän. Apsu, oli Pamphilin portit kiinni kun tulin takas ja jouduin kiivetä parkour-tyyliin muurin yli.",
+2015-05-28,8,Yoga,,,00:20:00,,00:20:00,,,,,,,1.0,,,,,,,,,,,,barefoot - avojaloin,,no nyt! aurinkotervehdyksiä aamuauringon lämmössä. tekee kyllä niin kipeää ja on todella vaivalloista.,
+2015-05-28,20,Running,,,00:53:20,,00:23:20,,00:30:00,,,9.504,117.0,2.13,,,,,,,,,,,,Nike Wildhorse 2,,"Iltalenkki. jouduin kävelemään vartin parin kilsan jälkeen, mutta sitten taas lähti kulkemaan. viikonlopun kisoissa voi joutua puristamaan 110%.",
+2015-05-29,,Yoga,,,00:15:00,,,,00:15:00,,,,,3.0,,,,,,,,,,,,,,,
+2015-05-30,17,Orienteering,race,,00:18:58,,,,,,00:18:58,3.935,103.0,5.0,,,,,,,,,,,,Nike Wildhorse 2,,"Sprintti L'Aquilassa. Kartta seuraa myöhemmin. Kaks helppo virhettä. Aikamoinen aavekaupunki, joka siis hajosi 2009 maanjäristyksessä
+
+Doma: http://muuankarski.kapsi.fi/kartat/show_map.php?user=Markus&map=51",
+2015-05-30,,Yoga,,,00:15:00,,,,00:15:00,,,,,3.0,,,,,,,,,,,,,,,
+2015-05-31,11,Orienteering,race,,00:37:01,,,,,,00:37:01,4.631,116.0,5.0,,,,,,,,,,,,INOV-8 OROC-280,,"Keskimatkan kisa vuorilla <a href=""http://www.campofelice.it/"">Campo Felicen</a> lähellä. Oli hyvä juoksuvire ja suunnistuskin sujui, vaikka lähtö oli 1650m! Kahdella helpolla rastilla sitten tuli katkos kun luin jo jatkoa... aika upeita maastoja nämä ja hyviä kisoja.
+
+Doma: http://muuankarski.kapsi.fi/kartat/show_map.php?user=Markus&map=52",
+2015-06-01,8,Yoga,,,00:15:00,,,,00:15:00,,,,,3.0,,,,,,,,,,,,barefoot - avojaloin,,tulispa tapa tästä,
