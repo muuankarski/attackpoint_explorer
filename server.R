@@ -116,6 +116,44 @@ shinyServer(function(input, output, session) {
       
     })
     
+    
+    output$pace_bar <- renderPlot({
+      
+      dat <- data_import()
+      dat <- dat[dat$date >= input$timeFrame[1] & dat$date <= input$timeFrame[2],]
+      dat <- dat[dat$activity %in% input$activity,]
+      
+#       if (input$base_unit == "month"){
+#         
+#         dat$pace <- dat$time / dat$distance.km.         
+#         df <- dat %>% group_by(month_num,activity) %>% dplyr::summarise(mean_pace = mean(pace))
+#         df <- df[!is.na(df$mean_pace),]
+#       }
+#      if (input$base_unit == "year_month"){
+        
+        dat$pace <- dat$time / dat$distance.km.         
+        df <- dat %>% group_by(year,month_num,month,activity) %>% dplyr::summarise(mean_pace = mean(pace))
+        df <- df[!is.na(df$mean_pace),]
+        df$date <- paste(df$year,df$month_num,"01",sep="-")
+        df$date <- as.Date(df$date)
+        if (input$paceType == "km/h" ) df$mean_pace <- 60 / df$mean_pace
+        ylab <- "pace min/km"
+        if (input$paceType == "km/h" ) ylab <- "speed in km/h"
+        
+#      }
+      
+      
+      
+      ggplot(df, aes(x=date,y=mean_pace,color=month)) +
+        geom_point(size=4) +
+        facet_grid(~activity) +
+        labs(x="date",y=ylab) +
+        scale_color_manual(values=c("#0868ac","#7bccc4","#feb24c","#fd8d3c","#f03b20","#bd0026",
+                                    "#bd0026","#f03b20","#fd8d3c","#feb24c","#7bccc4","#0868ac")) +
+        theme_bw()
+      
+    })
+    
 })
 
 

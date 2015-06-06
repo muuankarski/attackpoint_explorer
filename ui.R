@@ -18,8 +18,9 @@ shinyUI(fluidPage(
   tags$a(href="https://github.com/muuankarski/attackpoint_explorer","Source code in Github"),
   tags$hr(),
     fluidRow(
-    shiny::column(6, radioButtons("dataType", "Own or test data",inline = FALSE, choices = list("Markus test data","Upload Own"))),
-    shiny::column(6, uiOutput("file_input"))
+    shiny::column(4, radioButtons("dataType", "Own or test data",inline = FALSE, choices = list("Markus test data","Upload Own"))),
+    shiny::column(4, uiOutput("file_input")),
+    shiny::column(4, radioButtons("paceType", "Show pace/speed",inline = FALSE, choices = list("min/km","km/h")))
     ),
   fluidRow(
     shiny::column(4, uiOutput("activity_list")),
@@ -31,8 +32,8 @@ shinyUI(fluidPage(
   tabsetPanel(tabPanel("Table", DT::dataTableOutput("mytable")),
               tabPanel("Scatterplots", 
                       plotOutput("scatter",
-                                 height="600px", width="auto"))
-              #tabPanel("Top 30 items", plotOutput("export_Barchart",height="600px", width="auto"))
+                                 height="600px", width="auto")),
+              tabPanel("Monthly mean pace/speed", plotOutput("pace_bar",height="600px", width="auto"))
 )
 )
 )
