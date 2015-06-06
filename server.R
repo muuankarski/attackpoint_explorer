@@ -10,14 +10,27 @@ library(lubridate)
 shinyServer(function(input, output, session) {
   
   
+  output$file_input <- renderUI({
+    
+    
+    if (input$dataType == "Markus test data") {
+      opts <- tags$h4("Using Markus extreme training data")
+    } else {
+      opts <- fileInput('file1', 'Choose CSV File', 
+                        accept=c('text/csv',
+                                 'text/comma-separated-values,text/plain',
+                                 '.csv'))
+    } 
+    list(opts)
+  })
   
   data_import <- reactive({
     
     if (input$dataType == "Markus test data") {
-      dat <- read.csv("data/log-8425-2010-06-06-2015-06-06.csv") 
+      load("data/log-8425-2010-06-06-2015-06-06.rda") 
     } else {
       inFile <- input$file1
-      dat <- read.csv(inFile$datapath)
+      dat <- read.csv(inFile$datapath, stringsAsFactors = FALSE)
     } 
     # date into dates
     dat$date <- as.character(dat$date)
@@ -36,20 +49,6 @@ shinyServer(function(input, output, session) {
     dat$time <- as.character(dat$time)
     dat$time <- lubridate::period_to_seconds(hms(dat$time))/60
     dat
-  })
-  
-  output$file_input <- renderUI({
-    
-    
-    if (input$dataType == "Markus test data") {
-      opts <- tags$h4("Using Markus extreme training data")
-    } else {
-      opts <- fileInput('file1', 'Choose CSV File', 
-                        accept=c('text/csv',
-                                 'text/comma-separated-values,text/plain',
-                                 '.csv'))
-    } 
-    list(opts)
   })
   
   ### --------------------------------------------------------------------- ###
@@ -123,14 +122,6 @@ shinyServer(function(input, output, session) {
       dat <- dat[dat$date >= input$timeFrame[1] & dat$date <= input$timeFrame[2],]
       dat <- dat[dat$activity %in% input$activity,]
       
-#       if (input$base_unit == "month"){
-#         
-#         dat$pace <- dat$time / dat$distance.km.         
-#         df <- dat %>% group_by(month_num,activity) %>% dplyr::summarise(mean_pace = mean(pace))
-#         df <- df[!is.na(df$mean_pace),]
-#       }
-#      if (input$base_unit == "year_month"){
-        
         dat$pace <- dat$time / dat$distance.km.         
         df <- dat %>% group_by(year,month_num,month,activity) %>% dplyr::summarise(mean_pace = mean(pace))
         df <- df[!is.na(df$mean_pace),]
@@ -140,7 +131,6 @@ shinyServer(function(input, output, session) {
         ylab <- "pace min/km"
         if (input$paceType == "km/h" ) ylab <- "speed in km/h"
         
-#      }
       
       
       
@@ -151,6 +141,40 @@ shinyServer(function(input, output, session) {
         labs(x="date",y=ylab) +
         scale_color_manual(values=c("#0868ac","#7bccc4","#feb24c","#fd8d3c","#f03b20","#bd0026",
                                     "#bd0026","#f03b20","#fd8d3c","#feb24c","#7bccc4","#0868ac")) +
+        theme_bw()
+      
+    })
+    
+    output$minutes_bar <- renderPlot({
+      
+      dat <- data_import()
+      dat <- dat[dat$date >= input$timeFrame[1] & dat$date <= input$timeFrame[2],]
+      
+      
+      df <- dat %>% group_by(year,month_num,month,activity) %>% dplyr::summarise(sum_time = sum(time))
+      df <- df[!is.na(df$sum_time),]
+      df$date <- paste(df$year,df$month_num,"01",sep="-")
+      df$date <- as.Date(df$date)
+      
+      ggplot(df, aes(x=date,y=sum_time,fill=activity)) +
+        geom_bar(stat="identity", position="stack") +
+        theme_bw()
+      
+    })
+    
+    output$distance_bar <- renderPlot({
+      
+      dat <- data_import()
+      dat <- dat[dat$date >= input$timeFrame[1] & dat$date <= input$timeFrame[2],]
+      
+      
+      df <- dat %>% group_by(year,month_num,month,activity) %>% dplyr::summarise(sum_distance = sum(distance.km.))
+      df <- df[!is.na(df$sum_distance),]
+      df$date <- paste(df$year,df$month_num,"01",sep="-")
+      df$date <- as.Date(df$date)
+      
+      ggplot(df, aes(x=date,y=sum_distance,fill=activity)) +
+        geom_bar(stat="identity", position="stack") +
         theme_bw()
       
     })

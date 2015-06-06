@@ -30,10 +30,12 @@ shinyUI(fluidPage(
   tags$hr(),
   
   tabsetPanel(tabPanel("Table", DT::dataTableOutput("mytable")),
-              tabPanel("Scatterplots", 
+              tabPanel("Distance vs. duration Scatterplots", 
                       plotOutput("scatter",
                                  height="600px", width="auto")),
-              tabPanel("Monthly mean pace/speed", plotOutput("pace_bar",height="600px", width="auto"))
+              tabPanel("Monthly mean pace/speed", plotOutput("pace_bar",height="600px", width="auto")),
+              tabPanel("Monthly training minutes per activity", plotOutput("minutes_bar",height="600px", width="auto")),
+              tabPanel("Monthly training distance per activity", plotOutput("distance_bar",height="600px", width="auto"))
 )
 )
 )
