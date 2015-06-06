@@ -1,24 +1,24 @@
 library(shiny)
-library(shinyBS)
+#library(shinyBS)
 library(DT)
 
 shinyUI(fluidPage(
   title = "Attackpoint explorer",
   
-  tags$head(
-    # Include our custom CSS
-    #includeCSS("styles.css"),
-    # Hide the red error messages!!!
-    tags$style(type="text/css",
-              ".shiny-output-error { visibility: hidden; }",
-               ".shiny-output-error:before { visibility: hidden; }"
-    )
-  ), 
+#   tags$head(
+#     # Include our custom CSS
+#     #includeCSS("styles.css"),
+#     # Hide the red error messages!!!
+#     tags$style(type="text/css",
+#               ".shiny-output-error { visibility: hidden; }",
+#                ".shiny-output-error:before { visibility: hidden; }"
+#     )
+#   ), 
   tags$h2("Attackpoint explorer"),
   tags$a(href="https://github.com/muuankarski/attackpoint_explorer","Source code in Github"),
   tags$hr(),
     fluidRow(
-    shiny::column(6, radioButtons("dataType", "Which dataset",inline = FALSE, choices = list("Use Markus","Upload Own"))),
+    shiny::column(6, radioButtons("dataType", "Own or test data",inline = FALSE, choices = list("Markus test data","Upload Own"))),
     shiny::column(6, uiOutput("file_input"))
     ),
   fluidRow(

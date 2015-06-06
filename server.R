@@ -2,18 +2,7 @@ library(dplyr)
 library(tidyr)
 library(ggplot2)
 library(scales)
-library(grid)
-library(maptools)
-library(sp)
-library(rgeos)
-library(plyr)
-library(geosphere)
-#library(extrafont)
-#loadfonts()
 library(stringr)
-library(rgdal)
-library(grid)
-library(gridExtra)
 library(lubridate)
 
 
@@ -24,7 +13,7 @@ shinyServer(function(input, output, session) {
   
   data_import <- reactive({
     
-    if (input$dataType == "Use Markus") {
+    if (input$dataType == "Markus test data") {
       dat <- read.csv("data/log-8425-2010-06-06-2015-06-06.csv") 
     } else {
       inFile <- input$file1
@@ -52,7 +41,7 @@ shinyServer(function(input, output, session) {
   output$file_input <- renderUI({
     
     
-    if (input$dataType == "Use Markus") {
+    if (input$dataType == "Markus test data") {
       opts <- tags$h4("Using Markus extreme training data")
     } else {
       opts <- fileInput('file1', 'Choose CSV File', 
@@ -117,13 +106,12 @@ shinyServer(function(input, output, session) {
       
       ggplot(dat, aes(x=time,y=distance.km.,color=month,group=1)) +
         geom_point(size=3) + 
-        theme(legend.position = "top") +
-        facet_grid(year~activity, scales = "free_y") +
+        facet_grid(year~activity) +
         geom_smooth(method="loess") +
         labs(x="Exercise duration",y="Exercise distance") +
         theme(axis.text.x = element_text(angle = 45)) +
-        scale_color_manual(values=c("#ffffb2","#fed976","#feb24c","#fd8d3c","#f03b20","#bd0026",
-                                    "#bd0026","#f03b20","#fd8d3c","#feb24c","#fed976","#ffffb2")) +
+        scale_color_manual(values=c("#0868ac","#7bccc4","#feb24c","#fd8d3c","#f03b20","#bd0026",
+                                    "#bd0026","#f03b20","#fd8d3c","#feb24c","#7bccc4","#0868ac")) +
         theme_bw()
       
     })
