@@ -144,9 +144,10 @@ shinyServer(function(input, output, session) {
       
       
       
-      ggplot(df, aes(x=date,y=mean_pace,color=month)) +
+      ggplot(df, aes(x=date,y=mean_pace,color=month,group=activity)) +
         geom_point(size=4) +
         facet_grid(~activity) +
+        geom_smooth(method="loess") +
         labs(x="date",y=ylab) +
         scale_color_manual(values=c("#0868ac","#7bccc4","#feb24c","#fd8d3c","#f03b20","#bd0026",
                                     "#bd0026","#f03b20","#fd8d3c","#feb24c","#7bccc4","#0868ac")) +
