@@ -15,6 +15,7 @@ shinyUI(fluidPage(
     )
   ), 
   tags$h2("Attackpoint explorer"),
+  tags$a(href="https://github.com/muuankarski/attackpoint_explorer","Source code in Github"),
   tags$hr(),
     fluidRow(
     shiny::column(6, radioButtons("dataType", "Which dataset",inline = FALSE, choices = list("Use Markus","Upload Own"))),
@@ -27,7 +28,7 @@ shinyUI(fluidPage(
   ),
   tags$hr(),
   
-  tabsetPanel(tabPanel("Taulukko", DT::dataTableOutput("mytable")),
+  tabsetPanel(tabPanel("Table", DT::dataTableOutput("mytable")),
               tabPanel("Scatterplots", 
                       plotOutput("scatter",
                                  height="600px", width="auto"))

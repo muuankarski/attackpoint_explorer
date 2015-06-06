@@ -53,7 +53,7 @@ shinyServer(function(input, output, session) {
     
     
     if (input$dataType == "Use Markus") {
-      opts <- helpText("Using Markus extreme training data")
+      opts <- tags$h4("Using Markus extreme training data")
     } else {
       opts <- fileInput('file1', 'Choose CSV File', 
                         accept=c('text/csv',
