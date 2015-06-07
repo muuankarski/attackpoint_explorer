@@ -34,8 +34,10 @@ shinyUI(fluidPage(
                       plotOutput("scatter",
                                  height="600px", width="auto")),
               tabPanel("Monthly mean pace/speed", plotOutput("pace_bar",height="600px", width="auto")),
-              tabPanel("Monthly training minutes per activity", plotOutput("minutes_bar",height="600px", width="auto")),
-              tabPanel("Monthly training distance per activity", plotOutput("distance_bar",height="600px", width="auto"))
+              tabPanel("Monthly training minutes per activity", plotOutput("minutes_bar_monthly",height="600px", width="auto")),
+              tabPanel("Monthly training distance per activity", plotOutput("distance_bar_monthly",height="600px", width="auto")),
+              tabPanel("Weekly training minutes per activity", plotOutput("minutes_bar_weekly",height="600px", width="auto")),
+              tabPanel("Weekly training distance per activity", plotOutput("distance_bar_weekly",height="600px", width="auto"))
 )
 )
 )

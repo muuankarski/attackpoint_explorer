@@ -5,6 +5,14 @@ library(scales)
 library(stringr)
 library(lubridate)
 
+col24 <-  c("#89C5DA", "#DA5724", "#74D944", "#CE50CA", "#3F4921", "#C0717C", "#CBD588", "#5F7FC7", 
+            "#673770", "#D3D93E", "#38333E", "#508578", "#D7C1B1", "#689030", "#AD6F3B", "#CD9BCD", 
+            "#D14285", "#6DDE88", "#652926", "#7FDCC0", "#C84248", "#8569D5", "#5E738F", "#D1A33D", 
+            "#8A7C64", "#599861","#89C5DA", "#DA5724", "#74D944", "#CE50CA", "#3F4921", "#C0717C", "#CBD588", "#5F7FC7", 
+            "#673770", "#D3D93E", "#38333E", "#508578", "#D7C1B1", "#689030", "#AD6F3B", "#CD9BCD", 
+            "#D14285", "#6DDE88", "#652926", "#7FDCC0", "#C84248", "#8569D5", "#5E738F", "#D1A33D", 
+            "#8A7C64", "#599861")
+
 
 
 shinyServer(function(input, output, session) {
@@ -40,6 +48,8 @@ shinyServer(function(input, output, session) {
     dat$month_num <- format(dat$date, "%m")
     # ectract Year
     dat$year <- format(dat$date, "%Y")
+    # ectract week number
+    dat$week <- format(dat$date, "%W")
     # order months 
     df <- dat[c("month","month_num")]
     df <- arrange(df[!duplicated(df[c("month")]),],month_num)
@@ -145,7 +155,7 @@ shinyServer(function(input, output, session) {
       
     })
     
-    output$minutes_bar <- renderPlot({
+    output$minutes_bar_monthly <- renderPlot({
       
       dat <- data_import()
       dat <- dat[dat$date >= input$timeFrame[1] & dat$date <= input$timeFrame[2],]
@@ -158,11 +168,46 @@ shinyServer(function(input, output, session) {
       
       ggplot(df, aes(x=date,y=sum_time,fill=activity)) +
         geom_bar(stat="identity", position="stack") +
-        theme_bw()
+        theme_bw() +
+        scale_fill_manual(values = col24)
       
     })
     
-    output$distance_bar <- renderPlot({
+    output$distance_bar_weekly <- renderPlot({
+      
+      dat <- data_import()
+      dat <- dat[dat$date >= input$timeFrame[1] & dat$date <= input$timeFrame[2],]
+      
+      
+      df <- dat %>% group_by(year,week,activity) %>% dplyr::summarise(sum_distance = sum(distance.km.))
+      df <- df[!is.na(df$sum_distance),]
+      
+      ggplot(df, aes(x=week,y=sum_distance,fill=activity)) +
+        geom_bar(stat="identity", position="stack") +
+        theme_bw() +
+        facet_grid(year~.) +
+        scale_fill_manual(values = col24)
+      
+    })
+    
+    output$minutes_bar_weekly <- renderPlot({
+      
+      dat <- data_import()
+      dat <- dat[dat$date >= input$timeFrame[1] & dat$date <= input$timeFrame[2],]
+      
+      
+      df <- dat %>% group_by(year,week,activity) %>% dplyr::summarise(sum_time = sum(time))
+      df <- df[!is.na(df$sum_time),]
+
+      ggplot(df, aes(x=week,y=sum_time,fill=activity)) +
+        geom_bar(stat="identity", position="stack") +
+        theme_bw() +
+        facet_grid(year~.) +
+        scale_fill_manual(values = col24)
+      
+    })
+    
+    output$distance_bar_monthly <- renderPlot({
       
       dat <- data_import()
       dat <- dat[dat$date >= input$timeFrame[1] & dat$date <= input$timeFrame[2],]
@@ -175,7 +220,8 @@ shinyServer(function(input, output, session) {
       
       ggplot(df, aes(x=date,y=sum_distance,fill=activity)) +
         geom_bar(stat="identity", position="stack") +
-        theme_bw()
+        theme_bw() +
+        scale_fill_manual(values = col24)
       
     })
     
