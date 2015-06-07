@@ -11,8 +11,11 @@ dashboardPage(skin = "black",
                   menuItem("Monthly summaries", tabName = "monthly", icon = icon("bar-chart")),
                   menuItem("Weekly summaries", tabName = "weekly", icon = icon("bar-chart")),
                   #menuItem("Sentiment analysis of comments", tabName = "sentiment", icon = icon("user-md")),
+                  #tag$hr(),
                   menuItem("Source code", icon = icon("github"), 
-                           href = "https://github.com/muuankarski/attackpoint_explorer")
+                           href = "https://github.com/muuankarski/attackpoint_explorer"),
+                  menuItem("Attackpoint", icon = icon("bicycle"), 
+                           href = "http://attackpoint.org/")
                 )
                 
                 
