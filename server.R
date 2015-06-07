@@ -6,8 +6,8 @@ library(ggplot2)
 library(scales)
 library(stringr)
 library(lubridate)
-library(tm)
-library(wordcloud)
+# library(tm)
+# library(wordcloud)
 
 
 col24 <-  c("#89C5DA", "#DA5724", "#74D944", "#CE50CA", "#3F4921", "#C0717C", "#CBD588", "#5F7FC7", 
